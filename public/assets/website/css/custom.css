@@ -222,10 +222,16 @@ img.lazy.img-fluid.f-logo.loading {
     position: absolute;
     top: 0;
 }
+.images-bx {
+    width: 122px;
+    height: 122px;
+    background: red;
+    border-radius: 50%;
+}
 
 .banner-sec:after {
     content: '';
-    background: url(../images/header-img-after.jpg);
+    background: url(../images/bg1.png);
     background-size: cover;
     background-position: 0 100%;
     background-repeat: no-repeat;
@@ -317,7 +323,7 @@ img.lazy.img-fluid.f-logo.loading {
     position: relative;
     margin-bottom: 260px;
     margin-top: 4px;
-    height: 100%;
+    height: 90vh;
 }
 
 

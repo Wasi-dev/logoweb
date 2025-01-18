@@ -93,7 +93,10 @@
             </div>
             <div class="col-lg-3 col-md-12">
                <div class="content-serv-box logo-content-box" data-aos="zoom-in" data-aos-duration="2000">
+                  <div class="images-bx">
                   <img src="public/assets/website/images/logo-serv-img-2.png" alt="" class="img-fluid" />
+                  </div>
+
                   <h3>Letter Based Logos</h3>
                   <p>This type of logo is based on typography instead of iconography. These logos with uniquely crafted
                      letters transmit messages effectively. These logos consist of graphical techniques to illustrate

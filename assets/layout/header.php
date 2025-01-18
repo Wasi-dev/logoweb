@@ -3,10 +3,10 @@
 <head>
 <link rel="icon" type="image/x-icon" href="https://ukagency.uk/assets/images/fav-icon.png"/>
 
-          <title>$25 Custom Logo Design – 75% Off Logo Design - Award Winning Logo Design Company </title>
+<title>$25 Custom Logo Design – 75% Off Logo Design - Award Winning Logo Design Company </title>
     <meta name="description" content="Hire A Professional logo designers from Award winning logo design company and get 75% Off Entire Order.">
       <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-          <link rel="stylesheet" type="text/css" href="public/assets/website/css/plugin.css">
+ <link rel="stylesheet" type="text/css" href="public/assets/website/css/plugin.css">
       <link href="../stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
       <link rel="stylesheet" type="text/css" href="assets/js/animate.min.html">
       <link rel="stylesheet" type="text/css" href="public/assets/website/css/custom.css">
