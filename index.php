@@ -1,3 +1,4 @@
+<?php include'assets/layout/header.php' ?>
       <section class="banner-sec">
     <span></span>
     <div class="header-slider">
