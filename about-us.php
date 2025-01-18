@@ -301,20 +301,7 @@
       </div>
    </div>
 </section>
-<section class="awards-sec">
-   <div class="container">
-      <div class="awards-head-box" data-aos="fade-down" data-aos-duration="2000">
-         <h2>awards & recognitions</h2>
-      </div>
-      <div class="awards-img-box awards-responsive-slider">
-         <img class="img-fluid lazy" src="assets/img/award-img-1.png" />
-         <img class="img-fluid lazy" src="assets/img/award-img-2.png" />
-         <img class="img-fluid lazy" src="assets/img/award-img-3.png" />
-         <img class="img-fluid lazy" src="assets/img/award-img-4.png" />
-         <img class="img-fluid lazy" src="assets/img/award-img-5.png=" />
-      </div>
-   </div>
-</section>
+
 <section class="creation-sec">
    <div class="column_lines">
       <div class="column"></div>
@@ -473,20 +460,7 @@
       </div>
    </div>
 </section>
-<section class="awards-sec">
-   <div class="container">
-      <div class="awards-head-box" data-aos="fade-down" data-aos-duration="2000">
-         <h2>awards & recognitions</h2>
-      </div>
-      <div class="awards-img-box awards-responsive-slider">
-         <img class="img-fluid lazy" src="assets/img/award-img-1.png" />
-         <img class="img-fluid lazy" src="assets/img/award-img-2.png" />
-         <img class="img-fluid lazy" src="assets/img/award-img-3.png" />
-         <img class="img-fluid lazy" src="assets/img/award-img-4.png" />
-         <img class="img-fluid lazy" src="assets/img/award-img-5.png=" />
-      </div>
-   </div>
-</section>
+
 <section class="creation-sec">
    <div class="column_lines">
       <div class="column"></div>

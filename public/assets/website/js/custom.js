@@ -17,7 +17,7 @@ $('.service-slider .owl-carousel').owlCarousel({
     dots: false,
     autoplay: true,
     autoplayTimeout: 4000,
-    navText: ["<img src='assets/img/serv-slider-prev-img.png'>", "<img src='assets/img/serv-slider-next-img.png'>"],
+    navText: ["<img src='assets/img/left-arrow.png'>", "<img src='assets/img/arrow-right.png'>"],
     responsive: {
         0: {
             items: 1
@@ -65,7 +65,7 @@ $('.package-slider-box .owl-carousel').owlCarousel({
     loop: true,
     margin: 10,
     nav: true,
-    navText: ["<img src='assets/img/package-prev-img.png'>", "<img src='assets/img/package-next-img.png'>"],
+    navText: ["<img src='assets/img/left-arrow.png'>", "<img src='assets/img/arrow-right.png'>"],
     dots: false,
     responsive: {
         0: {
@@ -90,7 +90,7 @@ $('.creation-slider .owl-carousel').owlCarousel({
     nav: true,
     autoplay: true,
     autoplayTimeout: 4000,
-    navText: ["<img src='assets/img/creation-prev-img.png'>", "<img src='assets/img/creation-next-img.png'>"],
+    navText: ["<img src='assets/img/left-arrow.png'>", "<img src='assets/img/arrow-right.png'>"],
     dots: false,
     responsive: {
         0: {
