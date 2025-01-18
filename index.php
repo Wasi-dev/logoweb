@@ -117,7 +117,7 @@
              <div class="item">
                 <a href="seo-services.php">
                    <div class="serv-main-box">
-                      <img class="img-fluid lazy" src="assets/img/serv-img-4.png" alt="" />
+                      <img class="img-fluid lazy" src="assets/img/animation1.gif" alt="" />
                       <h3>SEO</h3>
                       <p>Uk agency is trusted by hundreds of customers as a full-service Search Engine Optimization agency that provides stunning services to boost search engine ranking. You can get custom SEO services that fit your brand and generate traffic for high conversions.</p>
                    </div>
@@ -126,7 +126,7 @@
              <div class="item">
                 <a href="e-commerce.php">
                    <div class="serv-main-box">
-                      <img class="img-fluid lazy" src="assets/img/serv-img-3.png"  alt="" />
+                      <img class="img-fluid lazy" src="assets/img/animation2.gif"  alt="" />
                       <h3>E-Commerce</h3>
                       <p>	UK Agency offer e-commerce services, redesigning, and blogs that are needed to advance your business heights. We aim to build a digital brand for you successfully to improve the overall services.</p>
                    </div>
@@ -135,7 +135,7 @@
              <div class="item">
                 <a href="branding.php">
                    <div class="serv-main-box">
-                      <img class="img-fluid lazy" src="assets/img/serv-img-1.png" alt="" />
+                      <img class="img-fluid lazy" src="assets/img/brand.jpg" alt="" />
                       <h3>Branding</h3>
                       <p>	We are providing premium branding services that are well designed and fulfill the creative marketing objectives of our customers, which is the primary way of engaging potential clients.</p>
                    </div>
