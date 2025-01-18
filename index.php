@@ -108,7 +108,7 @@
              <div class="item">
                 <a href="web-design.php">
                    <div class="serv-main-box">
-                      <img class="img-fluid lazy" src="assets/img/serv-img-6.png"  alt="" />
+                      <img class="img-fluid lazy" src="assets/img/development.png"  alt="" />
                       <h3>Web Design & Development</h3>
                       <p>	Our skilled team, after going into each detail, provides a website design that helps brands and businesses to convert a website to sales, leads, and calls. Our web designing services are specifically designed to grow your business and leave an everlasting impression.</p>
                    </div>
@@ -117,7 +117,7 @@
              <div class="item">
                 <a href="seo-services.php">
                    <div class="serv-main-box">
-                      <img class="img-fluid lazy" src="assets/img/serv-img-4.png" alt="" />
+                      <img class="img-fluid lazy" src="assets/img/seo.png" alt="" />
                       <h3>SEO</h3>
                       <p>Uk agency is trusted by hundreds of customers as a full-service Search Engine Optimization agency that provides stunning services to boost search engine ranking. You can get custom SEO services that fit your brand and generate traffic for high conversions.</p>
                    </div>
@@ -135,7 +135,7 @@
              <div class="item">
                 <a href="branding.php">
                    <div class="serv-main-box">
-                      <img class="img-fluid lazy" src="assets/img/serv-img-1.png" alt="" />
+                      <img class="img-fluid lazy" src="assets/img/brand.png" alt="" />
                       <h3>Branding</h3>
                       <p>	We are providing premium branding services that are well designed and fulfill the creative marketing objectives of our customers, which is the primary way of engaging potential clients.</p>
                    </div>

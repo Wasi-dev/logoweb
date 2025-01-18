@@ -577,7 +577,7 @@ section.services-sec {
 }
 
 .service-slider .owl-carousel .owl-item img {
-    width: unset;
+    width: 127px;
     display: block;
     margin: 0 auto;
 }
