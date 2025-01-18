@@ -70,28 +70,28 @@
    </div>
 </section>
 <script>
-var dtm = window.parent.document.createElement('script'); dtm.type="text/javascript"; dtm.id = 'ze-snippet'; dtm.src='https://static.zdassets.com/ekr/snippet.js?key=576f10a8-8790-4dbb-afaa-b74e41bb6466'; var d = window.parent.document.getElementsByTagName('head')[0]; d.appendChild(dtm); var dtmf = window.parent.document.createElement('script'); dtmf.type="text/javascript"; dtmf.id = '_adobe_dtm_script_footer_tag'; dtmf.text='_satellite.pageBottom();'; var bd = window.parent.document.getElementsByTagName('body')[0]; bd.appendChild(dtmf);
+// var dtm = window.parent.document.createElement('script'); dtm.type="text/javascript"; dtm.id = 'ze-snippet'; dtm.src='https://static.zdassets.com/ekr/snippet.js?key=576f10a8-8790-4dbb-afaa-b74e41bb6466'; var d = window.parent.document.getElementsByTagName('head')[0]; d.appendChild(dtm); var dtmf = window.parent.document.createElement('script'); dtmf.type="text/javascript"; dtmf.id = '_adobe_dtm_script_footer_tag'; dtmf.text='_satellite.pageBottom();'; var bd = window.parent.document.getElementsByTagName('body')[0]; bd.appendChild(dtmf);
 	
-	 window.onload = function(){
-       setTimeout(function(){
-          setButtonURL();
-       }, 0);
-    };
+// 	 window.onload = function(){
+//        setTimeout(function(){
+//           setButtonURL();
+//        }, 0);
+//     };
 
-    function setButtonURL() {
-        $zopim.livechat.window.show();
-    }
-    function toggleChat() {
-        $zopim.livechat.window.show();
-    }
+//     function setButtonURL() {
+//         $zopim.livechat.window.show();
+//     }
+//     function toggleChat() {
+//         $zopim.livechat.window.show();
+//     }
 
-window.$zopim||function(a,d){
-var b=$zopim=function(a){b._.push(a)},c=b.s=a.createElement(d);
-a=a.getElementsByTagName(d)[0];
-b.set=function(a){b.set._.push(a)};b._=[];b.set._=[];c.async=!0;c.setAttribute("charset","utf-8");c.src="";b.t=+new Date;c.type="text/javascript";a.parentNode.insertBefore(c,a)}
-(document,"script");
+// window.$zopim||function(a,d){
+// var b=$zopim=function(a){b._.push(a)},c=b.s=a.createElement(d);
+// a=a.getElementsByTagName(d)[0];
+// b.set=function(a){b.set._.push(a)};b._=[];b.set._=[];c.async=!0;c.setAttribute("charset","utf-8");c.src="";b.t=+new Date;c.type="text/javascript";a.parentNode.insertBefore(c,a)}
+// (document,"script");
 
-$zopim(function(){function a(a){1<=a&&$zopim.livechat.window.show()}$zopim.livechat.setOnUnreadMsgs(a)});
+// $zopim(function(){function a(a){1<=a&&$zopim.livechat.window.show()}$zopim.livechat.setOnUnreadMsgs(a)});
 
 </script>
 

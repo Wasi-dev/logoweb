@@ -957,7 +957,7 @@ span.cht_clr {
     /* background-image: linear-gradient(to right bottom, #413e59, #3e3b53, #3b384d, #383648, #353342); */
     padding: 40px 20px;
     border-radius: 8px;
-    background-image: linear-gradient(to right bottom, #ef7d00, #ed7c00, #d94f01, #e5480c, #ee3300);
+    background-image: linear-gradient(to right bottom, #000000, #2c2c2c, #4b4b4b, #e63946, #b22222);
     border: 1px solid transparent;
 }
 
@@ -4109,7 +4109,8 @@ section.banner_area.combo_detail_sec {
 .floatingform-sec .outer-show {
     width: 50px;
     z-index: 999;
-    background: linear-gradient(to right bottom, #ef7d00, #ed7c00, #d94f01, #e5480c, #ee3300);
+    background: linear-gradient(to right bottom, #000000, #2c2c2c, #4b4b4b, #e63946, #b22222)
+    ;
     height: 220px;
     cursor: pointer;
     box-shadow: 0px 0px 40px #00000026 !important;
@@ -4186,7 +4187,7 @@ section.banner_area.combo_detail_sec {
 
 .floatingform-sec .banner-form {
     width: 400px;
-    background: linear-gradient(to right bottom, #ef7d00, #ed7c00, #d94f01, #e5480c, #ee3300);
+    background: linear-gradient(to right bottom, #000000, #2c2c2c, #4b4b4b, #e63946, #b22222)    ;
     top: -90px;
     /* border: 1px solid #fff; */
     border-left: 0;
