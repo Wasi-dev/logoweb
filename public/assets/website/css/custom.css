@@ -164,7 +164,7 @@ img.lazy.img-fluid.f-logo.loading {
     height: 94px;
 }
 .navbar-box {
-    background-color: #fff;
+    background-color: #000;
     position: relative;
     padding: 0 10px;
     z-index: 5;
@@ -184,7 +184,7 @@ img.lazy.img-fluid.f-logo.loading {
     font-family: 'Ubuntu', sans-serif;
     text-transform: uppercase;
     font-size: 14px;
-    color: #000000;
+    color: #fff;
     padding: 0 9px;
     font-weight: 500;
     margin: 0;
@@ -192,15 +192,15 @@ img.lazy.img-fluid.f-logo.loading {
 
 .nav-list-box a:hover {
     text-decoration: none;
-    color: #ed7c00;
+    color: #ff0000;
 }
 
 .btn-qoute {
-    border: 1px solid #ed7c00;
+    border: 1px solid #BE1E2D;
     padding: 5px 25px;
     margin: 0;
     text-transform: capitalize;
-    color: #ed7c00;
+    color: #fff;
     font-size: 16px;
     border-radius: 30px;
     font-weight: 600;
@@ -208,7 +208,7 @@ img.lazy.img-fluid.f-logo.loading {
 
 .btn-qoute:hover {
     color: #fff;
-    background-image: linear-gradient(to right bottom, #ef7d00, #ed7c00, #d94f01, #e5480c, #ee3300);
+    background-image: linear-gradient(to right bottom, #000000, #343434d9, #000, #BE1E2D, #ff0000);
 }
 
 .banner-sec:before {
@@ -590,7 +590,7 @@ section.services-sec {
 }
 
 .serv-main-box:hover {
-    background-image: linear-gradient(to right bottom, #ef7d00, #ed7c00, #d94f01, #e5480c, #ee3300);
+    background-image: linear-gradient(to right bottom, #000000, #343434d9, #000, #BE1E2D, #ff0000);
     -webkit-box-shadow: 0px 0px 46px -15px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 0px 0px 46px -15px rgba(0, 0, 0, 0.75);
     box-shadow: 0px 0px 46px -15px rgba(0, 0, 0, 0.75);
@@ -957,7 +957,7 @@ span.cht_clr {
     /* background-image: linear-gradient(to right bottom, #413e59, #3e3b53, #3b384d, #383648, #353342); */
     padding: 40px 20px;
     border-radius: 8px;
-    background-image: linear-gradient(to right bottom, #000000, #2c2c2c, #4b4b4b, #e63946, #b22222);
+    background-image: linear-gradient(to right bottom, #000000, #343434d9, #000, #BE1E2D, #ff0000);
     border: 1px solid transparent;
 }
 
@@ -974,7 +974,7 @@ span.cht_clr {
 .packtitles .fright {
     position: absolute;
     right: -20px;
-    background-color: #000;
+    background-color: #fff;
     text-align: center;
     padding: 4px 4px;
 }
@@ -989,14 +989,14 @@ span.cht_clr {
     height: 0;
     border-top: 25px solid transparent;
     border-bottom: 22px solid transparent;
-    border-left: 18px solid #000;
+    border-left: 18px solid #fff;
     transform: rotate(180deg);
     top: 0px;
 }
 
 .packtitles .fright h5 {
     font-size: 16px;
-    color: #fff;
+    color: #000;
     margin: 0;
     font-weight: 500;
 }
@@ -1005,7 +1005,7 @@ span.cht_clr {
     text-decoration: line-through;
     display: block;
     font-size: 23px;
-    color: #fff;
+    color: #000;
 }
 
 .package-pr h3 {
@@ -1060,7 +1060,11 @@ span.cht_clr {
     align-items: center;
     justify-content: space-between;
 }
-
+.btn-order:hover {
+transform: scale(1.1);
+transition: all ease-in-out;
+color: white !important;
+}
 .btn-order {
     font-size: 16.5px;
     color: #fff;
@@ -1130,7 +1134,7 @@ span.cht_clr img {
 .package-main-box:hover .btn-order {
     color: #fff;
     border: 1px solid #c10046;
-    background-image: linear-gradient(to right bottom, #ef7d00, #ed7c00, #d94f01, #e5480c, #ee3300);
+    background-image: linear-gradient(to right bottom, #000000, #343434d9, #000, #BE1E2D, #ff0000);
 }
 
 .package-main-box:hover .cht_clr small {
@@ -1570,7 +1574,7 @@ button:focus {
     transform-origin: right top 0;
     font-family: 'Montserrat', sans-serif;
     right: 89%;
-    color: #000;
+    color: #BE1E2D;
     font-weight: bold;
     font-size: 120px;
     white-space: nowrap;
@@ -1601,7 +1605,8 @@ button:focus {
     transform-origin: right top 0;
     font-family: 'Montserrat', sans-serif;
     right: 89%;
-    color: #ef7d00;
+    color: #000
+    ;
     font-weight: bold;
     font-size: 120px;
     white-space: nowrap;
@@ -3580,7 +3585,7 @@ body.modal-open .main-wrapper {
     top: 90%;
     border: none;
     border-radius: 0px;
-    background-color: #fff;
+    background-color: #000;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
     /* opacity: 0.8; */
@@ -3600,15 +3605,15 @@ body.modal-open .main-wrapper {
     padding: 0;
     width: 90%;
     margin: 0 auto 10px auto;
-   /*  transition: all 0.25s ease-in-out; */
+    transition: all 0.25s ease-in-out;
     border-radius: 8px;
-    border: 1px solid #d54464;
+    border: 1px solid #fff;
 }
 
 .megamenu b {
     margin-left: 0;
     text-align: center;
-    color: #000;
+    color: #fff;
     font-size: 15px;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -3616,7 +3621,7 @@ body.modal-open .main-wrapper {
 }
 
 .megamenu p {
-    color: #000;
+    color: #fff;
     text-align: center;
     font-size: 13px;
     padding-bottom: 0;
@@ -3649,10 +3654,19 @@ body.modal-open .main-wrapper {
     height: 100%;
     padding-top: 30px;
 }
+.mega-links-box:hover b{
+    color: #fff !important;
+}
+/* .megamenu:hover b{
+    color: #fff !important;
+
+
+} */
 
 .megamenu a.dropdown-item:hover {
     box-shadow: 4px 4px 8px black;
-    background-image: linear-gradient(to right bottom, #ee7c00, #eb7700, #de4d05, #e6460b, #ed3501);
+    background-image: linear-gradient(to right bottom, #000000, #343434d9, #000, #BE1E2D, #ff0000);
+    color: white;
 }
 
 .dropdown-btn {
@@ -4109,7 +4123,7 @@ section.banner_area.combo_detail_sec {
 .floatingform-sec .outer-show {
     width: 50px;
     z-index: 999;
-    background: linear-gradient(to right bottom, #000000, #2c2c2c, #4b4b4b, #e63946, #b22222)
+    background: linear-gradient(to right bottom, #000000, #343434d9, #000, #BE1E2D, #ff0000)
     ;
     height: 220px;
     cursor: pointer;
@@ -4187,7 +4201,7 @@ section.banner_area.combo_detail_sec {
 
 .floatingform-sec .banner-form {
     width: 400px;
-    background: linear-gradient(to right bottom, #000000, #2c2c2c, #4b4b4b, #e63946, #b22222)    ;
+    background: linear-gradient(to right bottom, #000000, #343434d9, #000, #BE1E2D, #ff0000)    ;
     top: -90px;
     /* border: 1px solid #fff; */
     border-left: 0;
