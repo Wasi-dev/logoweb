@@ -564,20 +564,7 @@
     <a href="pricing.php" class="btn btn-view-pack">view all packages</a>
     </div>
 </section>
-<section class="awards-sec">
-    <div class="container">
-       <div class="awards-head-box" data-aos="fade-down" data-aos-duration="2000">
-          <h2>awards & recognitions</h2>
-       </div>
-       <div class="awards-img-box awards-responsive-slider">
-       <img class="img-fluid lazy"    src="assets/img/award-img-1.png"  alt=""/>
-          <img class="img-fluid lazy" src="assets/img/award-img-2.png"  alt=""/>
-          <img class="img-fluid lazy" src="assets/img/award-img-3.png"  alt=""/>
-          <img class="img-fluid lazy" src="assets/img/award-img-4.png"  alt=""/>
-          <img class="img-fluid lazy" src="assets/img/award-img-5.png"  alt=""/>
-       </div>
-    </div>
- </section>
+
  <?php include 'assets/layout/get-in-touch.php' ?>
 
 <section class="contact-us-sec">
