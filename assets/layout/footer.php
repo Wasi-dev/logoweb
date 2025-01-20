@@ -4,7 +4,7 @@
           <div class="col-lg-4 col-md-6">
              <div class="f-first-box">
                 <img class="lazy img-fluid f-logo" src="assets/img/logo.png"  alt="" />
-                <p>We are a fully in-house digital agency focusing on branding, marketing, web design and development with clients ranging from start-ups.</p>
+                <p>We are a comprehensive digital agency offering end-to-end solutions in branding, marketing, and web design and development. Our expertise spans working with a diverse range of clients, from innovative start-ups to established businesses.</p>
              </div>
           </div>
           <div class="col-lg-3 col-md-6">
@@ -126,7 +126,7 @@
       <div class="copyright-sec">
          <div class="container">
             <div class="copyright-box">
-               <p>© copyright 2023 Uk agency all rights reserved</p>
+               <p>© Copyright 2025 Logo Visioneer All Rights Reserved</p>
             </div>
          </div>
       </div>

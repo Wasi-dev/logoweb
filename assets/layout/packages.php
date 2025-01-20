@@ -2,7 +2,7 @@
     <div class="container">
        <div class="price-head-box" data-aos="fade-down" data-aos-duration="2000">
           <h2>Most Affordable Packages</h2>
-          <p>Being 10 years in the market, we are well acquainted with the competition.  <br />That's why we bring the most reasonable price plans. We ensure quality over quantity.</p>
+          <p>With a decade of experience, we are familiar with the competitive nature of the market. <br />Our goal is to offer reasonable pricing without sacrificing quality.</p>
          </div>
        <div class="pricing-tabs-box">
           <nav class="nav nav-pills" role="tablist">

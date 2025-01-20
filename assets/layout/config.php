@@ -1,8 +1,8 @@
 <?php
-$phone = '(020) 4525-4479';
-$phone_link = 'tel:+4402045254479';
-$email = 'info@infinixdesigns.co.uk';
-$email_link = 'mailto:info@infinixdesigns.co.uk';
-$address = ' Suit no 355, 9th Floor, 5 Merchant Square, London, W2 1AYf';
+$phone = '(000) 12345678';
+$phone_link = 'tel:+12345678';
+$email = 'info@logovisioneer.com';
+$email_link = 'mailto:info@logovisioneer.com';
+$address = '1S280 summit avenue Unit E2 Suite 1d , Oakbrook terrace ,Illinois 60181';
 
 

@@ -42,7 +42,7 @@
             </div>
          </div>
          <div class="btn-portfolio-box">
-            <a class="pkg_btn btn btn-portfolio" data-sku="Get Started Now" data-toggle="modal" data-target="#req_qoute">Get Started Now</a>
+<a class="pkg_btn btn btn-portfolio" data-sku="Get Started Now" data-toggle="modal" data-target="#req_qoute">Get Started Now</a>
          </div>
       </div>
    </div>

@@ -42,7 +42,7 @@
         </div>
         <div class="col-lg-6 col-md-12">
             <div class="contact-right-box" data-aos="fade-left" data-aos-duration="2000">
-                <p>We do not tell you our story. We write it together. Partnering with us means a seat at the table where you will be heard.</p>
+                <p>Our story isn’t just ours – it’s one we build together. Partnering with us means being part of the conversation where your input is valued.</p>
                 <div class="contact-bottom-info-box">
                 <a href="contact-us.php" class="btn btn-ctn">contact us</a>
                 <a href="<?php echo $phone_link ?>" class="btn-tel">

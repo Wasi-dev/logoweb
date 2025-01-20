@@ -1,44 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="icon" type="image/x-icon" href="https://ukagency.uk/assets/images/fav-icon.png"/>
+<link rel="icon" type="image/x-icon" href="assets/img/logo-fav.png"/>
 
-<title>$25 Custom Logo Design – 75% Off Logo Design - Award Winning Logo Design Company </title>
-    <meta name="description" content="Hire A Professional logo designers from Award winning logo design company and get 75% Off Entire Order.">
+<title></title>
+    <meta name="description" content="">
+    <meta name="robots" content="noindex,nofollow,noarchive" />
       <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
  <link rel="stylesheet" type="text/css" href="public/assets/website/css/plugin.css">
       <link href="../stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
       <link rel="stylesheet" type="text/css" href="assets/js/animate.min.html">
       <link rel="stylesheet" type="text/css" href="public/assets/website/css/custom.css">
       <link rel="stylesheet" type="text/css" href="public/assets/website/css/responsive.css">
-	  <meta name="facebook-domain-verification" content="jbz0exqe6bmuyxoohv73bs24ldn7ro" />
-      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-215074823-1"></script>
-      <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+	 
 
-      gtag('config', 'UA-215074823-1');
-      </script>
-
-<!-- Meta Pixel Code -->
-<script>
-  !function(f,b,e,v,n,t,s)
-  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-  n.queue=[];t=b.createElement(e);t.async=!0;
-  t.src=v;s=b.getElementsByTagName(e)[0];
-  s.parentNode.insertBefore(t,s)}(window, document,'script',
-  '../connect.facebook.net/en_US/fbevents.js');
-  fbq('init', '732900318161647');
-  fbq('track', 'PageView');
-</script>
-<noscript><img height="1" width="1" style="display:none"
-  src="https://www.facebook.com/tr?id=732900318161647&amp;ev=PageView&amp;noscript=1"
-/></noscript>
-<script src="../www.google.com/recaptcha/apibd70.js?render=6Le1scwfAAAAAMFEPO2G-HRStrsLW674DLpq8XYl"></script>
-<!-- End Meta Pixel Code -->
 
 <?php $link = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . "://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]"; ?>
 
@@ -78,7 +53,7 @@
                       <div class="col-md-3">
                          <a class="dropdown-item" href="logo-design.php">
                             <div class="mega-links-box">
-                               <img src="public/assets/website/images/icon-1.png" alt="" class="img-fluid" />
+                               <img src="public/assets/website/images/system-icon.gif" alt="" class="img-fluid" />
                                <b>logo design</b>
                                <p>Get a logo that defines <br /> who you are</p>
                             </div>
@@ -87,7 +62,7 @@
                       <div class="col-md-3">
                          <a class="dropdown-item" href="branding.php">
                             <div class="mega-links-box">
-                               <img src="public/assets/website/images/icon-2.png" alt="" class="img-fluid" />
+                               <img src="public/assets/website/images/branding.gif" alt="" class="img-fluid" />
                                <b>branding</b>
                                <p>effective and strategized <br /> branding</p>
                             </div>
@@ -96,7 +71,7 @@
                       <div class="col-md-3">
                          <a class="dropdown-item" href="web-design.php">
                             <div class="mega-links-box">
-                               <img src="public/assets/website/images/icon-3.png" alt="" class="img-fluid" />
+                               <img src="public/assets/website/images/development.gif" alt="" class="img-fluid" />
                                <b>web design & development</b>
                                <p>get a website that <br /> increases conversion</p>
                             </div>
@@ -105,7 +80,7 @@
                       <div class="col-md-3">
                          <a class="dropdown-item" href="e-commerce.php">
                             <div class="mega-links-box">
-                               <img src="public/assets/website/images/icon-4.png" alt="" class="img-fluid" />
+                               <img src="public/assets/website/images/e-commerce.gif" alt="" class="img-fluid" />
                                <b>E-Commerce</b>
                                <p>sell your products in the <br /> best way possible</p>
                             </div>
@@ -114,7 +89,7 @@
                       <div class="col-md-3">
                          <a class="dropdown-item" href="video-animation.php">
                             <div class="mega-links-box">
-                               <img src="public/assets/website/images/icon-5.png" alt="" class="img-fluid" />
+                               <img src="public/assets/website/images/animation.gif" alt="" class="img-fluid" />
                                <b>video animation</b>
                                <p>animation that delivers <br /> your message</p>
                             </div>
@@ -123,7 +98,7 @@
                       <div class="col-md-3">
                          <a class="dropdown-item" href="social-media-marketing.php">
                             <div class="mega-links-box">
-                               <img src="public/assets/website/images/icon-6.png" alt="" class="img-fluid" />
+                               <img src="public/assets/website/images/social-media.gif" alt="" class="img-fluid" />
                                <b>social media marketing</b>
                                <p>get your brand noticed <br /> around various</p>
                             </div>
@@ -132,7 +107,7 @@
                       <div class="col-md-3">
                          <a class="dropdown-item" href="content-writing.php">
                             <div class="mega-links-box">
-                               <img src="public/assets/website/images/icon-7.png" alt="" class="img-fluid" />
+                               <img src="public/assets/website/images/content.gif" alt="" class="img-fluid" />
                                <b>content writing</b>
                                <p>professional content that <br /> boosts your roi</p>
                             </div>
@@ -141,7 +116,7 @@
                       <div class="col-md-3">
                          <a class="dropdown-item" href="seo-services.php">
                             <div class="mega-links-box">
-                               <img src="public/assets/website/images/icon-8.png" alt="" class="img-fluid" />
+                               <img src="public/assets/website/images/seo.gif" alt="" class="img-fluid" />
                                <b>SEO</b>
                                <p>get the top spot on <br /> search engine ranking</p>
                             </div>
