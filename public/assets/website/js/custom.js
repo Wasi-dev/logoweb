@@ -16,7 +16,7 @@ $('.service-slider .owl-carousel').owlCarousel({
     nav: true,
     dots: false,
     autoplay: true,
-    autoplayTimeout: 4000,
+    autoplayTimeout: 6000,
     navText: ["<img src='assets/img/left-arrow.png'>", "<img src='assets/img/arrow-right.png'>"],
     responsive: {
         0: {
@@ -89,7 +89,7 @@ $('.creation-slider .owl-carousel').owlCarousel({
     margin: 10,
     nav: true,
     autoplay: true,
-    autoplayTimeout: 4000,
+    autoplayTimeout: 6000,
     navText: ["<img src='assets/img/left-arrow.png'>", "<img src='assets/img/arrow-right.png'>"],
     dots: false,
     responsive: {
@@ -467,9 +467,9 @@ $(".package-main-box .package-content .slim-scroll ul").slimScroll({
 
 $(document).ready(function() {
     $('.dmenu').hover(function() {
-        $(this).find('.sm-menu').first().stop(true, true).slideDown();
+        $(this).find('.sm-menu').first().stop(true, true).slideDown(100);
     }, function() {
-        $(this).find('.sm-menu').first().stop(true, true).slideUp()
+        $(this).find('.sm-menu').first().stop(true, true).slideUp(100)
     });
 });
 
