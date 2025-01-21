@@ -115,7 +115,7 @@
                            </ul>
                         </div>
                      </div>
-                     <img class="element element-22 lazy" src="public/assets/website/images/element-22.webp"  alt="*">
+                     <img class="element element-22 lazy" src="public/assets/website/images/element-22.png"  alt="*">
                      <img class="element element-23 lazy" src="assets/img/element-14.png"  alt="*">
                      <img class="element element-24 lazy" src="public/assets/website/images/element-11.png"  alt="*">
                   </div>
