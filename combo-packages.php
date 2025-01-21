@@ -126,8 +126,8 @@
                         </div>
                         <div class="col-lg-3 col-md-6 col-sm-12 combo-package-desc-price">
                             <div class="combo-pack-price">
-                                <h4>$455</h4>
-                                <a data-target="#req_qoute" data-sku="BASIC COMBO ~ $455 " data-toggle="modal" class="pkg_btn btn btn-combo-view order-view-details">Order Now</a>
+                                <h4>$744</h4>
+                                <a data-target="#req_qoute" data-sku="BASIC COMBO ~ $744 " data-toggle="modal" class="pkg_btn btn btn-combo-view order-view-details">Order Now</a>
                             </div>
                             <div class="combo-package-chat-box">
                                 <div class="chat-btn">
@@ -210,8 +210,8 @@
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 combo-package-desc-price">
                         <div class="combo-pack-price">
-                            <h4>$755</h4>
-                            <a data-target="#req_qoute" data-sku="STARTUP COMBO ~ $755 " data-toggle="modal" class="pkg_btn btn btn-combo-view order-view-details">Order Now</a>
+                            <h4>$1119</h4>
+                            <a data-target="#req_qoute" data-sku="STARTUP COMBO ~ $1119 " data-toggle="modal" class="pkg_btn btn btn-combo-view order-view-details">Order Now</a>
                         </div>
                         <div class="combo-package-chat-box">
                             <div class="chat-btn">
@@ -313,8 +313,8 @@
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 combo-package-desc-price">
                         <div class="combo-pack-price">
-                            <h4>$1155</h4>
-                            <a data-target="#req_qoute" data-sku="PROFESSIONAL COMBO ~ $1155 " data-toggle="modal" class="pkg_btn btn btn-combo-view order-view-details">Order Now</a>
+                            <h4>$1,594</h4>
+                            <a data-target="#req_qoute" data-sku="PROFESSIONAL COMBO ~ $1,594 " data-toggle="modal" class="pkg_btn btn btn-combo-view order-view-details">Order Now</a>
                         </div>
                         <div class="combo-package-chat-box">
                             <div class="chat-btn">

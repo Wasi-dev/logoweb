@@ -129,8 +129,11 @@
                <p>© Copyright 2025 Logo Visioneer All Rights Reserved</p>
             </div>
          </div>
-      </div>
+      </div>    
+        <a href="wame"  class="whatsapp-web"><img src="public/assets/website/images/wa.png" alt=""></a>
+
       <a href="<?php echo $phone_link ?>" class="callusnow"><i class="fa fa-phone"></i></a>
+
       <a href="javascript:$zopim.livechat.window.show();" target="_self" class="callusnow chat"><i class="fa fa-comment"></i></a>
       <div class="floatingform-sec floating_wrapx">
       <div class="outer-show">

@@ -1091,7 +1091,8 @@ span.cht_clr img {
 }
 
 .package-slider-box .owl-carousel .owl-item img {
-    width: unset !important;
+    width: 23px;
+    height: 22px;
 }
 
 .package-slider-box button.owl-prev {
@@ -2577,7 +2578,7 @@ section.content-slider-sec .anim-serv-box {
     position: absolute;
     right: 0;
     left: 0;
-    top: 110px;
+    top: 182px;
 }
 
 section.pricing-page {
@@ -4858,4 +4859,32 @@ a#entry-box_close {
 }
 .package-main-box:hover  .packtitles .fright h5 span.cutprice {
       color: #fff;
+}
+
+.whatsapp-web {
+    padding-top: 6px;
+    width: 50px;
+    height: 50px;
+    color: #fff;
+    display: block;
+    text-align: center;
+    border-radius: 100%;
+    font-size: 24px;
+    position: fixed;
+    bottom: 25px;
+    left: 20px;
+    z-index: 9999;
+    box-shadow: 2px 1px 10px 0px rgb(37 0 22 / 71%);
+    padding: 6px 0px 12px 0;
+    animation: scrollDownAnimation .5s ease infinite alternate;
+    -webkit-animation: scrollDownAnimation .5s ease infinite alternate;
+    background: linear-gradient(to right bottom, #000000, #343434d9, #000, #BE1E2D, #ff0000);
+    border: solid 3px #ffffff;
+}
+a.whatsapp-web img {
+    width: 31px;
+    height: 29px;
+}
+.slimScrollDiv ul{
+    height:297px !important ;
 }

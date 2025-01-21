@@ -1,0 +1,11 @@
+RewriteEngine On
+RewriteBase /logo-visioneer/
+
+# Explicitly map clean URLs to .php files
+RewriteRule ^pricing$ pricing.php [L]
+RewriteRule ^contact-us$ contact-us.php [L]
+
+# Ensure the server ignores extensions
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php [L]
