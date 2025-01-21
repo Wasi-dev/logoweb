@@ -1131,7 +1131,7 @@ span.cht_clr img {
 }
 
 .package-main-box:hover .package-content ul li:before {
-    background-image: url('../images/tick-img-2.png');
+    background-image: url('../images/tickbefore.png');
 }
 
 .package-main-box:hover .view-det {
