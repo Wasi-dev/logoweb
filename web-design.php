@@ -184,7 +184,7 @@
                            class="pkg_btn btn btn-order startchat">order now</a>
                         <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
                            <span class="cht_clr"><small>Click here to
-                                 <img src="public/assets/website/images/chat-img.png" alt="" class="img-fluid" />
+                                 <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                               </small> Live Chat</span>
                         </a>
                      </div>
@@ -235,7 +235,7 @@
                            class="pkg_btn btn btn-order startchat">order now</a>
                         <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
                            <span class="cht_clr"><small>Click here to
-                                 <img src="public/assets/website/images/chat-img.png" alt="" class="img-fluid" />
+                                 <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                               </small> Live Chat</span>
                         </a>
                      </div>
@@ -292,7 +292,7 @@
                            class="pkg_btn btn btn-order startchat">order now</a>
                         <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
                            <span class="cht_clr"><small>Click here to
-                                 <img src="public/assets/website/images/chat-img.png" alt="" class="img-fluid" />
+                                 <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                               </small> Live Chat</span>
                         </a>
                      </div>
@@ -350,7 +350,7 @@
                            class="pkg_btn btn btn-order startchat">order now</a>
                         <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
                            <span class="cht_clr"><small>Click here to
-                                 <img src="public/assets/website/images/chat-img.png" alt="" class="img-fluid" />
+                                 <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                               </small> Live Chat</span>
                         </a>
                      </div>
@@ -415,7 +415,7 @@
                            class="pkg_btn btn btn-order startchat">order now</a>
                         <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
                            <span class="cht_clr"><small>Click here to
-                                 <img src="public/assets/website/images/chat-img.png" alt="" class="img-fluid" />
+                                 <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                               </small> Live Chat</span>
                         </a>
                      </div>
@@ -483,7 +483,7 @@
                            class="pkg_btn btn btn-order startchat">order now</a>
                         <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
                            <span class="cht_clr"><small>Click here to
-                                 <img src="public/assets/website/images/chat-img.png" alt="" class="img-fluid" />
+                                 <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                               </small> Live Chat</span>
                         </a>
                      </div>

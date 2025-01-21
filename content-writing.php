@@ -155,7 +155,7 @@
                         <a data-target="#req_qoute" data-sku="Web Content Packag ~ $50 " data-toggle="modal"
                            class="pkg_btn btn btn-order startchat">order now</a>                               <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
                             <span class="cht_clr"><small>Click here to
-                            <img src="public/assets/website/images/chat-img.png" alt="" class="img-fluid" />
+                            <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                 </small> Live Chat</span>
                             </a>
                         </div>
@@ -197,7 +197,7 @@
                         <a data-target="#req_qoute" data-sku="Article Writing Package ~ $55 " data-toggle="modal"
                            class="pkg_btn btn btn-order startchat">order now</a>                               <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
                             <span class="cht_clr"><small>Click here to
-                            <img src="public/assets/website/images/chat-img.png" alt="" class="img-fluid" />
+                            <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                 </small> Live Chat</span>
                             </a>
                         </div>
@@ -239,7 +239,7 @@
                         <a data-target="#req_qoute" data-sku="Infograpgics Package ~ $155 " data-toggle="modal"
                            class="pkg_btn btn btn-order startchat">order now</a>                               <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
                             <span class="cht_clr"><small>Click here to
-                            <img src="public/assets/website/images/chat-img.png" alt="" class="img-fluid" />
+                            <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                 </small> Live Chat</span>
                             </a>
                         </div>

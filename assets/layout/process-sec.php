@@ -23,7 +23,7 @@
              <div class="col-md-3 col-sm-6 p-0">
                 <div class="content">
                    <div class="content-overlay"></div>
-                   <img class="content-image lazy" src="assests/img/" data-src="public/assets/website/images/process-img-2.jpg">
+                   <img class="content-image lazy" src="public/assets/website/images/process-img-2.jpg" data-src="public/assets/website/images/process-img-2.jpg">
                    <div class="content-details fadeIn-top">
                       <div class="hover-num-box">
                          <h3>02</h3>

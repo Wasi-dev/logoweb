@@ -281,7 +281,7 @@
                            <a data-target="#req_qoute" data-sku="Small Busines ~ $355 " data-toggle="modal"
                            class="pkg_btn btn btn-order startchat">order now</a>                            <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
                             <span class="cht_clr"><small>Click here to
-                            <img src="public/assets/website/images/chat-img.png" alt="" class="img-fluid" />
+                            <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                 </small> Live Chat</span>
                             </a>
                         </div>
@@ -328,7 +328,7 @@
                            <a data-target="#req_qoute" data-sku="Medium Business ~ $555 " data-toggle="modal"
                            class="pkg_btn btn btn-order startchat">order now</a>                               <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
                             <span class="cht_clr"><small>Click here to
-                            <img src="public/assets/website/images/chat-img.png" alt="" class="img-fluid" />
+                            <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                 </small> Live Chat</span>
                             </a>
                         </div>
@@ -370,7 +370,7 @@
                            <a data-target="#req_qoute" data-sku="Small Business ~ $355 " data-toggle="modal"
                            class="pkg_btn btn btn-order startchat">order now</a>                               <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
                             <span class="cht_clr"><small>Click here to
-                            <img src="public/assets/website/images/chat-img.png" alt="" class="img-fluid" />
+                            <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                 </small> Live Chat</span>
                             </a>
                         </div>

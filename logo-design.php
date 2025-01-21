@@ -167,7 +167,7 @@
                      <a data-target="#req_qoute" data-sku="Instant Logo ~ $25 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
                         <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
                            <span class="cht_clr"><small>Click here to
-                                 <img src="public/assets/website/images/chat-img.png" alt="" class="img-fluid" />
+                                 <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                               </small> Live Chat</span>
                         </a>
                      </div>
@@ -208,7 +208,7 @@
                      <a data-target="#req_qoute" data-sku="Standard Logo ~ $75 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
                         <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
                            <span class="cht_clr"><small>Click here to
-                                 <img src="public/assets/website/images/chat-img.png" alt="" class="img-fluid" />
+                                 <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                               </small> Live Chat</span>
                         </a>
                      </div>
@@ -251,7 +251,7 @@
                      <a data-target="#req_qoute" data-sku="Prime Logo ~ $145 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
                         <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
                            <span class="cht_clr"><small>Click here to
-                                 <img src="public/assets/website/images/chat-img.png" alt="" class="img-fluid" />
+                                 <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                               </small> Live Chat</span>
                         </a>
                      </div>
@@ -296,7 +296,7 @@
                      <a data-target="#req_qoute" data-sku="Deluxe Logo (Best Seller) ~ $296 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
                         <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
                            <span class="cht_clr"><small>Click here to
-                                 <img src="public/assets/website/images/chat-img.png" alt="" class="img-fluid" />
+                                 <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                               </small> Live Chat</span>
                         </a>
                      </div>
@@ -344,7 +344,7 @@
                      <a data-target="#req_qoute" data-sku="Award Winning Logo Pack ~ $800 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
                         <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
                            <span class="cht_clr"><small>Click here to
-                                 <img src="public/assets/website/images/chat-img.png" alt="" class="img-fluid" />
+                                 <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                               </small> Live Chat</span>
                         </a>
                      </div>
@@ -385,7 +385,7 @@
                      <a data-target="#req_qoute" data-sku="3D and Illustration Logo ~ $350 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>>
                         <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
                            <span class="cht_clr"><small>Click here to
-                                 <img src="public/assets/website/images/chat-img.png" alt="" class="img-fluid" />
+                                 <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                               </small> Live Chat</span>
                         </a>
                      </div>
