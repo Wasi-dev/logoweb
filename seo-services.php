@@ -8,7 +8,7 @@
                      <div class="anim-banner-txt" data-aos="fade-right" data-aos-duration="2000">
                         <h1>Offering Engaging</h1>
                         <h2>SEO Services For Your Brand</h2>
-                        <p>Uk agency is trusted by hundreds of customers as a full-service Search Engine Optimization agency that provides stunning services to boost search engine ranking. You can get custom SEO services that fit your brand and generate traffic for high conversions.</p>
+                        <p>Logo Visioneer is trusted by hundreds of customers as a full-service Search Engine Optimization agency that provides stunning services to boost search engine ranking. You can get custom SEO services that fit your brand and generate traffic for high conversions.</p>
                         <div class="form-banner" data-form-type="signup_form">
                            <div class="form-banner" data-form-type="signup_form">
                               <form class="" method="POST"  action="mail.php"
@@ -105,7 +105,7 @@
                      <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
                         <img src="public/assets/website/images/seo-content-serv-img-4.png" alt="" class="img-fluid" />
                         <h3>Link Building</h3>
-                        <p>Uk agency SEOs mainly focus on developing long-term and high-quality strategies that revolve around compelling content. Authentic and equitable relationships consistent traffic from domains in authority. </p>
+                        <p>Logo Visioneer SEOs mainly focus on developing long-term and high-quality strategies that revolve around compelling content. Authentic and equitable relationships consistent traffic from domains in authority. </p>
                      </div>
                   </div>
                </div>

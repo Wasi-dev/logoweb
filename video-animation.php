@@ -8,7 +8,7 @@
                 <div class="anim-banner-txt" data-aos="fade-right" data-aos-duration="2000">
                 <h1>Offering Engaging</h1>
                 <h2>Animated Video <br /> For Your Brand</h2>
-                <p>Uk agency is a full-service video animation agency specialized in explained videos that tells striking stories and attracts the target audience towards your brand results in increased revenue generation. </p>
+                <p>Logo Visioneer is a full-service video animation agency specialized in explained videos that tells striking stories and attracts the target audience towards your brand results in increased revenue generation. </p>
                 <div class="form-banner" data-form-type="signup_form">
                 <form class="" method="POST"  action="mail.php"
                            novalidate="novalidate">
@@ -68,7 +68,7 @@
         <div class="col-md-7">
             <div class="services-head-box" data-aos="fade-down" data-aos-duration="2000">
                 <h2>Humanizing Your Brand</h2>
-                <p>Being in the market for more than a decade, our experienced designers and animators know how visual content influences your business to a greater extent if humanized. This could be achieved by explaining to your customers what your business is about and how they can benefit from it. Moreover, the most effective way to convey a complicated business message or model is by explaining through an elegantly crafted video. Our experienced animators at Uk agency generate various categories of video animations including, 2d including animators, whiteboard animators, testimonials videos, and typography animations. We aim to create targeted videos that lift your brand to new heights.</p>
+                <p>Being in the market for more than a decade, our experienced designers and animators know how visual content influences your business to a greater extent if humanized. This could be achieved by explaining to your customers what your business is about and how they can benefit from it. Moreover, the most effective way to convey a complicated business message or model is by explaining through an elegantly crafted video. Our experienced animators at Logo Visioneer generate various categories of video animations including, 2d including animators, whiteboard animators, testimonials videos, and typography animations. We aim to create targeted videos that lift your brand to new heights.</p>
             </div>
         </div>
     </div>
@@ -92,7 +92,7 @@
                 <div class="serv-main-box anim-serv-box">
                 <img src="public/assets/website/images/anim-slider-img-3.png" alt="" class="img-fluid" />
                 <h3>EXPLAINER VIDEO ANIMATION</h3>
-                <p>We at Uk agency hire only the best and train them further to be even better. Our skilled and experienced designers and animators craft a perfect piece of customized explained videos for you according to your target market and prospective buyer. Our meticulous crafted videos not only convey your message to the audience but also ensure to convince the spectators of the video. Our videos are comprehensive and concise. </p>
+                <p>We at Logo Visioneer hire only the best and train them further to be even better. Our skilled and experienced designers and animators craft a perfect piece of customized explained videos for you according to your target market and prospective buyer. Our meticulous crafted videos not only convey your message to the audience but also ensure to convince the spectators of the video. Our videos are comprehensive and concise. </p>
                 </div>
             </div>
             <div class="item">
@@ -158,7 +158,7 @@
                     <img src="public/assets/website/images/features-img-4.png" alt="" class="img-fluid"/>
                 </div>
                 <h3>Reasonable Prices</h3>
-                <p>We offer the most affordable prices at Uk agency. Get your next quote now!</p>
+                <p>We offer the most affordable prices at Logo Visioneer. Get your next quote now!</p>
                 </div>
             </div>
         </div>

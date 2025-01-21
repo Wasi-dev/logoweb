@@ -71,7 +71,7 @@
          <div class="col-md-7">
             <div class="services-head-box" data-aos="fade-down" data-aos-duration="2000">
                <h2>Logos We Create</h2>
-               <p>Uk agency are proud of its content that brings clients back to them for further services. It's a
+               <p>Logo Visioneer are proud of its content that brings clients back to them for further services. It's a
                   design agency not only full of experienced and skilled people but passionate, energetic, and dedicated
                   designers make it worth standing out of competition. It's not just logos that we design but also
                   remarkable identities that build brands.</p>

@@ -8,7 +8,7 @@
                      <div class="anim-banner-txt" data-aos="fade-right" data-aos-duration="2000">
                         <h1>Offering Engaging</h1>
                         <h2>Social Media Services <br /> For Your Brand</h2>
-                        <p>We help you improve your visibility with well-crafted social media campaigns for various brands. Uk agency is a full-service social media marketing company that is incomparable in the US to improve website traffic.  </p>
+                        <p>We help you improve your visibility with well-crafted social media campaigns for various brands. Logo Visioneer is a full-service social media marketing company that is incomparable in the US to improve website traffic.  </p>
                         <div class="form-banner" data-form-type="signup_form">
                            <form class="" method="POST"  action="mail.php"
                            novalidate="novalidate">
@@ -77,14 +77,14 @@
                      <div class="serv-main-box">
                         <img src="public/assets/website/images/market-serv-img-1.png" alt="" class="img-fluid" />
                         <h3>SOCIAL MEDIA MARKETING</h4>
-                        <p>Who is not present on social media these days? If these platforms are such an inherent part of our lives nowadays, then why not be a part of our business strategies and models? Our team at Uk agency not only offers social media consultancy but also comes up with premium quality content with industry-leading designers for your social media platforms.</p>
+                        <p>Who is not present on social media these days? If these platforms are such an inherent part of our lives nowadays, then why not be a part of our business strategies and models? Our team at Logo Visioneer not only offers social media consultancy but also comes up with premium quality content with industry-leading designers for your social media platforms.</p>
                      </div>
                   </div>
                   <div class="item">
                      <div class="serv-main-box">
                         <img src="public/assets/website/images/market-serv-img-2.png" alt="" class="img-fluid" />
                         <h3>PAY-PER-CLICK CAMPAIGNS</h3>
-                        <p>PPC or pay-per-click phenomenon works on the internet advising model by bringing significant traffic to the websites. PPC works when the website owner pays for each click, decides on the ads, and brings users to the website. Our skilled and experienced team at Uk agency is adept in PPC marketing and makes the most impressive campaigns for your brand.</p>
+                        <p>PPC or pay-per-click phenomenon works on the internet advising model by bringing significant traffic to the websites. PPC works when the website owner pays for each click, decides on the ads, and brings users to the website. Our skilled and experienced team at Logo Visioneer is adept in PPC marketing and makes the most impressive campaigns for your brand.</p>
                      </div>
                   </div>
                   <div class="item">
@@ -231,7 +231,7 @@
                      <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
                         <img src="public/assets/website/images/marketing-content-serv-img-4.png" alt="" class="img-fluid" />
                         <h3>Get Potential Leads</h3>
-                        <p>Our expert social media team will help you to generate digital content that works for you. Uk agency is one of the leading social media marketing agencies offering outstanding norms and creative strategies that allow you to recognize prospects and convert them into customers. </p>
+                        <p>Our expert social media team will help you to generate digital content that works for you. Logo Visioneer is one of the leading social media marketing agencies offering outstanding norms and creative strategies that allow you to recognize prospects and convert them into customers. </p>
                      </div>
                   </div>
                </div>
@@ -423,7 +423,7 @@
                   <div class="col-lg-4 col-md-12">
                      <div class="v-anim-process-box anim-5">
                         <h3>Youtube Channel Management</h3>
-                        <p>After Google, Youtube is a platform where most people ask their queries and look for their confusions. With your brand's visual content, you will communicate with your clients in the present and future. Our content creation team at Uk agency builds engaging, entertaining, and enticing content. </p>
+                        <p>After Google, Youtube is a platform where most people ask their queries and look for their confusions. With your brand's visual content, you will communicate with your clients in the present and future. Our content creation team at Logo Visioneer builds engaging, entertaining, and enticing content. </p>
                      </div>
                   </div>
                   <div class="col-lg-4 col-md-12">

@@ -72,7 +72,7 @@
                   mind. There should be more than just a logo that stirs up the whole scenario and acts as icing on the
                   cake. It comprises a wide range of features and characteristics that the client associates with the
                   product at the time of making a purchase. Now, how attractive and unique these characteristics and
-                  traits are is what decides your brand equity. We at ukagency will research, build, manage, consider,
+                  traits are is what decides your brand equity. We at Logo Visioneer will research, build, manage, consider,
                   reconsider, strengthen, and refine your branding tactics and ideas. We create each brand strategy as
                   if it's our own and ensure it helps you achieve the attention and customers that you desire for your
                   brand. </p>
@@ -375,88 +375,9 @@
                   data-target="#req_qoute">lets get started</a>
    </div>
 </section>
-<section class="process-sec">
-   <div class="container-fluid p-0 m-0">
-      <div class="process-head-box" data-aos="fade-down" data-aos-duration="2000">
-         <h2>our work process</h2>
-         <p>Do you want brand recognition? We offer a wide range of business logo designs,
-            <br /> branding, digital marketing, and development services.
-         </p>
-      </div>
-      <div class="prcess-main-box" data-aos="zoom-in" data-aos-duration="2000">
-         <div class="row">
-            <div class="col-md-3 col-sm-6 p-0">
-               <div class="content">
-                  <div class="content-overlay"></div>
-                  <img class="content-image lazy"
-                     src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
-                     data-src="public/assets/website/images/process-img-1.jpg">
-                  <div class="content-details fadeIn-top">
-                     <div class="hover-num-box">
-                        <h3>01</h3>
-                        <h4>Design Brief</h4>
-                     </div>
-                     <p>The process starts with the description of the idea that you have in your mind for the logo that
-                        you think is going to represent your brand. This is where we start constructing the logo. </p>
-                  </div>
-               </div>
-            </div>
-            <div class="col-md-3 col-sm-6 p-0">
-               <div class="content">
-                  <div class="content-overlay"></div>
-                  <img class="content-image lazy"
-                     src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
-                     data-src="public/assets/website/images/process-img-2.jpg">
-                  <div class="content-details fadeIn-top">
-                     <div class="hover-num-box">
-                        <h3>02</h3>
-                        <h4>Research & Sketch</h4>
-                     </div>
-                     <p>Now we have your idea, and we are clear with the factors needed to brew the perfect logo. Here
-                        our designers will start making a concept and create a draft to begin the collaborative design
-                        process.
-                     </p>
-                  </div>
-               </div>
-            </div>
-            <div class="col-md-3 col-sm-6 p-0">
-               <div class="content">
-                  <div class="content-overlay"></div>
-                  <img class="content-image lazy"
-                     src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
-                     data-src="public/assets/website/images/process-img-3.jpg">
-                  <div class="content-details fadeIn-top">
-                     <div class="hover-num-box">
-                        <h3>03</h3>
-                        <h4>Revision</h4>
-                     </div>
-                     <p>Once we are satisfied with the delivery, we share it with the client. However, we are entirely
-                        open to revisions and feedback until the customer is 100% satisfied.
-                     </p>
-                  </div>
-               </div>
-            </div>
-            <div class="col-md-3 col-sm-6 p-0">
-               <div class="content">
-                  <div class="content-overlay"></div>
-                  <img class="content-image lazy"
-                     src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
-                     data-src="public/assets/website/images/process-img-4.jpg">
-                  <div class="content-details fadeIn-top">
-                     <div class="hover-num-box">
-                        <h3>04</h3>
-                        <h4>Final Delivery</h4>
-                     </div>
-                     <p>After review by the client and removing errors from the product, we deliver the final project
-                        and all necessary formats files.
-                     </p>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-   </div>
-</section>
+
+<?php include 'assets/layout/process-sec.php' ?>
+
 <section class="second-contact-sec">
    <div class="container">
       <div class="row align-items-center">

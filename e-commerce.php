@@ -7,7 +7,7 @@
                <div class="anim-banner-txt" data-aos="fade-right" data-aos-duration="2000">
                   <h1>OFFERING ECOMMERCE SERVICES YOU</h1>
                   <h2>need to start selling online in minutes</h2>
-                  <p>Uk agency offer e-commerce services, redesigning, and blogs that are needed to advance your
+                  <p>Logo Visioneer offer e-commerce services, redesigning, and blogs that are needed to advance your
                      business heights. We aim to build a digital brand for you successfully to improve the overall
                      services. </p>
                   <div class="form-banner" data-form-type="signup_form">

@@ -64,7 +64,7 @@
                      <a href="javascript:;" class="closed" data-dismiss="modal"></a>
                      <div class="row">
                         <div class="col-md-8">
-                           <h3>get your coupon & avail <strong>70%</strong> discount</h3>
+                           <h3>Claim your coupon now and save <strong>70%</strong></h3>
                         </div>
                         <div class="col-md-5">
                            <div id="popupform" class="fixedform-1" data-form-type="popup_form">
@@ -104,15 +104,15 @@
                         <div class="col-lg-4 mob-display-none">
                            <h4>Package Includes</h4>
                            <ul>
-                              <li><i class="fa fa-check-circle"></i>8 Custom Logo Design Concepts</li>
-                              <li><i class="fa fa-check-circle"></i>4 Dedicated Logo Designers</li>
-                              <li><i class="fa fa-check-circle"></i>Unlimited Rounds of Revisions</li>
-                              <li><i class="fa fa-check-circle"></i>Vector Image &amp; 8 File Formats</li>
-                              <li><i class="fa fa-check-circle"></i>48 Hours Turn Around Time</li>
-                              <li><i class="fa fa-check-circle"></i>100% Satisfaction Guarantee</li>
-                              
-                              <li><i class="fa fa-check-circle"></i>Dedicated Account Manager</li>
-                           </ul>
+
+<li><i class="fa fa-check-circle"></i>8 Unique Logo Design Ideas</li>
+<li><i class="fa fa-check-circle"></i>4 Expert Logo Designers Assigned</li>
+<li><i class="fa fa-check-circle"></i>Unlimited Revision Opportunities</li>
+<li><i class="fa fa-check-circle"></i>Scalable Vector Files </li>
+<li><i class="fa fa-check-circle"></i>Delivery Within 48 Hours</li>
+<li><i class="fa fa-check-circle"></i>Guaranteed Customer Satisfaction</li>
+<li><i class="fa fa-check-circle"></i>Personalized Account Manager</li>
+</ul>
                         </div>
                      </div>
                      <img class="element element-22 lazy" src="public/assets/website/images/element-22.png"  alt="*">

@@ -17,7 +17,7 @@
                 <div class="test-profile-box">
                    <img class="lazy img-fluid" src="assests/img/test-profile-img-2.png" alt="" />
                    <h3>Richerd Johnson</h3>
-                   <p>“Till now, our organization was heading to the dead end for the branding and  <br /> digital marketing till Uk agency team took the task upon  <br /> them to provide us with proper care and assistance”</p>
+                   <p>“Till now, our organization was heading to the dead end for the branding and  <br /> digital marketing till Logo Visioneer team took the task upon  <br /> them to provide us with proper care and assistance”</p>
                 </div>
              </div>
              <div class="item">

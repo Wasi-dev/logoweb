@@ -68,7 +68,7 @@
          <div class="col-md-7">
             <div class="services-head-box" data-aos="fade-down" data-aos-duration="2000">
                <h2>Setting The Standards for the web design industry</h2>
-               <p>With the experience of more than a decade, the skilled and proficient team of Ukagency has always
+               <p>With the experience of more than a decade, the skilled and proficient team of Logo Visioneer has always
                   crafted remarkable web designs that are beyond the expectations of customers. With art technology and
                   advanced business practices, we ensure maximum engagement on the customer sites. Our productive design
                   team not only focuses on web efficiency but also makes it attractive and pleasing to the eye. Good
@@ -109,7 +109,7 @@
                   <h3>e-Commerce Website</h3>
                   <p>One of the most popular websites in almost all businesses nowadays is those that help them perform
                      sales and product displays. That's the reason why we recommend our customers to get an e-commerce
-                     site if they have products to sell. Ukagency designed e-commerce site will help you improve your
+                     site if they have products to sell. Logo Visioneer designed e-commerce site will help you improve your
                      sales and leads and also enable you to achieve your sales target.</p>
                </div>
             </div>

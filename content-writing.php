@@ -8,7 +8,7 @@
                 <div class="anim-banner-txt" data-aos="fade-right" data-aos-duration="2000">
                 <h1>Offering Engaging</h1>
                 <h2>Marketing Content For Your Brand</h2>
-                <p>Uk agency is a full-service content writing agency specializing in premium content that can convert words into life and attract audiences towards your brand and enables you to achieve your goals. </p>
+                <p>Logo Visioneer is a full-service content writing agency specializing in premium content that can convert words into life and attract audiences towards your brand and enables you to achieve your goals. </p>
                 <div class="form-banner" data-form-type="signup_form">
                 <form class="" method="POST"  action="mail.php"
                                  novalidate="novalidate">
@@ -69,7 +69,7 @@
         <div class="col-md-7">
             <div class="services-head-box" data-aos="fade-down" data-aos-duration="2000">
                 <h2>Get Professionally Written Content By Us</h2>
-                <p>A well-written piece attracts and creates your brand's image in the reader's mind, and that image is what we are concerned about at Uk agency. With our unbeatable marketing and communicating skills, we can write impactful content for you. Our highly satisfied customer base stands testament to our claim that we have always proven true to our words with promises of high-quality products and content. We offer white label unique content for you that is tested for both plagiarism and errors. Our high-quality content increases your site engagement as well as business. </p>
+                <p>A well-written piece attracts and creates your brand's image in the reader's mind, and that image is what we are concerned about at Logo Visioneer. With our unbeatable marketing and communicating skills, we can write impactful content for you. Our highly satisfied customer base stands testament to our claim that we have always proven true to our words with promises of high-quality products and content. We offer white label unique content for you that is tested for both plagiarism and errors. Our high-quality content increases your site engagement as well as business. </p>
                 <a href="javascript:void(0);" class="btn btn-submit" data-toggle="modal" data-target="#req_qoute">lets get started</a>
             </div>
         </div>
@@ -89,7 +89,7 @@
                 <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
                 <img src="public/assets/website/images/content-serv-img-2.png" alt="" class="img-fluid" />
                 <h3>Creative Content Writing</h3>
-                <p>Having years of experience, our team for creative content writing knows all the tactics and techniques used to build a monotonous story. Creativity is all about adding your touch to the ubiquitous, and our team at Uk agency knows it competently.</p>
+                <p>Having years of experience, our team for creative content writing knows all the tactics and techniques used to build a monotonous story. Creativity is all about adding your touch to the ubiquitous, and our team at Logo Visioneer knows it competently.</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-12">
@@ -103,7 +103,7 @@
                 <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
                 <img src="public/assets/website/images/content-serv-img-4.png" alt="" class="img-fluid" />
                 <h3>Article Writing</h3>
-                <p>If you are forgetting quality content for your brand, you are probably giving your customers the wrong impression about your brand or business by having content that just fails to make the impression. You need to take the opportunity your viewer is giving you by reading your content, and maybe you will lose a potential client. Get an expert writer at Uk agency and ensure that you are all the way.</p>
+                <p>If you are forgetting quality content for your brand, you are probably giving your customers the wrong impression about your brand or business by having content that just fails to make the impression. You need to take the opportunity your viewer is giving you by reading your content, and maybe you will lose a potential client. Get an expert writer at Logo Visioneer and ensure that you are all the way.</p>
                 </div>
             </div>
         </div>

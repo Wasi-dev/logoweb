@@ -41,10 +41,10 @@ body {
           <div class="col-md-12 col-sm-12 col-xs-12 privacy">
              <div class="term-text">
                 <h3 style="margin-top: 50px;">About The Policy</h3>
-                <p>At Uk agency the protection of our customers is our top need on https://www.Uk agency.com/ and we regard it as our own. In spite of the fact that we gather data from our customers, it is just used to make enhancements in our client administrations. Our organization recognizes that the support and utilization of our customers’ data is our obligation. We DO NOT lease or offer the data that our customers give us on the web.</p>
+                <p>At Logo Visioneer the protection of our customers is our top need on https://www.Logo Visioneer.com/ and we regard it as our own. In spite of the fact that we gather data from our customers, it is just used to make enhancements in our client administrations. Our organization recognizes that the support and utilization of our customers’ data is our obligation. We DO NOT lease or offer the data that our customers give us on the web.</p>
                 <p>This arrangement portrays how the individual data of our customer gathered by us is utilized, why we gather it, and how we utilize it. It is inside our strategy that we depict the decisions you can make about how we can gather and utilize your data.</p>
                 <h3>Personal Information Collected</h3>
-                <p>The data gathered by Uk agency incorporates the customer’s name, email, postage information and telephone number. These are bits of data that the customer gives us while requesting or while sparing the data with our organization. We may likewise utilize the email addresses or street numbers which we get through our mailing framework, for example, our Contact Us Form for reacting to remarks, questions and so on.</p>
+                <p>The data gathered by Logo Visioneer incorporates the customer’s name, email, postage information and telephone number. These are bits of data that the customer gives us while requesting or while sparing the data with our organization. We may likewise utilize the email addresses or street numbers which we get through our mailing framework, for example, our Contact Us Form for reacting to remarks, questions and so on.</p>
                 <p>Our organization likewise keeps up records of the things, which have intrigued our customers before, and in addition the customer’s buys on the web.</p>
                 <h3>Use of Collected Data</h3>
                 <p>The data gathered is utilized as a part of numerous enhanced techniques. Our organization utilizes the data spared by our customers to handle their request. We additionally send them messages to affirm the request and our client administrations may likewise get in touch with them by means of telephone, street number or email if our organization has different inquiries in regards to the request set.</p>
@@ -59,7 +59,7 @@ body {
                 <h3>Security of Personal Information</h3>
                 <p>The data of our customers is secure, as it is ensured amid transmission by the utilization of the Secure Sockets Layer (SSL) Software which encrypts the data the customer puts in.</p>
                 <p>We take after for the most part acknowledged industry models to secure the individual data submitted to us, both amid transmission and once we get it. No technique for transmission over the Internet, or strategy for electronic stockpiling, is 100% secure, in any case. In this manner, while we endeavor to utilize financially satisfactory intends to ensure your own data, we can’t promise its outright security.</p>
-                <p>In the event that you have any inquiries concerning security on our Web website, you can send email us at info@Uk agency.com</p>
+                <p>In the event that you have any inquiries concerning security on our Web website, you can send email us at info@Logo Visioneer.com</p>
                 <h3>Access of Registered Accounts</h3>
                 <p>The customer can get to their enrolled accounts by marking in on our landing page. Once marked in, the customer has entry to their past records and data that they have as of now submitted to the site. The clients can redesign their data once they have signed into their records by clicking My Account.</p>
                 <h3>Changing and Deleting/Unsubscribing Accounts</h3>
@@ -82,7 +82,7 @@ body {
                 <h3>Legal Disclaimer</h3>
                 <p>We claim all authority to reveal your actually identifiable data as required by law and when we trust that revelation is important to secure our rights and/or agree to a legal continuing, court request, or legitimate procedure served on our Web webpage.</p>
                 <h3>Questions</h3>
-                <p>On the off chance that you have any inquiries with respect to our Privacy Policy or our utilization of your data, call our toll free number <?php echo $phone ?> or email us on info@Uk agency.com</p>
+                <p>On the off chance that you have any inquiries with respect to our Privacy Policy or our utilization of your data, call our toll free number <?php echo $phone ?> or email us on info@Logo Visioneer.com</p>
              </div>
           </div>
        </div>

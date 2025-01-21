@@ -69,12 +69,12 @@ body {
                 <p>1. Specify your concern and claim your refund through any of the following three modes :-</p>
                 <p>• i. Toll free # <?php echo $phone ?>  </p>
                 <p>• ii. Live Chat.</p>
-                <p>• iii. Email. (info@Uk agency.com)</p>
+                <p>• iii. Email. (info@Logo Visioneer.com)</p>
                 <p>We will try to resolve your query and concern in light of our revision policy immediately or else will email you a refund request approval from our refund department.</p>
-                <p>After the refund, the rights to your design would be transferred to Uk agency and you would not legally be allowed to display any version of the design sent by the company.</p>
-                <p>1. Since the rights to design would now be transferred to Uk agency, you concur that you will have no right (immediate or circuitous) to use any reaction or other substance, work item or media, nor will you have any ownership interest for or to the same.</p>
-                <p>2. Working in a joint effort with the Government Copyright Agencies Uk agency would share Copyright Acquisition data for the refunded outlines that would confine the re-utilization of the designs as original designs in the future.</p>
-                <p>If you have any questions or concerns about our Refund Policy, please get in touch with us by clicking here (info@Uk agency.com).</p>
+                <p>After the refund, the rights to your design would be transferred to Logo Visioneer and you would not legally be allowed to display any version of the design sent by the company.</p>
+                <p>1. Since the rights to design would now be transferred to Logo Visioneer, you concur that you will have no right (immediate or circuitous) to use any reaction or other substance, work item or media, nor will you have any ownership interest for or to the same.</p>
+                <p>2. Working in a joint effort with the Government Copyright Agencies Logo Visioneer would share Copyright Acquisition data for the refunded outlines that would confine the re-utilization of the designs as original designs in the future.</p>
+                <p>If you have any questions or concerns about our Refund Policy, please get in touch with us by clicking here (info@Logo Visioneer.com).</p>
                 <h3>My Account</h3>
                 <p>The “My Account” area is a convenient way to communicate. It is your sole responsibility to check the account section for all questions, queries, concerns, and any other instructions for the designer. Failure to actively check the “my account” section may become a cause of hindrance in your perusal of a refund. If you are unsure of how to use the “My Account” area, please contact customer support at any time for prompt assistance.</p>
                 <h3>Quality Assurance Policy</h3>
@@ -99,11 +99,11 @@ body {
                 <p>We offer 24-Hour Customer Support to address your questions and queries.</p>
                 <p>You can get in touch with us at whatever time and we promise a prompt reply.</p>
                 <p>Correspondence Policy</p>
-                <p>YOU concur that Uk agency is not at risk for any correspondence from email address (es) other than the ones took after by our own particular area i.e. “info@Uk agency.com” or/and any toll free number that is not specified on our site. Uk agency ought not be considered in charge of any damage(s) brought about by such correspondence. We just assume liability of any correspondence through email address (es) under our own space name or/and by means of toll free number i.e. as of now specified on Uk agency Website.</p>
+                <p>YOU concur that Logo Visioneer is not at risk for any correspondence from email address (es) other than the ones took after by our own particular area i.e. “info@Logo Visioneer.com” or/and any toll free number that is not specified on our site. Logo Visioneer ought not be considered in charge of any damage(s) brought about by such correspondence. We just assume liability of any correspondence through email address (es) under our own space name or/and by means of toll free number i.e. as of now specified on Logo Visioneer Website.</p>
                 <p>Money Back Guarantee</p>
                 <p>We are extremely confident of the work we do which is why we back it up with a money back guarantee. If we are unable to meet and beat your expectations, well give you a refund.</p>
                 <p>100% Unique Design Guarantee</p>
-                <p>At Uk agency we promise that all of our logos are produced using scratch. We will provide you a logo that is adept and in complete compliance with your design brief.</p>
+                <p>At Logo Visioneer we promise that all of our logos are produced using scratch. We will provide you a logo that is adept and in complete compliance with your design brief.</p>
              </div>
              <div class="text-center">
                 <h4>Video Animations</h4>
