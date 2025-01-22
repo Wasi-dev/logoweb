@@ -131,7 +131,7 @@
                             </div>
                             <div class="combo-package-chat-box">
                                 <div class="chat-btn">
-                                <a href="javascript:$zopim.livechat.window.show();" class="chatt">
+                                <a href="javascript:toggleTawkChat();" class="chatt">
                                     <h5>Click here to <i class="fa fa-comment"></i><span>Live Chat</span></h5>
                                 </a>
                                 </div>
@@ -215,7 +215,7 @@
                         </div>
                         <div class="combo-package-chat-box">
                             <div class="chat-btn">
-                            <a href="javascript:$zopim.livechat.window.show();" class="chatt">
+                            <a href="javascript:toggleTawkChat();" class="chatt">
                                 <h5>Click here to <i class="fa fa-comment"></i><span>Live Chat</span></h5>
                             </a>
                             </div>
@@ -318,7 +318,7 @@
                         </div>
                         <div class="combo-package-chat-box">
                             <div class="chat-btn">
-                            <a href="javascript:$zopim.livechat.window.show();" class="chatt">
+                            <a href="javascript:toggleTawkChat();" class="chatt">
                                 <h5>Click here to <i class="fa fa-comment"></i><span>Live Chat</span></h5>
                             </a>
                             </div>
@@ -435,7 +435,7 @@
                         </div>
                         <div class="combo-package-chat-box">
                             <div class="chat-btn">
-                            <a href="javascript:$zopim.livechat.window.show();" class="chatt">
+                            <a href="javascript:toggleTawkChat();" class="chatt">
                                 <h5>Click here to <i class="fa fa-comment"></i><span>Live Chat</span></h5>
                             </a>
                             </div>
@@ -550,7 +550,7 @@
                         </div>
                         <div class="combo-package-chat-box">
                             <div class="chat-btn">
-                            <a href="javascript:$zopim.livechat.window.show();" class="chatt">
+                            <a href="javascript:toggleTawkChat();" class="chatt">
                                 <h5>Click here to <i class="fa fa-comment"></i><span>Live Chat</span></h5>
                             </a>
                             </div>

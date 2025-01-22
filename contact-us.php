@@ -9,7 +9,7 @@
                         <h1>contact us</h1>
                         <h2>Get in Touch with the Reliable Digital Marketing Agency</h2>
                         <a href="javascript:void(0);" class="btn btn-request" data-toggle="modal" data-target="#req_qoute">Request a Qoute</a>
-                        <a href="javascript:$zopim.livechat.window.show();" class="btn btn-live chatt">
+                        <a href="javascript:toggleTawkChat();" class="btn btn-live chatt">
                            <!-- <img src="images/contact-img-3.png" alt="" class="img-fluid" /> -->
                            <i class='fas fa-comment'></i>
                            Live Chat

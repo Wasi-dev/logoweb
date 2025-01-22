@@ -64,8 +64,8 @@
                                         </div>
 
                                         <div class="bottom-contact" style="margin-top: 30px">
-                                            <a data-target="#req_qoute" data-sku="Instant Logo ~ $25 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
-                                            <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
+                                            <a data-target="#req_qoute" data-sku="Basic Logo ~ $35 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                                            <a class="btn chat" href="javascript:toggleTawkChat();">
                                                 <span class="cht_clr"><small>Click here to
                                                         <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                                     </small> Live Chat</span>
@@ -113,8 +113,8 @@
                                         </div>
 
                                         <div class="bottom-contact" style="margin-top: 30px">
-                                            <a data-target="#req_qoute" data-sku="Standard Logo ~ $75 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
-                                            <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
+                                            <a data-target="#req_qoute" data-sku="Startup Logo ~ $75 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                                            <a class="btn chat" href="javascript:toggleTawkChat();">
                                                 <span class="cht_clr"><small>Click here to
                                                         <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                                     </small> Live Chat</span>
@@ -165,8 +165,8 @@
                                         </div>
 
                                         <div class="bottom-contact" style="margin-top: 30px">
-                                            <a data-target="#req_qoute" data-sku="Prime Logo ~ $145 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
-                                            <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
+                                            <a data-target="#req_qoute" data-sku=">Professional ~ $125 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                                            <a class="btn chat" href="javascript:toggleTawkChat();">
                                                 <span class="cht_clr"><small>Click here to
                                                         <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                                     </small> Live Chat</span>
@@ -184,9 +184,9 @@
                                         <div class="packtitles">
                                             <div class="fleft">
                                                 <h4>Business
-                                                Logo (Best Seller)</h4>
+                                                    Logo (Best Seller)</h4>
                                                 <p>Logo Design<br>
-                                                (Logotype/Word mark Logo Design)</p>
+                                                    (Logotype/Word mark Logo Design)</p>
                                             </div>
                                             <div class="fright">
                                                 <h5>75% OFF<span class="cutprice">$1184</span></h5>
@@ -196,33 +196,34 @@
                                             <div class="slim-scroll">
                                                 <div data-package-scroll>
                                                     <ul>
-                                                      
+
                                                         <li> Unlimited Logo Design Idea(s) </li>
-                                 <li> By 6 Designer(s) </li>
-                                 <li> Free Icon Design </li>
-                                 <li> Unlimited Revisions </li>
-                                 <li> 24 Hours TAT </li>
-                                 <li> Stationery Design (Business Card, Letterhead, Envelope) </li>
-                                 <li> Free Electronic Letterhead </li>
-                                 <li> Free Invoice Design </li>
-                                 <li> 2 Sided Flyer (OR) Bi-Fold Brochure Design </li>
-                                 <li>
-                                    File Formats
-                                  
-                                        (.PNG, .JPG, .PDF)  
-                                 </li>
-                                 <li> Get Initial Concepts within 24 hours </li>
-                                 <li> 100% Unique Design Guarantee </li>
-                                 <li> 100% Satisfaction Guarantee </li>
-                                 <li> 100% Money Back Guarantee </li>
+                                                        <li> By 6 Designer(s) </li>
+                                                        <li> Free Icon Design </li>
+                                                        <li> Unlimited Revisions </li>
+                                                        <li> 24 Hours TAT </li>
+                                                        <li> Stationery Design (Business Card, Letterhead, Envelope) </li>
+                                                        <li> Free Electronic Letterhead </li>
+                                                        <li> Free Invoice Design </li>
+                                                        <li> 2 Sided Flyer (OR) Bi-Fold Brochure Design </li>
+                                                        <li>
+                                                            File Formats
+
+                                                            (.PNG, .JPG, .PDF)
+                                                        </li>
+                                                        <li> Get Initial Concepts within 24 hours </li>
+                                                        <li> 100% Unique Design Guarantee </li>
+                                                        <li> 100% Satisfaction Guarantee </li>
+                                                        <li> 100% Money Back Guarantee </li>
                                                     </ul>
                                                 </div>
                                             </div>
                                         </div>
 
                                         <div class="bottom-contact" style="margin-top: 30px">
-                                            <a data-target="#req_qoute" data-sku="Deluxe Logo (Best Seller) ~ $296 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
-                                            <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
+                                            <a data-target="#req_qoute" data-sku="Business
+                                                Logo (Best Seller) ~ $199 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                                            <a class="btn chat" href="javascript:toggleTawkChat();">
                                                 <span class="cht_clr"><small>Click here to
                                                         <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                                     </small> Live Chat</span>
@@ -242,7 +243,7 @@
                                                 <h4>Premium Illustrative
                                                 </h4>
                                                 <p>Logo Design<br>
-                                                (Abstract/Iconic Logo Design)</p>
+                                                    (Abstract/Iconic Logo Design)</p>
                                             </div>
                                             <div class="fright">
                                                 <h5>75% OFF<span class="cutprice">$3200</span></h5>
@@ -252,28 +253,28 @@
                                             <div class="slim-scroll">
                                                 <div data-package-scroll>
                                                     <ul>
-                                                    <li> 3 Hand-drawn Custom Illustrative Design Ideas </li>
-                                 <li> By 4 Creative Artists </li>
-                                 <li> 24 Hours TAT </li>
-                                 <li> Unlimited Revisions </li>
-                                 <li> Stationery Design (Business Card, Letterhead, Envelope) </li>
-                                 <li>
-                                    File Formats
-                                
-                                        	(.AI, .PSD, .EPS, .PNG, .JPG, .PDF, .TIFF) 
-                                 </li>
-                                 <li>Get Initial Concepts within 24 hours</li>
-                                 <li> 100% Unique Design Guarantee </li>
-                                 <li> 100% Satisfaction Guarantee </li>
-                                 <li> 100% Money Back Guarantee </li>
+                                                        <li> 3 Hand-drawn Custom Illustrative Design Ideas </li>
+                                                        <li> By 4 Creative Artists </li>
+                                                        <li> 24 Hours TAT </li>
+                                                        <li> Unlimited Revisions </li>
+                                                        <li> Stationery Design (Business Card, Letterhead, Envelope) </li>
+                                                        <li>
+                                                            File Formats
+
+                                                            (.AI, .PSD, .EPS, .PNG, .JPG, .PDF, .TIFF)
+                                                        </li>
+                                                        <li>Get Initial Concepts within 24 hours</li>
+                                                        <li> 100% Unique Design Guarantee </li>
+                                                        <li> 100% Satisfaction Guarantee </li>
+                                                        <li> 100% Money Back Guarantee </li>
                                                     </ul>
                                                 </div>
                                             </div>
                                         </div>
 
                                         <div class="bottom-contact" style="margin-top: 30px">
-                                            <a data-target="#req_qoute" data-sku="Award Winning Logo Pack ~ $800 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
-                                            <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
+                                            <a data-target="#req_qoute" data-sku="Premium Illustrative ~ $299 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                                            <a class="btn chat" href="javascript:toggleTawkChat();">
                                                 <span class="cht_clr"><small>Click here to
                                                         <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                                     </small> Live Chat</span>
@@ -293,7 +294,7 @@
                                                 <h4>Enterprise
                                                 </h4>
                                                 <p>Logo Design<br>
-                                                (Brand mark/Symbol/Emblem Logo Design)</p>
+                                                    (Brand mark/Symbol/Emblem Logo Design)</p>
                                             </div>
                                             <div class="fright">
                                                 <h5>75% OFF<span class="cutprice">$1399</span></h5>
@@ -303,36 +304,36 @@
                                             <div class="slim-scroll">
                                                 <div data-package-scroll>
                                                     <ul>
-                                                    <li> Unlimited Logo Design Idea(s) </li>
-                                 <li> By 7 Award-Winning Designer(s) </li>
-                                 <li> Free Icon Design </li>
-                                 <li> Unlimited Revisions </li>
-                                 <li> 24 Hours TAT </li>
-                                 <li> Stationery Design (Business Card, Letterhead, Envelope) </li>
-                                 <li> Free Electronic Letterhead </li>
-                                 <li> Free Invoice Design </li>
-                                 <li> 2 Sided Flyer (OR) Bi-Fold Brochure Design </li>
-                                 <li> 4 Pages Website </li>
-                                 <li> Social Media Size Images </li>
-                                 <li> Social Media Pages Design (i.e. Facebook, Twitter, LinkedIn, Pinterest, Instagaram, Google+) (Any 3) </li>
-                                 <li> T-Shirt Design, Signage Design, Packaging Design (Any 2) </li>
-                                 <li>
-                                    File Formats
-                                   
-                                     	(.AI, .EPS, .PNG, .JPG, .PDF)
-                                 </li>
-                                 <li>Get Initial Concepts within 24 hours</li>
-                                 <li> 100% Unique Design Guarantee </li>
-                                 <li> 100% Satisfaction Guarantee </li>
-                                 <li> 100% Money Back Guarantee </li>
+                                                        <li> Unlimited Logo Design Idea(s) </li>
+                                                        <li> By 7 Award-Winning Designer(s) </li>
+                                                        <li> Free Icon Design </li>
+                                                        <li> Unlimited Revisions </li>
+                                                        <li> 24 Hours TAT </li>
+                                                        <li> Stationery Design (Business Card, Letterhead, Envelope) </li>
+                                                        <li> Free Electronic Letterhead </li>
+                                                        <li> Free Invoice Design </li>
+                                                        <li> 2 Sided Flyer (OR) Bi-Fold Brochure Design </li>
+                                                        <li> 4 Pages Website </li>
+                                                        <li> Social Media Size Images </li>
+                                                        <li> Social Media Pages Design (i.e. Facebook, Twitter, LinkedIn, Pinterest, Instagaram, Google+) (Any 3) </li>
+                                                        <li> T-Shirt Design, Signage Design, Packaging Design (Any 2) </li>
+                                                        <li>
+                                                            File Formats
+
+                                                            (.AI, .EPS, .PNG, .JPG, .PDF)
+                                                        </li>
+                                                        <li>Get Initial Concepts within 24 hours</li>
+                                                        <li> 100% Unique Design Guarantee </li>
+                                                        <li> 100% Satisfaction Guarantee </li>
+                                                        <li> 100% Money Back Guarantee </li>
                                                     </ul>
                                                 </div>
                                             </div>
                                         </div>
 
                                         <div class="bottom-contact" style="margin-top: 30px">
-                                            <a data-target="#req_qoute" data-sku="3D and Illustration Logo ~ $350 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
-                                            <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
+                                            <a data-target="#req_qoute" data-sku="Enterprise ~ $499 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                                            <a class="btn chat" href="javascript:toggleTawkChat();">
                                                 <span class="cht_clr"><small>Click here to
                                                         <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                                     </small> Live Chat</span>
@@ -358,7 +359,7 @@
                                                 <h4>Basic
                                                 </h4>
                                                 <p>Website Design
-</p>
+                                                </p>
                                             </div>
                                             <div class="fright">
                                                 <h5>75% OFF<span class="cutprice">$888</span></h5>
@@ -368,24 +369,24 @@
                                             <div class="slim-scroll">
                                                 <div data-package-scroll>
                                                     <ul>
-                                                    <li> 2 Stock Images </li>
-                                 <li> 3 Page Website </li>
-                                 <li> 1 jQuery Slider Banner </li>
-                                 <li> Contact/Query Form </li>
-                                 <li> Complete W3C Certified HTML </li>
-                                 <li> 48 to 72 hours TAT </li>
-                                 <li> Complete Deployment </li>
-                                 <li> 100% Satisfaction Guarantee </li>
-                                 <li> 100% Unique Design Guarantee </li>
-                                 <li> 100% Money Back Guarantee * </li>
+                                                        <li> 2 Stock Images </li>
+                                                        <li> 3 Page Website </li>
+                                                        <li> 1 jQuery Slider Banner </li>
+                                                        <li> Contact/Query Form </li>
+                                                        <li> Complete W3C Certified HTML </li>
+                                                        <li> 48 to 72 hours TAT </li>
+                                                        <li> Complete Deployment </li>
+                                                        <li> 100% Satisfaction Guarantee </li>
+                                                        <li> 100% Unique Design Guarantee </li>
+                                                        <li> 100% Money Back Guarantee * </li>
                                                     </ul>
                                                 </div>
                                             </div>
                                         </div>
 
                                         <div class="bottom-contact" style="margin-top: 30px">
-                                            <a data-target="#req_qoute" data-sku="Bronze Package ~ $255 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
-                                            <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
+                                            <a data-target="#req_qoute" data-sku="Basic ~ $222 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                                            <a class="btn chat" href="javascript:toggleTawkChat();">
                                                 <span class="cht_clr"><small>Click here to
                                                         <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                                     </small> Live Chat</span>
@@ -415,27 +416,27 @@
                                             <div class="slim-scroll">
                                                 <div data-package-scroll>
                                                     <ul>
-                                                    <li> 5 Stock Photos </li>
-                                 <li> 5 Page Website </li>
-                                 <li> 3 Banner Design </li>
-                                 <li> 1 jQuery Slider Banner </li>
-                                 <li> <span>FREE</span> Google Friendly Sitemap </li>
-                                 <li> Complete W3C Certified HTML </li>
-                                 <li> 48 to 72 hours TAT </li>
-                                 <li> 100% Satisfaction Guarantee </li>
-                                 <li> 100% Unique Design Guarantee </li>
-                                 <li> 100% Money Back Guarantee * </li>
-                                 <li> Mobile Responsive will be Additional <span>$200*</span> </li>
-                                 <li> CMS will be Additional <span>$250*</span> </li>
-                              </ul>
+                                                        <li> 5 Stock Photos </li>
+                                                        <li> 5 Page Website </li>
+                                                        <li> 3 Banner Design </li>
+                                                        <li> 1 jQuery Slider Banner </li>
+                                                        <li> <span>FREE</span> Google Friendly Sitemap </li>
+                                                        <li> Complete W3C Certified HTML </li>
+                                                        <li> 48 to 72 hours TAT </li>
+                                                        <li> 100% Satisfaction Guarantee </li>
+                                                        <li> 100% Unique Design Guarantee </li>
+                                                        <li> 100% Money Back Guarantee * </li>
+                                                        <li> Mobile Responsive will be Additional <span>$200*</span> </li>
+                                                        <li> CMS will be Additional <span>$250*</span> </li>
+                                                    </ul>
                                                     </ul>
                                                 </div>
                                             </div>
                                         </div>
 
                                         <div class="bottom-contact" style="margin-top: 30px">
-                                            <a data-target="#req_qoute" data-sku="Silver Package ~ $455 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
-                                            <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
+                                            <a data-target="#req_qoute" data-sku="Startup ~ $294 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                                            <a class="btn chat" href="javascript:toggleTawkChat();">
                                                 <span class="cht_clr"><small>Click here to
                                                         <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                                     </small> Live Chat</span>
@@ -464,26 +465,26 @@
                                             <div class="slim-scroll">
                                                 <div data-package-scroll>
                                                     <ul>
-                                                    <li> 10 Unique Pages Website </li>
-                                 <li> CMS / Admin Panel Support </li>
-                                 <li> 8 Stock images </li>
-                                 <li> 5 Banner Designs </li>
-                                 <li> 1 jQuery Slider Banner </li>
-                                 <li> <span>FREE</span> Google Friendly Sitemap </li>
-                                 <li> Complete W3C Certified HTML </li>
-                                 <li> 48 to 72 hours TAT </li>
-                                 <li> Complete Deployment </li>
-                                 <li> 100% Satisfaction Guarantee </li>
-                                 <li> 100% Unique Design Guarantee </li>
-                                 <li> 100% Money Back Guarantee * </li>
-                                 <li> Mobile Responsive will be Additional <span>$200*</span> </li>
+                                                        <li> 10 Unique Pages Website </li>
+                                                        <li> CMS / Admin Panel Support </li>
+                                                        <li> 8 Stock images </li>
+                                                        <li> 5 Banner Designs </li>
+                                                        <li> 1 jQuery Slider Banner </li>
+                                                        <li> <span>FREE</span> Google Friendly Sitemap </li>
+                                                        <li> Complete W3C Certified HTML </li>
+                                                        <li> 48 to 72 hours TAT </li>
+                                                        <li> Complete Deployment </li>
+                                                        <li> 100% Satisfaction Guarantee </li>
+                                                        <li> 100% Unique Design Guarantee </li>
+                                                        <li> 100% Money Back Guarantee * </li>
+                                                        <li> Mobile Responsive will be Additional <span>$200*</span> </li>
                                                     </ul>
                                                 </div>
                                             </div>
                                         </div>
 
                                         <div class="bottom-contact" style="margin-top: 30px">
-                                            <a data-target="#req_qoute" data-sku="Gold Package ~ $755 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                                            <a data-target="#req_qoute" data-sku="Economy ~ $644 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
                                             <span class="cht_clr"><small>Click here to
                                                     <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                                 </small> Live Chat</span>
@@ -512,34 +513,34 @@
                                             <div class="slim-scroll">
                                                 <div data-package-scroll>
                                                     <ul>
-                                                    <li> Upto 15 Unique Pages Website </li>
-                                 <li> Conceptual and Dynamic Website </li>
-                                 <li> Mobile Responsive </li>
-                                 <li> Online Reservation/Appointment Tool (Optional) </li>
-                                 <li> Online Payment Integration (Optional) </li>
-                                 <li> Custom Forms </li>
-                                 <li> Lead Capturing Forms (Optional) </li>
-                                 <li> Striking Hover Effects </li>
-                                 <li> Newsletter Subscription (Optional) </li>
-                                 <li> Social Media Integration </li>
-                                 <li> Search Engine Submission </li>
-                                 <li> 5 Stock Photos </li>
-                                 <li> 3 Unique Banner Design </li>
-                                 <li> 1 jQuery Slider Banner </li>
-                                 <li> Complete W3C Certified HTML </li>
-                                 <li> 48 to 72 hours TAT </li>
-                                 <li> Complete Deployment </li>
-                                 <li> 100% Satisfaction Guarantee </li>
-                                 <li> 100% Unique Design Guarantee </li>
-                                 <li> 100% Money Back Guarantee * </li>
+                                                        <li> Upto 15 Unique Pages Website </li>
+                                                        <li> Conceptual and Dynamic Website </li>
+                                                        <li> Mobile Responsive </li>
+                                                        <li> Online Reservation/Appointment Tool (Optional) </li>
+                                                        <li> Online Payment Integration (Optional) </li>
+                                                        <li> Custom Forms </li>
+                                                        <li> Lead Capturing Forms (Optional) </li>
+                                                        <li> Striking Hover Effects </li>
+                                                        <li> Newsletter Subscription (Optional) </li>
+                                                        <li> Social Media Integration </li>
+                                                        <li> Search Engine Submission </li>
+                                                        <li> 5 Stock Photos </li>
+                                                        <li> 3 Unique Banner Design </li>
+                                                        <li> 1 jQuery Slider Banner </li>
+                                                        <li> Complete W3C Certified HTML </li>
+                                                        <li> 48 to 72 hours TAT </li>
+                                                        <li> Complete Deployment </li>
+                                                        <li> 100% Satisfaction Guarantee </li>
+                                                        <li> 100% Unique Design Guarantee </li>
+                                                        <li> 100% Money Back Guarantee * </li>
                                                     </ul>
                                                 </div>
                                             </div>
                                         </div>
 
                                         <div class="bottom-contact" style="margin-top: 30px">
-                                            <a data-target="#req_qoute" data-sku="Platinum Package ~ $955 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
-                                            <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
+                                            <a data-target="#req_qoute" data-sku="Custom ~ $1194 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                                            <a class="btn chat" href="javascript:toggleTawkChat();">
                                                 <span class="cht_clr"><small>Click here to
                                                         <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                                     </small> Live Chat</span>
@@ -569,42 +570,42 @@
                                             <div class="slim-scroll">
                                                 <div data-package-scroll>
                                                     <ul>
-                                                    <li> 15 to 20 Pages Website </li>
-                                 <li> Custom Made, Interactive, Dynamic &amp; High End Design </li>
-                                 <li> Custom WP (or) Custom PHP Development </li>
-                                 <li> 1 jQuery Slider Banner </li>
-                                 <li> Up to 10 Custom Made Banner Designs </li>
-                                 <li> 10 Stock Images </li>
-                                 <li> Unlimited Revisions </li>
-                                 <li> Special Hoover Effects </li>
-                                 <li> Content Management System (CMS) </li>
-                                 <li> Online Appointment/Scheduling/Online Ordering Integration (Optional) </li>
-                                 <li> Online Payment Integration (Optional) </li>
-                                 <li> Multi Lingual (Optional) </li>
-                                 <li> Custom Dynamic Forms (Optional) </li>
-                                 <li> Signup Area (For Newsletters, Offers etc.) </li>
-                                 <li> Search Bar </li>
-                                 <li> Live Feeds of Social Networks integration (Optional) </li>
-                                 <li> Mobile Responsive </li>
-                                 <li> FREE 5 Years Domain Name </li>
-                                 <li> Free Google Friendly Sitemap </li>
-                                 <li> Search Engine Submission </li>
-                                 <li> Complete W3C Certified HTML </li>
-                                 <li> Industry Specified Team of Expert Designers and Developers </li>
-                                 <li> Complete Deployment </li>
-                                 <li> Dedicated Accounts Manager </li>
-                                 <li> 100% Ownership</li>
-                                 <li> 100% Satisfaction Guarantee </li>
-                                 <li> 100% Unique Design Guarantee </li>
-                                 <li> 100% Money Back Guarantee * </li>
+                                                        <li> 15 to 20 Pages Website </li>
+                                                        <li> Custom Made, Interactive, Dynamic &amp; High End Design </li>
+                                                        <li> Custom WP (or) Custom PHP Development </li>
+                                                        <li> 1 jQuery Slider Banner </li>
+                                                        <li> Up to 10 Custom Made Banner Designs </li>
+                                                        <li> 10 Stock Images </li>
+                                                        <li> Unlimited Revisions </li>
+                                                        <li> Special Hoover Effects </li>
+                                                        <li> Content Management System (CMS) </li>
+                                                        <li> Online Appointment/Scheduling/Online Ordering Integration (Optional) </li>
+                                                        <li> Online Payment Integration (Optional) </li>
+                                                        <li> Multi Lingual (Optional) </li>
+                                                        <li> Custom Dynamic Forms (Optional) </li>
+                                                        <li> Signup Area (For Newsletters, Offers etc.) </li>
+                                                        <li> Search Bar </li>
+                                                        <li> Live Feeds of Social Networks integration (Optional) </li>
+                                                        <li> Mobile Responsive </li>
+                                                        <li> FREE 5 Years Domain Name </li>
+                                                        <li> Free Google Friendly Sitemap </li>
+                                                        <li> Search Engine Submission </li>
+                                                        <li> Complete W3C Certified HTML </li>
+                                                        <li> Industry Specified Team of Expert Designers and Developers </li>
+                                                        <li> Complete Deployment </li>
+                                                        <li> Dedicated Accounts Manager </li>
+                                                        <li> 100% Ownership</li>
+                                                        <li> 100% Satisfaction Guarantee </li>
+                                                        <li> 100% Unique Design Guarantee </li>
+                                                        <li> 100% Money Back Guarantee * </li>
                                                     </ul>
                                                 </div>
                                             </div>
                                         </div>
 
                                         <div class="bottom-contact" style="margin-top: 30px">
-                                            <a data-target="#req_qoute" data-sku="Diamond Package ~ $1455 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
-                                            <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
+                                            <a data-target="#req_qoute" data-sku="Elite ~ $2194 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                                            <a class="btn chat" href="javascript:toggleTawkChat();">
                                                 <span class="cht_clr"><small>Click here to
                                                         <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                                     </small> Live Chat</span>
@@ -633,60 +634,60 @@
                                             <div class="slim-scroll">
                                                 <div data-package-scroll>
                                                     <ul>
-                                                    <li>Complete Custom Design &amp; Development</li>
-                                 <li>Dating Portal, Job Portal, Professional Network Portal, Social Network Portal, Restaurant Portal, Medical</li>
-                                 <li>Portal, Enterprise Portal (Any One)</li>
-                                 <li>Unique, User Friendly, Interactive, Dynamic, High End UI Design</li>
-                                 <li>Unlimited Banner Designs</li>
-                                 <li>Interactive Sliding Banners</li>
-                                 <li>Special Hoover Effects</li>
-                                 <li>Unlimited Stock Images</li>
-                                 <li>User Signup Area</li>
-                                 <li>User Sign in Area</li>
-                                 <li>Client/User Dashboard Area</li>
-                                 <li>Custom Coding and Development</li>
-                                 <li>Content Management System (Custom)</li>
-                                 <li>Online Appointment/Scheduling/Online Ordering Integration (Optional)</li>
-                                 <li>Online Payment Integration (Optional)</li>
-                                 <li>Multi Lingual (Optional)</li>
-                                 <li>Custom Dynamic Forms (Optional)</li>
-                                 <li>Shopping Cart Integration (Optional)</li>
-                                 <li>Complete Database Creation</li>
-                                 <li>Signup Automated Email Authentication</li>
-                                 <li>Web Traffic Analytics Integration</li>
-                                 <li>3rd Party API Integrations</li>
-                                 <li>Signup Area (For Newsletters, Offers etc.)</li>
-                                 <li>Search Bar for Easy Search</li>
-                                 <li>Live Feeds of Social Networks integration (Optional)</li>
-                                 <li>Search Engine Submission</li>
-                                 <li>Module-wise Architecture</li>
-                                 <li>Extensive Admin Panel</li>
-                                 <li>Award Winning Team of Expert Designers and Developers</li>
-                                 <li>Complete Deployment</li>
-                                 <li>
-                                    <h4><b><u>Value Added Services</u></b></h4>
-                                 </li>
-                                 <li>Complete Source Files and Codes</li>
-                                 <li>Devoted &amp; Enthusiastic Project Manager</li>
-                                 <li>100% Ownership</li>
-                                 <li>100% Unique &amp; Custom Website Design and Development</li>
-                                 <li>100% Approval Assurance </li>
-                                 <li>30 Days Refund Warranty</li>
-                                 <li><strong>*NO MONTHLY OR ANY HIDDEN FEE*</strong></li>
-                                 <li>
-                                    <h4><b><u>Add on</u></b></h4>
-                                 </li>
-                                 <li>Professional Content/Copywriting - $1340 (Up to 20 Pages) - (Per Page is $97)</li>
-                                 <li>Shopping Cart Integration - $250</li>
-                                 <li>Additional Professional Email ID - $20 (Each)</li>
+                                                        <li>Complete Custom Design &amp; Development</li>
+                                                        <li>Dating Portal, Job Portal, Professional Network Portal, Social Network Portal, Restaurant Portal, Medical</li>
+                                                        <li>Portal, Enterprise Portal (Any One)</li>
+                                                        <li>Unique, User Friendly, Interactive, Dynamic, High End UI Design</li>
+                                                        <li>Unlimited Banner Designs</li>
+                                                        <li>Interactive Sliding Banners</li>
+                                                        <li>Special Hoover Effects</li>
+                                                        <li>Unlimited Stock Images</li>
+                                                        <li>User Signup Area</li>
+                                                        <li>User Sign in Area</li>
+                                                        <li>Client/User Dashboard Area</li>
+                                                        <li>Custom Coding and Development</li>
+                                                        <li>Content Management System (Custom)</li>
+                                                        <li>Online Appointment/Scheduling/Online Ordering Integration (Optional)</li>
+                                                        <li>Online Payment Integration (Optional)</li>
+                                                        <li>Multi Lingual (Optional)</li>
+                                                        <li>Custom Dynamic Forms (Optional)</li>
+                                                        <li>Shopping Cart Integration (Optional)</li>
+                                                        <li>Complete Database Creation</li>
+                                                        <li>Signup Automated Email Authentication</li>
+                                                        <li>Web Traffic Analytics Integration</li>
+                                                        <li>3rd Party API Integrations</li>
+                                                        <li>Signup Area (For Newsletters, Offers etc.)</li>
+                                                        <li>Search Bar for Easy Search</li>
+                                                        <li>Live Feeds of Social Networks integration (Optional)</li>
+                                                        <li>Search Engine Submission</li>
+                                                        <li>Module-wise Architecture</li>
+                                                        <li>Extensive Admin Panel</li>
+                                                        <li>Award Winning Team of Expert Designers and Developers</li>
+                                                        <li>Complete Deployment</li>
+                                                        <li>
+                                                            <h4><b><u>Value Added Services</u></b></h4>
+                                                        </li>
+                                                        <li>Complete Source Files and Codes</li>
+                                                        <li>Devoted &amp; Enthusiastic Project Manager</li>
+                                                        <li>100% Ownership</li>
+                                                        <li>100% Unique &amp; Custom Website Design and Development</li>
+                                                        <li>100% Approval Assurance </li>
+                                                        <li>30 Days Refund Warranty</li>
+                                                        <li><strong>*NO MONTHLY OR ANY HIDDEN FEE*</strong></li>
+                                                        <li>
+                                                            <h4><b><u>Add on</u></b></h4>
+                                                        </li>
+                                                        <li>Professional Content/Copywriting - $1340 (Up to 20 Pages) - (Per Page is $97)</li>
+                                                        <li>Shopping Cart Integration - $250</li>
+                                                        <li>Additional Professional Email ID - $20 (Each)</li>
                                                     </ul>
                                                 </div>
                                             </div>
                                         </div>
 
                                         <div class="bottom-contact" style="margin-top: 30px">
-                                            <a data-target="#req_qoute" data-sku="Titanium Package ~ $2555 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
-                                            <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
+                                            <a data-target="#req_qoute" data-sku="PORTAL ~ $5322 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                                            <a class="btn chat" href="javascript:toggleTawkChat();">
                                                 <span class="cht_clr"><small>Click here to
                                                         <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                                     </small> Live Chat</span>
@@ -736,7 +737,7 @@
 
                                         <div class="bottom-contact" style="margin-top: 30px">
                                             <a data-target="#req_qoute" data-sku="Start-UP Package ~ $455 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
-                                            <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
+                                            <a class="btn chat" href="javascript:toggleTawkChat();">
                                                 <span class="cht_clr"><small>Click here to
                                                         <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                                     </small> Live Chat</span>
@@ -784,7 +785,7 @@
 
                                         <div class="bottom-contact" style="margin-top: 30px">
                                             <a data-target="#req_qoute" data-sku="Business Package ~ $755 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
-                                            <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
+                                            <a class="btn chat" href="javascript:toggleTawkChat();">
                                                 <span class="cht_clr"><small>Click here to
                                                         <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                                     </small> Live Chat</span>
@@ -832,7 +833,7 @@
 
                                         <div class="bottom-contact" style="margin-top: 30px">
                                             <a data-target="#req_qoute" data-sku="Platinum Package ~ $1155 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
-                                            <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
+                                            <a class="btn chat" href="javascript:toggleTawkChat();">
                                                 <span class="cht_clr"><small>Click here to
                                                         <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                                     </small> Live Chat</span>
@@ -868,21 +869,21 @@
                                             <div class="slim-scroll">
                                                 <div data-package-scroll>
                                                     <ul>
-                                                    <li> Basic Stationery Package </li>
-                                 <li> Business Card </li>
-                                 <li> Letterhead Design </li>
-                                 <li> Envelope Design </li>
-                                 <li> 100% Satisfaction Guarantee </li>
-                                 <li> 100% Money Back Guarantee </li>
-                                 <li> 100% Unique Design Guarantee </li>
+                                                        <li> Basic Stationery Package </li>
+                                                        <li> Business Card </li>
+                                                        <li> Letterhead Design </li>
+                                                        <li> Envelope Design </li>
+                                                        <li> 100% Satisfaction Guarantee </li>
+                                                        <li> 100% Money Back Guarantee </li>
+                                                        <li> 100% Unique Design Guarantee </li>
                                                     </ul>
                                                 </div>
                                             </div>
                                         </div>
 
                                         <div class="bottom-contact" style="margin-top: 30px">
-                                            <a data-target="#req_qoute" data-sku="Starter Branding Pack ~ $100 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
-                                            <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
+                                            <a data-target="#req_qoute" data-sku="Basic ~ $45 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                                            <a class="btn chat" href="javascript:toggleTawkChat();">
                                                 <span class="cht_clr"><small>Click here to
                                                         <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                                     </small> Live Chat</span>
@@ -912,24 +913,24 @@
                                             <div class="slim-scroll">
                                                 <div data-package-scroll>
                                                     <ul>
-                                                    <li> Ultimate Stationery Package </li>
-                                 <li> 2 Business Cards </li>
-                                 <li> Letterhead Design </li>
-                                 <li> Envelope Design </li>
-                                 <li> Fax Template </li>
-                                 <li> MS Word Letterhead </li>
-                                 <li> 4 Page Brochure Design </li>
-                                 <li> 100% Satisfaction Guarantee </li>
-                                 <li> 100% Money Back Guarantee </li>
-                                 <li> 100% Unique Design Guarantee </li>
+                                                        <li> Ultimate Stationery Package </li>
+                                                        <li> 2 Business Cards </li>
+                                                        <li> Letterhead Design </li>
+                                                        <li> Envelope Design </li>
+                                                        <li> Fax Template </li>
+                                                        <li> MS Word Letterhead </li>
+                                                        <li> 4 Page Brochure Design </li>
+                                                        <li> 100% Satisfaction Guarantee </li>
+                                                        <li> 100% Money Back Guarantee </li>
+                                                        <li> 100% Unique Design Guarantee </li>
                                                     </ul>
                                                 </div>
                                             </div>
                                         </div>
 
                                         <div class="bottom-contact" style="margin-top: 30px">
-                                            <a data-target="#req_qoute" data-sku="Essential Branding Pack ~ $755 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
-                                            <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
+                                            <a data-target="#req_qoute" data-sku="Economy ~ $79 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                                            <a class="btn chat" href="javascript:toggleTawkChat();">
                                                 <span class="cht_clr"><small>Click here to
                                                         <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                                     </small> Live Chat</span>
@@ -958,23 +959,23 @@
                                             <div class="slim-scroll">
                                                 <div data-package-scroll>
                                                     <ul>
-                                                    <li> Corporate Stationery Package </li>
-                                 <li> Business Card </li>
-                                 <li> Letterhead Design </li>
-                                 <li> Envelope Design </li>
-                                 <li> Fax Template </li>
-                                 <li> MS Word Letterhead </li>
-                                 <li> 100% Satisfaction Guarantee </li>
-                                 <li> 100% Money Back Guarantee </li>
-                                 <li> 100% Unique Design Guarantee </li>
+                                                        <li> Corporate Stationery Package </li>
+                                                        <li> Business Card </li>
+                                                        <li> Letterhead Design </li>
+                                                        <li> Envelope Design </li>
+                                                        <li> Fax Template </li>
+                                                        <li> MS Word Letterhead </li>
+                                                        <li> 100% Satisfaction Guarantee </li>
+                                                        <li> 100% Money Back Guarantee </li>
+                                                        <li> 100% Unique Design Guarantee </li>
                                                     </ul>
                                                 </div>
                                             </div>
                                         </div>
 
                                         <div class="bottom-contact" style="margin-top: 30px">
-                                            <a data-target="#req_qoute" data-sku="Corporate Branding Pack ~ $450 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
-                                            <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
+                                            <a data-target="#req_qoute" data-sku="Startup ~ $129 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                                            <a class="btn chat" href="javascript:toggleTawkChat();">
                                                 <span class="cht_clr"><small>Click here to
                                                         <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                                     </small> Live Chat</span>
@@ -1025,7 +1026,7 @@
 
                                         <div class="bottom-contact" style="margin-top: 30px">
                                             <a data-target="#req_qoute" data-sku="E-Commerce Startup ~ $755 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
-                                            <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
+                                            <a class="btn chat" href="javascript:toggleTawkChat();">
                                                 <span class="cht_clr"><small>Click here to
                                                         <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                                     </small> Live Chat</span>
@@ -1072,7 +1073,7 @@
 
                                         <div class="bottom-contact" style="margin-top: 30px">
                                             <a data-target="#req_qoute" data-sku="E-Commerce Professiona ~ $1355 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
-                                            <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
+                                            <a class="btn chat" href="javascript:toggleTawkChat();">
                                                 <span class="cht_clr"><small>Click here to
                                                         <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                                     </small> Live Chat</span>
@@ -1144,7 +1145,7 @@
 
                                         <div class="bottom-contact" style="margin-top: 30px">
                                             <a data-target="#req_qoute" data-sku="E-Commerce Elite ~ $3555 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
-                                            <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
+                                            <a class="btn chat" href="javascript:toggleTawkChat();">
                                                 <span class="cht_clr"><small>Click here to
                                                         <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                                     </small> Live Chat</span>
@@ -1192,7 +1193,7 @@
 
                                         <div class="bottom-contact" style="margin-top: 30px">
                                             <a data-target="#req_qoute" data-sku="Small Business ~ $355 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
-                                            <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
+                                            <a class="btn chat" href="javascript:toggleTawkChat();">
                                                 <span class="cht_clr"><small>Click here to
                                                         <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                                     </small> Live Chat</span>
@@ -1239,7 +1240,7 @@
 
                                         <div class="bottom-contact" style="margin-top: 30px">
                                             <a data-target="#req_qoute" data-sku="Medium Business ~ $555 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
-                                            <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
+                                            <a class="btn chat" href="javascript:toggleTawkChat();">
                                                 <span class="cht_clr"><small>Click here to
                                                         <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                                     </small> Live Chat</span>
@@ -1281,7 +1282,7 @@
 
                                         <div class="bottom-contact" style="margin-top: 30px">
                                             <a data-target="#req_qoute" data-sku="Small Business ~ $355 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
-                                            <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
+                                            <a class="btn chat" href="javascript:toggleTawkChat();">
                                                 <span class="cht_clr"><small>Click here to
                                                         <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                                     </small> Live Chat</span>
@@ -1329,7 +1330,7 @@
 
                                         <div class="bottom-contact" style="margin-top: 30px">
                                             <a data-target="#req_qoute" data-sku="Web Content Package ~ $50 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
-                                            <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
+                                            <a class="btn chat" href="javascript:toggleTawkChat();">
                                                 <span class="cht_clr"><small>Click here to
                                                         <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                                     </small> Live Chat</span>
@@ -1371,7 +1372,7 @@
 
                                         <div class="bottom-contact" style="margin-top: 30px">
                                             <a data-target="#req_qoute" data-sku="Article Writing Packag ~ $55 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
-                                            <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
+                                            <a class="btn chat" href="javascript:toggleTawkChat();">
                                                 <span class="cht_clr"><small>Click here to
                                                         <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                                     </small> Live Chat</span>
@@ -1413,7 +1414,7 @@
 
                                         <div class="bottom-contact" style="margin-top: 30px">
                                             <a data-target="#req_qoute" data-sku="Infograpgics Package ~ $155 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
-                                            <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
+                                            <a class="btn chat" href="javascript:toggleTawkChat();">
                                                 <span class="cht_clr"><small>Click here to
                                                         <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                                     </small> Live Chat</span>

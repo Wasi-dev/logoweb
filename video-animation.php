@@ -29,7 +29,7 @@
                                  <div id="formResult" class="slideformResult"></div>
                                  <input class="pkg_btn submit" data-sku="Offering Engaging Form " name="submit"
                                     type="submit" value="Submit Now" required />
-                                 <a href="javascript:$zopim.livechat.window.show();" class="btn btn-live chatt"><i
+                                 <a href="javascript:toggleTawkChat();" class="btn btn-live chatt"><i
                                        class='fas fa-comment'></i>Live Chat</a>
                               </div>
                            </div>
@@ -208,7 +208,7 @@
                         
                         <div class="bottom-contact" style="margin-top: 30px">
                         <a data-target="#req_qoute" data-sku="Start-UP Package ~ $455 " data-toggle="modal"
-                           class="pkg_btn btn btn-order startchat">order now</a>                            <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
+                           class="pkg_btn btn btn-order startchat">order now</a>                            <a class="btn chat" href="javascript:toggleTawkChat();">
                             <span class="cht_clr"><small>Click here to
                             <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                 </small> Live Chat</span>
@@ -256,7 +256,7 @@
                         
                         <div class="bottom-contact" style="margin-top: 30px">
                         <a data-target="#req_qoute" data-sku="Business Package ~ $755 " data-toggle="modal"
-                           class="pkg_btn btn btn-order startchat">order now</a>                            <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
+                           class="pkg_btn btn btn-order startchat">order now</a>                            <a class="btn chat" href="javascript:toggleTawkChat();">
                             <span class="cht_clr"><small>Click here to
                             <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                 </small> Live Chat</span>
@@ -304,7 +304,7 @@
                         
                         <div class="bottom-contact" style="margin-top: 30px">
                         <a data-target="#req_qoute" data-sku="Platinum Package ~ $1155 " data-toggle="modal"
-                           class="pkg_btn btn btn-order startchat">order now</a>                            <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
+                           class="pkg_btn btn btn-order startchat">order now</a>                            <a class="btn chat" href="javascript:toggleTawkChat();">
                             <span class="cht_clr"><small>Click here to
                             <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
                                 </small> Live Chat</span>

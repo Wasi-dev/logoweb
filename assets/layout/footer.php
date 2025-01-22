@@ -134,7 +134,7 @@
 
       <a href="<?php echo $phone_link ?>" class="callusnow"><i class="fa fa-phone"></i></a>
 
-      <a href="javascript:$zopim.livechat.window.show();" target="_self" class="callusnow chat"><i class="fa fa-comment"></i></a>
+      <a href="javascript:toggleTawkChat();" target="_self" class="callusnow chat"><i class="fa fa-comment"></i></a>
       <div class="floatingform-sec floating_wrapx">
       <div class="outer-show">
          <p class="blink">let's Get Started</p>

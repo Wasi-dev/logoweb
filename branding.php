@@ -29,7 +29,7 @@
                               <div id="formResult" class="slideformResult"></div>
                               <input class="pkg_btn submit" data-sku="Offering Engaging Form " name="submit"
                                  type="submit" value="Submit Now" required />
-                              <a href="javascript:$zopim.livechat.window.show();" class="btn btn-live chatt"><i
+                              <a href="javascript:toggleTawkChat();" class="btn btn-live chatt"><i
                                     class='fas fa-comment'></i>Live Chat</a>
                            </div>
                         </div>
@@ -162,154 +162,145 @@
             most reasonable price plans. We ensure quality over quantity. </p>
       </div>
       <div class="package-slider-box">
-         <div class="owl-carousel owl-theme">
-            <div class="item">
-               <div class="item" data-package-box>
-                  <div class="package-main-box">
-                     <div class="package-pr">
-                        <h3>$100</h3>
-                     </div>
-                     <div class="packtitles">
-                        <div class="fleft">
-                           <h4>Starter Branding Pack</h4>
-                           <p>Suitable for Small Startups</p>
-                        </div>
-                        <div class="fright">
-                           <h5>75% OFF<span class="cutprice">$399</span></h5>
-                        </div>
-                     </div>
-                     <div class="package-content">
-                        <div class="slim-scroll">
-                           <div data-package-scroll>
-                              <ul>
-                                 <li>Business Card Design </li>
-                                 <li>Letter head Design </li>
-                                 <li>Envelope Design </li>
-                                 <li>MS Word Letterhead </li>
-                                 <li>Email Signature Design </li>
-                                 <li>Invoice Design </li>
-                                 <li>Facebook Banner Design </li>
-                                 <li>Youtube Banner Design </li>
-                                 <li>Twitter Banner Design </li>
-                                 <li>LinkedIn Banner Design </li>
-                                 <li>Logo Watermark </li>
-                              </ul>
-                           </div>
-                        </div>
-                     </div>
+                        <div class="owl-carousel owl-theme">
+                            <div class="item">
+                                <div class="item" data-package-box>
+                                    <div class="package-main-box">
+                                        <div class="package-pr">
+                                            <h3>$45</h3>
+                                        </div>
+                                        <div class="packtitles">
+                                            <div class="fleft">
+                                                <h4>Basic
+                                                </h4>
+                                                <p>Stationery Design
+                                                </p>
+                                            </div>
+                                            <div class="fright">
+                                                <h5>75% OFF<span class="cutprice">$180</span></h5>
+                                            </div>
+                                        </div>
+                                        <div class="package-content">
+                                            <div class="slim-scroll">
+                                                <div data-package-scroll>
+                                                    <ul>
+                                                        <li> Basic Stationery Package </li>
+                                                        <li> Business Card </li>
+                                                        <li> Letterhead Design </li>
+                                                        <li> Envelope Design </li>
+                                                        <li> 100% Satisfaction Guarantee </li>
+                                                        <li> 100% Money Back Guarantee </li>
+                                                        <li> 100% Unique Design Guarantee </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
 
-                     <div class="bottom-contact" style="margin-top: 30px">
-                     <a data-target="#req_qoute" data-sku="Starter Branding Pack ~ $100 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
-                        <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
-                           <span class="cht_clr"><small>Click here to
-                                 <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
-                              </small> Live Chat</span>
-                        </a>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="item">
-               <div class="item" data-package-box>
-                  <div class="package-main-box">
-                     <div class="package-pr">
-                        <h3>$125</h3>
-                     </div>
-                     <div class="packtitles">
-                        <div class="fleft">
-                           <h4>Essential Branding Pack</h4>
-                           <p>Suitable for Small Startups</p>
-                        </div>
-                        <div class="fright">
-                           <h5>75% OFF<span class="cutprice">$500</span></h5>
-                        </div>
-                     </div>
-                     <div class="package-content">
-                        <div class="slim-scroll">
-                           <div data-package-scroll>
-                              <ul>
-                                 <li>Starter Pack Included </li>
-                                 <li>Favicon Design </li>
-                                 <li>Polo/T-Shirt Design </li>
-                                 <li>Cap/Hat Design </li>
-                                 <li>MS Word Letterhead Included </li>
-                                 <li>48 Hours Delivery *** </li>
-                                 <li>Print Ready File Formats </li>
-                                 <li>Email & Phone Support </li>
-                              </ul>
-                           </div>
-                        </div>
-                     </div>
+                                        <div class="bottom-contact" style="margin-top: 30px">
+                                            <a data-target="#req_qoute" data-sku="Basic ~ $45 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                                            <a class="btn chat" href="javascript:toggleTawkChat();">
+                                                <span class="cht_clr"><small>Click here to
+                                                        <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
+                                                    </small> Live Chat</span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="item" data-package-box>
+                                    <div class="package-main-box">
+                                        <div class="package-pr">
+                                            <h3>$79</h3>
+                                        </div>
+                                        <div class="packtitles">
+                                            <div class="fleft">
+                                                <h4>Economy
+                                                </h4>
+                                                <p>Stationery Design
+                                                </p>
+                                            </div>
+                                            <div class="fright">
+                                                <h5>75% OFF<span class="cutprice">$316</span></h5>
+                                            </div>
+                                        </div>
+                                        <div class="package-content">
+                                            <div class="slim-scroll">
+                                                <div data-package-scroll>
+                                                    <ul>
+                                                        <li> Ultimate Stationery Package </li>
+                                                        <li> 2 Business Cards </li>
+                                                        <li> Letterhead Design </li>
+                                                        <li> Envelope Design </li>
+                                                        <li> Fax Template </li>
+                                                        <li> MS Word Letterhead </li>
+                                                        <li> 4 Page Brochure Design </li>
+                                                        <li> 100% Satisfaction Guarantee </li>
+                                                        <li> 100% Money Back Guarantee </li>
+                                                        <li> 100% Unique Design Guarantee </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
 
-                     <div class="bottom-contact" style="margin-top: 30px">
-                     <a data-target="#req_qoute" data-sku="Essential Branding Pack ~ $125 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
-                        <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
-                           <span class="cht_clr"><small>Click here to
-                                 <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
-                              </small> Live Chat</span>
-                        </a>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="item">
-               <div class="item" data-package-box>
-                  <div class="package-main-box">
-                     <div class="package-pr">
-                        <h3>$450</h3>
-                     </div>
-                     <div class="packtitles">
-                        <div class="fleft">
-                           <h4>Corporate Branding Pack</h4>
-                           <p></p>
-                        </div>
-                        <div class="fright">
-                           <h5>75% OFF<span class="cutprice">$1799</span></h5>
-                        </div>
-                     </div>
-                     <div class="package-content">
-                        <div class="slim-scroll">
-                           <div data-package-scroll>
-                              <ul>
-                                 <li>Business Card Design Design </li>
-                                 <li>Letter head Design </li>
-                                 <li>Envelope Design </li>
-                                 <li>MS Word Letterhead </li>
-                                 <li>Email Signature Design </li>
-                                 <li>Invoice Design </li>
-                                 <li>Facebook Banner Design </li>
-                                 <li>Youtube Banner Design </li>
-                                 <li>Twitter Banner Design </li>
-                                 <li>Linkedin Banner Design </li>
-                                 <li>Logo Watermark </li>
-                                 <li>Favicon Design </li>
-                                 <li>Polo/T-Shirt Design </li>
-                                 <li>Cap/Hat Design </li>
-                                 <li>Bag Design Signage </li>
-                                 <li>Flyer Design </li>
-                                 <li>Car Wrap/Vinyl Design </li>
-                                 <li>PPT Design </li>
-                                 <li>Magnet Design </li>
-                                 <li>Door Sign Design </li>
-                                 <li>Menu Design Mug/Cup Design </li>
-                              </ul>
-                           </div>
-                        </div>
-                     </div>
+                                        <div class="bottom-contact" style="margin-top: 30px">
+                                            <a data-target="#req_qoute" data-sku="Economy ~ $79 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                                            <a class="btn chat" href="javascript:toggleTawkChat();">
+                                                <span class="cht_clr"><small>Click here to
+                                                        <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
+                                                    </small> Live Chat</span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="item" data-package-box>
+                                    <div class="package-main-box">
+                                        <div class="package-pr">
+                                            <h3>$129</h3>
+                                        </div>
+                                        <div class="packtitles">
+                                            <div class="fleft">
+                                                <h4>Startup</h4>
+                                                <p>Stationery Design
+                                                </p>
+                                            </div>
+                                            <div class="fright">
+                                                <h5>75% OFF<span class="cutprice">$516</span></h5>
+                                            </div>
+                                        </div>
+                                        <div class="package-content">
+                                            <div class="slim-scroll">
+                                                <div data-package-scroll>
+                                                    <ul>
+                                                        <li> Corporate Stationery Package </li>
+                                                        <li> Business Card </li>
+                                                        <li> Letterhead Design </li>
+                                                        <li> Envelope Design </li>
+                                                        <li> Fax Template </li>
+                                                        <li> MS Word Letterhead </li>
+                                                        <li> 100% Satisfaction Guarantee </li>
+                                                        <li> 100% Money Back Guarantee </li>
+                                                        <li> 100% Unique Design Guarantee </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
 
-                     <div class="bottom-contact" style="margin-top: 30px">
-                     <a data-target="#req_qoute" data-sku="Corporate Branding Pack ~ $450 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
-                        <a class="btn chat" href="javascript:$zopim.livechat.window.show();">
-                           <span class="cht_clr"><small>Click here to
-                                 <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
-                              </small> Live Chat</span>
-                        </a>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
+                                        <div class="bottom-contact" style="margin-top: 30px">
+                                            <a data-target="#req_qoute" data-sku="Startup ~ $129 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                                            <a class="btn chat" href="javascript:toggleTawkChat();">
+                                                <span class="cht_clr"><small>Click here to
+                                                        <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
+                                                    </small> Live Chat</span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
       <a href="pricing.php" class="btn btn-view-pack">view all packages</a>
    </div>
 </section>
@@ -396,7 +387,7 @@
             </a>
          </div>
          <div class="col-lg-3 col-md-12">
-            <a href="javascript:$zopim.livechat.window.show();" class="btn btn-start chatt">start live chat</a>
+            <a href="javascript:toggleTawkChat();" class="btn btn-start chatt">start live chat</a>
          </div>
       </div>
    </div>

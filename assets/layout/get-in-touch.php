@@ -24,7 +24,7 @@
                <img src="images/call-us-img-2.html" alt="" class="img-fluid" />
                <div class="call-us-content">
                   <p>let's chat now</p>
-                  <a href="javascript:$zopim.livechat.window.show();" class="chatt">LIVE CHAT</a>
+                  <a href="javascript:toggleTawkChat();" class="chatt">LIVE CHAT</a>
                </div>
             </div>
          </div>

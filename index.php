@@ -9,13 +9,13 @@
                 <div class="col-lg-6">
                     <div class="carousel-inner lazy ">
                         <div class="carousel-item active">
-                            <img class="lazy" src="assets/img/slider-img-1.webp"  alt="Los Angeles" width="1100" height="500">
+                            <img class="lazy" src="assets/img/slid-1.png"  alt="Los Angeles" width="1100" height="500">
                         </div>
                         <div class="carousel-item">
-                            <img class="lazy" src="assets/img/slider-img-3.webp" alt="Los Angeles" width="1100" height="500">
+                            <img class="lazy" src="assets/img/slid-2.jpg" alt="Los Angeles" width="1100" height="500">
                         </div>
                         <div class="carousel-item">
-                            <img class="lazy" src="assets/img/slider-img-4.webp" alt="Los Angeles" width="1100" height="500">
+                            <img class="lazy" src="assets/img/slid-3.jpg" alt="Los Angeles" width="1100" height="500">
                         </div>
                     </div>
                 </div>

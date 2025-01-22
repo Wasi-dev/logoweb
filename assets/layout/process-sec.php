@@ -37,7 +37,7 @@
              <div class="col-md-3 col-sm-6 p-0">
                 <div class="content">
                    <div class="content-overlay"></div>
-                   <img class="content-image lazy" src="assests/img/" data-src="public/assets/website/images/process-img-3.jpg">
+                   <img class="content-image lazy" src="assests/img/" data-src="public/assets/website/images/pr-3.jpg">
                    <div class="content-details fadeIn-top">
                       <div class="hover-num-box">
                          <h3>03</h3>
@@ -51,7 +51,7 @@
              <div class="col-md-3 col-sm-6 p-0">
                 <div class="content">
                    <div class="content-overlay"></div>
-                   <img class="content-image lazy" src="assests/img/" data-src="public/assets/website/images/process-img-4.jpg">
+                   <img class="content-image lazy" src="assests/img/" data-src="public/assets/website/images/pr-4.jpg">
                    <div class="content-details fadeIn-top">
                       <div class="hover-num-box">
                          <h3>04</h3>
