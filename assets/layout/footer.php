@@ -13,7 +13,7 @@
                 <ul>
                    <li><a href="logo-design.php">Logo design</a></li>
                    <li><a href="branding.php">Branding</a></li>
-                   <li><a href="web-design.php">Web design & development</a></li>
+                   <li><a href="web-development.php">Web design & development</a></li>
                    <li><a href="e-commerce.php">e-Commerce</a></li>
                    <li><a href="video-animation.php">Video animation</a></li>
                    <li><a href="social-media-marketing.php">Social marketing</a></li>
