@@ -72,7 +72,7 @@
                               </a>
                            </div>
                            <div class="col-md-3">
-                              <a class="dropdown-item" href="web-design.php">
+                              <a class="dropdown-item" href="web-development.php">
                                  <div class="mega-links-box">
                                     <img src="public/assets/website/images/development.gif" alt="" class="img-fluid" />
                                     <b>web development</b>
@@ -236,7 +236,7 @@
                <div class="dropdown-container" style="display: none;">
                   <a href="logo-design.php">Logo design</a>
                   <a href="branding.php">Branding</a>
-                  <a href="web-design.php">Web design & development</a>
+                  <a href="web-development.php">Web design & development</a>
                   <a href="e-commerce.php">e-Commerce</a>
                   <a href="video-animation.php">Video animation</a>
                   <a href="social-media-marketing.php">Social marketing</a>

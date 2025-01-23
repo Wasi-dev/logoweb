@@ -106,7 +106,7 @@
                 </a>
              </div>
              <div class="item">
-                <a href="web-design.php">
+                <a href="web-development.php">
                    <div class="serv-main-box">
                       <img class="img-fluid lazy" src="assets/img/development.png"  alt="" />
                       <h3>Web Design & Development</h3>
