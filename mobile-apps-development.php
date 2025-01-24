@@ -68,9 +68,6 @@
                                     </h4>
                                     <p>Suitable for Small Startups</p>
                                 </div>
-                                <!-- <div class="fright">
-                           <h5>75% OFF<span class="cutprice">$1020</span></h5>
-                        </div> -->
                             </div>
                             <div class="package-content">
                                 <div class="slim-scroll">

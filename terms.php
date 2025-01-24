@@ -20,7 +20,7 @@ body {
 }
      </style>
 
-    <section class="banner-sec about-banner-sec pricing-page-sec">
+    <section class="banner-sec about-banner-sec pricing-page-sec banner1">
         <div class="header-slider banner-txt-box">
         <div class="container">
             <div class="row">
@@ -41,85 +41,76 @@ body {
        <div class="row">
           <div class="col-md-12 col-sm-12 col-xs-12 privacy">
              <div class="term-text">
-                <h3 style="margin-top: 50px;">Refund Policy</h3>
-                    <p style="font-weight: bold;">Pixels refund policy will be void if;</p>
-                    <p>•    You have chosen an all-in-one package.</p>
-                    <p>•    The primary design concept has been approved.</p>
-                    <p>•	You have demanded revisions.</p>
-                    <p>•	The cancellation has been made due to reasons non-related to the company or our policies.</p>
-                    <p>•	The company has not been contacted for more than 2 weeks of the project.</p>
-                    <p>•	The company’s policies, or policy, have been violated.</p>
-                    <p>•	Other company or designer apart from us has been approached for the same project.</p>
-                    <p>•	The creative brief is lacking in the required information.</p>
-                    <p>•	A complete design change has been demanded.</p>
-                    <p>•	The claim has crossed the given ‘request for refund’ time.</p>
-                    <p>•	The business is closing or changing its name or business.</p>
-                    <p>•	Reasons such as ‘change of mind’, ‘disagreement with partner’, or other reasons that do not pertain to the service will not be subject to refund under any circumstances.</p>
-                    <p>•	If a client subscribes to a service bundle and happens to be dissatisfied with a particular service, the refund will only apply to that particular service and ‘not’ the entire bundle.</p>
-                    <p>•	No refund can be claimed/processed once the final files have been delivered to you following your request.</p>
-                    <p>•	Refunds and revisions explicitly do not apply to items offered free.</p>
-                    <p>•	The client will not be entitled to any refunds after 30 days, from the date of purchase.</p>
-                    <p>•	Services including but not limited to Social Media, SEO, Domain Registration, and Web Hosting are not entitled to a refund under any circumstances.</p>
-                    <p>•	In the case of websites, refunds will not be entertained once the client has approved the design and the website is sent for development.</p>
-                    <p>
-                    Note: Pixels holds all rights to reject any project or cancel the contract whenever we seem it is necessary. After the refund, you will not have any rights to use the designs for any purpose; they will be the sole property of Pixels. The company will be the rightful owner of the designs.
-                    </p>  
-                <h3>How To Claim Your Refund</h3>
-                <p>To ensure that your refund request is processed effectively and is approved, please make sure that you meet the following requirements.</p>
-                <p>1. Specify your concern and claim your refund through any of the following three modes :-</p>
-                <p>• i. Toll free # <?php echo $phone ?>  </p>
-                <p>• ii. Live Chat.</p>
-                <p>• iii. Email. (info@Logo Visioneer.com)</p>
-                <p>We will try to resolve your query and concern in light of our revision policy immediately or else will email you a refund request approval from our refund department.</p>
-                <p>After the refund, the rights to your design would be transferred to Logo Visioneer and you would not legally be allowed to display any version of the design sent by the company.</p>
-                <p>1. Since the rights to design would now be transferred to Logo Visioneer, you concur that you will have no right (immediate or circuitous) to use any reaction or other substance, work item or media, nor will you have any ownership interest for or to the same.</p>
-                <p>2. Working in a joint effort with the Government Copyright Agencies Logo Visioneer would share Copyright Acquisition data for the refunded outlines that would confine the re-utilization of the designs as original designs in the future.</p>
-                <p>If you have any questions or concerns about our Refund Policy, please get in touch with us by clicking here (info@Logo Visioneer.com).</p>
-                <h3>My Account</h3>
-                <p>The “My Account” area is a convenient way to communicate. It is your sole responsibility to check the account section for all questions, queries, concerns, and any other instructions for the designer. Failure to actively check the “my account” section may become a cause of hindrance in your perusal of a refund. If you are unsure of how to use the “My Account” area, please contact customer support at any time for prompt assistance.</p>
-                <h3>Quality Assurance Policy</h3>
-                <p>In order to provide you with complete satisfaction, our designers are instructed not to deviate from the specifications provided by the client in the order form.</p>
-                <p>The designs are crafted after adequate and thorough research to ensure quality and uniqueness.</p>
-                <h3>100% Satisfaction Guarantee</h3>
-                <p>We revamp the requested design and continue overhauling it until you are 100% fulfilled (depending upon your package).</p>
-                <h3>Domain and Hosting</h3>
-                <p>Domain and Hosting are provided free of cost with packages, where applicable.</p>
-                <p>All the email accounts assigned with the website packaged can be configured on third party email software such as outlook.</p>
-                <p>If you wish to opt out of hosting the website with us, you will not be provided email accounts.</p>
-                <h3>Ownership rights & Copyright</h3>
-                <p>If you are not the owner of the logo or have no copyright. You should ask your designer or a company that has designed your logo to transfer ownership and copyright certification to you.</p>
-                <h3>Delivery Policy</h3>
-                <p>All design order files are delivered to My Account as per the date specified on the “Order Confirmation”. An e-mail is also sent to inform the client about their design order delivery made to their specific account area. All policies pertaining to revision &amp; refund are subject to date and time of design order delivered to client’s account area.</p>
-                <p>All design order files are delivered to “My Account” as per the date specified on the “Order Confirmation”. An e-mail is also sent to inform the client about their design order delivery made to their specific account area. All policies pertaining to revision &amp; refund are subject to date and time of design order delivered to client’s account area.</p>
-                <p>All customized design orders are delivered via email within 5 to 7 days after receipt of order.</p>
-                <p>We offer a RUSH DELIVERY service through which you can have your first logo within 24&nbsp;hours by paying just SITE_CURRENCY_SYMBOLS100 additional! For further help, get in touch with our customer support department.</p>
-                <h3>Record Maintenance</h3>
-                <p>We keep your final design archived after we deliver your final files. If you wish to receive the final files again, we can email the upon request.</p>
-                <h3>Customer Support</h3>
-                <p>We offer 24-Hour Customer Support to address your questions and queries.</p>
-                <p>You can get in touch with us at whatever time and we promise a prompt reply.</p>
-                <p>Correspondence Policy</p>
-                <p>YOU concur that Logo Visioneer is not at risk for any correspondence from email address (es) other than the ones took after by our own particular area i.e. “info@Logo Visioneer.com” or/and any toll free number that is not specified on our site. Logo Visioneer ought not be considered in charge of any damage(s) brought about by such correspondence. We just assume liability of any correspondence through email address (es) under our own space name or/and by means of toll free number i.e. as of now specified on Logo Visioneer Website.</p>
-                <p>Money Back Guarantee</p>
-                <p>We are extremely confident of the work we do which is why we back it up with a money back guarantee. If we are unable to meet and beat your expectations, well give you a refund.</p>
-                <p>100% Unique Design Guarantee</p>
-                <p>At Logo Visioneer we promise that all of our logos are produced using scratch. We will provide you a logo that is adept and in complete compliance with your design brief.</p>
-             </div>
-             <div class="text-center">
-                <h4>Video Animations</h4>
-             </div>
-             <div class="term-text">
-                <h3>Revision Policy</h3>
-                <p>Revisions are contingent on the package select. Clients can approach us for unlimited free amendments and we will revise their design with no extra charges, given that the design and concept remain intact. Revision turnaround time will be 48 hours. Package revisions are as follows:</p>
-                <ul class="list-unstyled">
-                   <li>STANDARD: Unlimited Storyboard Revisions</li>
-                   <li>PRO: Unlimited Storyboard Revisions</li>
-                   <li>PREMIUM: Unlimited Storyboard Revisions</li>
-                </ul>
-             </div>
-          </div>
-       </div>
-    </div>
+             <h3 style="margin-top: 50px;">Refund Policy</h3>
+<p style="font-weight: bold;">Logo Visioneer refund policy will be void if:</p>
+<p>• You have chosen an all-in-one package.</p>
+<p>• The primary design concept has been approved.</p>
+<p>• You have requested revisions.</p>
+<p>• The cancellation is due to reasons unrelated to the company or its policies.</p>
+<p>• The company has not been contacted for more than 2 weeks after project initiation.</p>
+<p>• The company’s policies, or policy, have been violated.</p>
+<p>• Another company or designer apart from Logo Visioneer has been approached for the same project.</p>
+<p>• The creative brief lacks the required information.</p>
+<p>• A complete design change has been demanded.</p>
+<p>• The claim has crossed the given ‘request for refund’ time frame.</p>
+<p>• The business is closing or changing its name or operations.</p>
+<p>• Reasons such as ‘change of mind,’ ‘disagreement with a partner,’ or other non-service-related reasons will not qualify for a refund under any circumstances.</p>
+<p>• If a client subscribes to a service bundle and is dissatisfied with a specific service, the refund will only apply to that particular service and not the entire bundle.</p>
+<p>• No refund can be claimed or processed once the final files have been delivered upon your request.</p>
+<p>• Refunds and revisions explicitly do not apply to items offered for free.</p>
+<p>• The client will not be entitled to any refunds after 30 days from the date of purchase.</p>
+<p>• Services such as Social Media, SEO, Domain Registration, and Web Hosting are not eligible for refunds under any circumstances.</p>
+<p>• For websites, refunds will not be entertained once the client has approved the design and the website has entered the development phase.</p>
+<p>Note: Logo Visioneer reserves the right to reject any project or cancel the contract when deemed necessary. After the refund, you will not retain rights to use the designs for any purpose; they will become the sole property of Logo Visioneer.</p>
+
+<h3>How To Claim Your Refund</h3>
+<p>To ensure your refund request is processed effectively and approved, please follow these steps:</p>
+<p>1. Specify your concern and claim your refund through one of the following methods:</p>
+<p>• i. Toll-free #: <?php echo $phone; ?> </p>
+<p>• ii. Live Chat.</p>
+<p>• iii. Email: (info@LogoVisioneer.com).</p>
+<p>We will address your concern in light of our revision policy or email you a refund request approval from our refund department.</p>
+<p>2. After the refund is processed, the rights to your design will transfer to Logo Visioneer. You will not legally be allowed to display or use any version of the design sent by the company.</p>
+<p>3. Working in collaboration with the Government Copyright Agencies, Logo Visioneer will secure copyright acquisition for the refunded designs to restrict their reuse as original designs in the future.</p>
+<p>If you have any questions or concerns regarding our refund policy, please reach out to us at (info@LogoVisioneer.com).</p>
+
+<h3>My Account</h3>
+<p>The “My Account” area is a convenient communication platform. It is your sole responsibility to check the account section for questions, concerns, or instructions for the designer. Failure to check “My Account” frequently may hinder your refund eligibility. If you are unsure about how to use the “My Account” section, please contact our customer support team for assistance.</p>
+
+<h3>Quality Assurance Policy</h3>
+<p>Logo Visioneer ensures complete customer satisfaction through adherence to your design specifications as outlined in the order form. Our designs are created after thorough research to ensure uniqueness and quality.</p>
+
+<h3>100% Satisfaction Guarantee</h3>
+<p>We revise the requested design and continue refining it until you are 100% satisfied, depending on your package.</p>
+
+<h3>Domain and Hosting</h3>
+<p>Domain and hosting services are included free of cost in applicable packages.</p>
+<p>Email accounts associated with website packages can be configured on third-party platforms such as Outlook.</p>
+<p>If you opt out of hosting with us, email accounts will not be provided.</p>
+
+<h3>Ownership Rights & Copyright</h3>
+<p>If you do not own the logo or lack copyright certification, please request your designer or the company that created the logo to transfer ownership and certification to you.</p>
+
+<h3>Delivery Policy</h3>
+<p>All design files are delivered to your “My Account” area as per the date specified in the “Order Confirmation.” Clients will also receive an email notification regarding file delivery. Revision and refund policies are governed by the delivery date and time.</p>
+<p>Customized design orders are typically delivered within 5 to 7 days after the order is received.</p>
+<p>We also offer a RUSH DELIVERY option for an additional SITE_CURRENCY_SYMBOLS100 to receive your initial designs within 24 hours. For further assistance, please contact our customer support team.</p>
+
+<h3>Record Maintenance</h3>
+<p>Your finalized design files are archived after delivery. If you require the files again, they can be emailed upon request.</p>
+
+<h3>Customer Support</h3>
+<p>Logo Visioneer provides 24-hour customer support to address your questions and concerns. Contact us anytime for prompt assistance.</p>
+
+<h3>Correspondence Policy</h3>
+<p>Logo Visioneer is not liable for correspondence from email addresses other than those ending in “@LogoVisioneer.com” or phone numbers not listed on our official website. We are only responsible for communication through verified email addresses and toll-free numbers explicitly mentioned on our website.</p>
+
+<h3>Money-Back Guarantee</h3>
+<p>We are confident in our work, which is why we offer a money-back guarantee. If we fail to meet your expectations, you are eligible for a refund.</p>
+
+<h3>100% Unique Design Guarantee</h3>
+<p>All designs created by Logo Visioneer are original and crafted from scratch. We ensure that our logos align with your design brief and requirements.</p>
+
 </section>
 <section class="contact-us-sec">
     <div class="container">

@@ -31,8 +31,8 @@
                    <li><a href="pricing.php">Pricing</a></li>
                    <li><a href="combo-packages.php">Combo Pakcages</a></li>
                    <li><a href="contact-us.php">Contact us</a></li>
-                   <li><a href="order/terms.php">Terms & Condition</a></li>
-                   <li><a href="order/privacy.php">Privacy Policy</a></li>
+                   <li><a href="terms.php">Terms & Condition</a></li>
+                   <li><a href="privacy.php">Privacy Policy</a></li>
                 </ul>
              </div>
           </div>
