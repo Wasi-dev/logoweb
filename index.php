@@ -148,7 +148,10 @@
        </div>
     </div>
  </section>
+
  <?php include 'assets/layout/packages.php' ?>
+
+ <?php include'assets/layout/portfolio-sec.php' ?>
 
  <?php include 'assets/layout/hitting-rec.php' ?>
  <?php include 'assets/layout/process-sec.php' ?>

@@ -706,11 +706,11 @@
                                 <div class="item" data-package-box>
                                     <div class="package-main-box">
                                         <div class="package-pr">
-                                            <h3>$455</h3>
+                                            <h3>$399</h3>
                                         </div>
                                         <div class="packtitles">
                                             <div class="fleft">
-                                                <h4>Start-UP Package</h4>
+                                                <h4>Startup </h4>
                                                 <p>Suitable for Small Startups</p>
                                             </div>
                                             <div class="fright">
@@ -721,22 +721,22 @@
                                             <div class="slim-scroll">
                                                 <div data-package-scroll>
                                                     <ul>
-                                                        <li>30 Second Video - HD 1080 </li>
-                                                        <li>Professional Script </li>
-                                                        <li>Sample Theme </li>
-                                                        <li>Storyboard </li>
-                                                        <li>Custom Artwork </li>
-                                                        <li>Animation </li>
-                                                        <li>Professional Voice - Over & Sound Effects </li>
-                                                        <li>4 weeks Delivery </li>
-                                                        <li>Unlimited Revisions </li>
+                                                        <li>30 Second Video</li>
+                                                        <li>Professional Script</li>
+                                                        <li>Storyboard</li>
+                                                        <li>Animation</li>
+                                                        <li>Voice - Over &amp; Sound Effects</li>
+                                                        <li>4 weeks Delivery</li>
+                                                        <li>
+                                                            Revisions Upto 3
+                                                        </li>
                                                     </ul>
                                                 </div>
                                             </div>
                                         </div>
 
                                         <div class="bottom-contact" style="margin-top: 30px">
-                                            <a data-target="#req_qoute" data-sku="Start-UP Package ~ $455 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                                            <a data-target="#req_qoute" data-sku="Start-UP ~ $399 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
                                             <a class="btn chat" href="javascript:toggleTawkChat();">
                                                 <span class="cht_clr"><small>Click here to
                                                         <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
@@ -750,11 +750,11 @@
                                 <div class="item" data-package-box>
                                     <div class="package-main-box">
                                         <div class="package-pr">
-                                            <h3>$755</h3>
+                                            <h3>$999</h3>
                                         </div>
                                         <div class="packtitles">
                                             <div class="fleft">
-                                                <h4>Business Package</h4>
+                                                <h4>Classic </h4>
                                                 <p>Suitable for Small Startups</p>
                                             </div>
                                             <div class="fright">
@@ -765,26 +765,21 @@
                                             <div class="slim-scroll">
                                                 <div data-package-scroll>
                                                     <ul>
-                                                        <li>60 Second Video - HD 1080 </li>
-                                                        <li>Professional Script </li>
-                                                        <li>Sample Theme </li>
-                                                        <li>Storyboard </li>
-                                                        <li>Custom Artwork </li>
-                                                        <li>Animation </li>
-                                                        <li>Professional Voice - Over & Sound Effects </li>
-                                                        <li>4 weeks Delivery </li>
-                                                        <li>24 X 7 Support </li>
-                                                        <li>On Time Delivery </li>
-                                                        <li>Dedicated Team </li>
-                                                        <li>Moneyback Guarantee </li>
-                                                        <li>FREE All File Formats </li>
+                                                        <li>60 Second Video</li>
+                                                        <li>Professional Script</li>
+                                                        <li>Sample Theme</li>
+                                                        <li>Storyboard</li>
+                                                        <li>Animation</li>
+                                                        <li>Voice - Over &amp; Sound Effects</li>
+                                                        <li>5 weeks Delivery</li>
+                                                        <li>Revisions Upto 6</li>
                                                     </ul>
                                                 </div>
                                             </div>
                                         </div>
 
                                         <div class="bottom-contact" style="margin-top: 30px">
-                                            <a data-target="#req_qoute" data-sku="Business Package ~ $755 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                                            <a data-target="#req_qoute" data-sku="Classic ~ $999 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
                                             <a class="btn chat" href="javascript:toggleTawkChat();">
                                                 <span class="cht_clr"><small>Click here to
                                                         <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
@@ -798,11 +793,11 @@
                                 <div class="item" data-package-box>
                                     <div class="package-main-box">
                                         <div class="package-pr">
-                                            <h3>$1155</h3>
+                                            <h3>$1,299</h3>
                                         </div>
                                         <div class="packtitles">
                                             <div class="fleft">
-                                                <h4>Platinum Package</h4>
+                                                <h4>Premium </h4>
                                                 <p>Suitable for Small Startups</p>
                                             </div>
                                             <div class="fright">
@@ -813,26 +808,21 @@
                                             <div class="slim-scroll">
                                                 <div data-package-scroll>
                                                     <ul>
-                                                        <li>90 Second Video - HD 1080 </li>
-                                                        <li>Professional Script </li>
-                                                        <li>Sample Theme </li>
-                                                        <li>Storyboard </li>
-                                                        <li>Custom Artwork </li>
-                                                        <li>Animation </li>
-                                                        <li>Professional Voice - Over & Sound Effects </li>
-                                                        <li>4-5 weeks Delivery </li>
-                                                        <li>24 X 7 Support </li>
-                                                        <li>On Time Delivery </li>
-                                                        <li>Dedicated Team </li>
-                                                        <li>Moneyback Guarantee </li>
-                                                        <li>FREE All File Formats </li>
+                                                        <li>90 Second Video</li>
+                                                        <li>Professional Script</li>
+                                                        <li>Sample Theme</li>
+                                                        <li>Storyboard</li>
+                                                        <li>Animation</li>
+                                                        <li>Voice - Over &amp; Sound Effects</li>
+                                                        <li>6 Weeks Delivery</li>
+                                                        <li>Revisions Upto 10</li>
                                                     </ul>
                                                 </div>
                                             </div>
                                         </div>
 
                                         <div class="bottom-contact" style="margin-top: 30px">
-                                            <a data-target="#req_qoute" data-sku="Platinum Package ~ $1155 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                                            <a data-target="#req_qoute" data-sku="Premium ~ $1,299 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
                                             <a class="btn chat" href="javascript:toggleTawkChat();">
                                                 <span class="cht_clr"><small>Click here to
                                                         <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
@@ -842,6 +832,50 @@
                                     </div>
                                 </div>
                             </div>
+                            <div class="item">
+                                <div class="item" data-package-box>
+                                    <div class="package-main-box">
+                                        <div class="package-pr">
+                                            <h3>$2,199</h3>
+                                        </div>
+                                        <div class="packtitles">
+                                            <div class="fleft">
+                                                <h4>Ultimate
+                                                </h4>
+                                                <!-- <p>Suitable for Small Startups</p> -->
+                                            </div>
+                                            <div class="fright">
+                                                <h5>75% OFF<span class="cutprice">$4620</span></h5>
+                                            </div>
+                                        </div>
+                                        <div class="package-content">
+                                            <div class="slim-scroll">
+                                                <div data-package-scroll>
+                                                    <ul>
+                                                        <li>120 Second Video</li>
+                                                        <li>Professional Script</li>
+                                                        <li>Sample Theme</li>
+                                                        <li>Storyboard</li>
+                                                        <li>Animation</li>
+                                                        <li>Voice - Over &amp; Sound Effects</li>
+                                                        <li>Revisions Upto 16</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="bottom-contact" style="margin-top: 30px">
+                                            <a data-target="#req_qoute" data-sku="Ultimate ~ $2,199 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                                            <a class="btn chat" href="javascript:toggleTawkChat();">
+                                                <span class="cht_clr"><small>Click here to
+                                                        <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
+                                                    </small> Live Chat</span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
                         </div>
                     </div>
                 </div>
@@ -987,7 +1021,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- <div class="tab-pane fade " id="nav-95">
+                <div class="tab-pane fade " id="nav-95">
                     <div class="package-slider-box">
                         <div class="owl-carousel owl-theme">
                             <div class="item">
@@ -1164,12 +1198,13 @@
                                 <div class="item" data-package-box>
                                     <div class="package-main-box">
                                         <div class="package-pr">
-                                            <h3>$355</h3>
+                                            <h3>$250</h3>
                                         </div>
                                         <div class="packtitles">
                                             <div class="fleft">
-                                                <h4>Small Business</h4>
-                                                <p>Suitable for Small Startups</p>
+                                                <h4>Startup</h4>
+                                                <p>One
+                                                    Time</p>
                                             </div>
                                             <div class="fright">
                                                 <h5>75% OFF<span class="cutprice">$1420</span></h5>
@@ -1179,20 +1214,17 @@
                                             <div class="slim-scroll">
                                                 <div data-package-scroll>
                                                     <ul>
-                                                        <li>3 postings per week (per network) Facebook + Twitter + Instagram + Google+ </li>
-                                                        <li>Content Creation </li>
-                                                        <li>Business Page Optimization </li>
-                                                        <li>Social Media Strategy (Overview) </li>
-                                                        <li>Facebook Likes Campaign </li>
-                                                        <li>Monthly Progress report </li>
-                                                        <li>Copy Writing </li>
+                                                        <li>3 Social Media Channels (Facebook / Twitter / Instagram)</li>
+                                                        <li>Social media account setup</li>
+                                                        <li>1 Post Design</li>
+                                                        <li>1 Cover Banner</li>
                                                     </ul>
                                                 </div>
                                             </div>
                                         </div>
 
                                         <div class="bottom-contact" style="margin-top: 30px">
-                                            <a data-target="#req_qoute" data-sku="Small Business ~ $355 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                                            <a data-target="#req_qoute" data-sku="Small Business ~ $250 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
                                             <a class="btn chat" href="javascript:toggleTawkChat();">
                                                 <span class="cht_clr"><small>Click here to
                                                         <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
@@ -1206,12 +1238,13 @@
                                 <div class="item" data-package-box>
                                     <div class="package-main-box">
                                         <div class="package-pr">
-                                            <h3>$555</h3>
+                                            <h3>$600</h3>
                                         </div>
                                         <div class="packtitles">
                                             <div class="fleft">
-                                                <h4>Medium Business</h4>
-                                                <p>Suitable for Small Startups</p>
+                                                <h4>BASIC</h4>
+                                                <p>2
+                                                    Months</p>
                                             </div>
                                             <div class="fright">
                                                 <h5>75% OFF<span class="cutprice">$2220</span></h5>
@@ -1221,25 +1254,20 @@
                                             <div class="slim-scroll">
                                                 <div data-package-scroll>
                                                     <ul>
-                                                        <li>Our medium business package is ideal for medium to large organizations that want to completely outsource their social media presence to experts and monitor their brand reputation </li>
-                                                        <li>Copywriting & Visual designs </li>
-                                                        <li>Business Page Optimization </li>
-                                                        <li>Ad Campaign Management </li>
-                                                        <li>Spam monitoring </li>
-                                                        <li>Monthly Progress report </li>
-                                                        <li>5 postings per week Facebook + Twitter + Instagram + Google+ </li>
-                                                        <li>Reputation Management </li>
-                                                        <li>Social Account Setup </li>
-                                                        <li>Content Creation </li>
-                                                        <li>Social Media Hearing </li>
-                                                        <li>Query and comments reply </li>
+                                                        <li>2 Social Media Channels (Facebook / Instagram)</li>
+                                                        <li>Social media account setup</li>
+                                                        <li>Complete Account Management</li>
+                                                        <li>3 Posts per week (per network)</li>
+                                                        <li>Custom Editorial Calendar (Review before publishing)</li>
+                                                        <li>Dedicated Account Manager</li>
+                                                        <li>Dedicated Budget For Paid Advertising</li>
                                                     </ul>
                                                 </div>
                                             </div>
                                         </div>
 
                                         <div class="bottom-contact" style="margin-top: 30px">
-                                            <a data-target="#req_qoute" data-sku="Medium Business ~ $555 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                                            <a data-target="#req_qoute" data-sku="BASIC ~ $600 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
                                             <a class="btn chat" href="javascript:toggleTawkChat();">
                                                 <span class="cht_clr"><small>Click here to
                                                         <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
@@ -1253,12 +1281,13 @@
                                 <div class="item" data-package-box>
                                     <div class="package-main-box">
                                         <div class="package-pr">
-                                            <h3>$355</h3>
+                                            <h3>$1200</h3>
                                         </div>
                                         <div class="packtitles">
                                             <div class="fleft">
-                                                <h4>Small Business</h4>
-                                                <p>Suitable for Small Startups</p>
+                                                <h4>PLUS</h4>
+                                                <p>2
+                                                    Months</p>
                                             </div>
                                             <div class="fright">
                                                 <h5>75% OFF<span class="cutprice">$1420</span></h5>
@@ -1268,20 +1297,68 @@
                                             <div class="slim-scroll">
                                                 <div data-package-scroll>
                                                     <ul>
-                                                        <li>3 postings per week (per network) Facebook + Twitter + Instagram + Google+ </li>
-                                                        <li>Content Creation </li>
-                                                        <li>Business Page Optimization </li>
-                                                        <li>Social Media Strategy (Overview) </li>
-                                                        <li>Facebook Likes Campaign </li>
-                                                        <li>Monthly Progress report </li>
-                                                        <li>Copy Writing </li>
+                                                        <li>4 Social Media Channels (Facebook / Twitter / Pinterest / Instagram)</li>
+                                                        <li>Social media account setup</li>
+                                                        <li>Complete Account Management (3 Posts per week per network)</li>
+                                                        <li>Custom Editorial Calendar (Review before publishing)</li>
+                                                        <li>Call to Action Integration</li>
+                                                        <li>End of Term Report</li>
+                                                        <li>Dedicated Account Manager</li>
+                                                        <li>Dedicated Budget For Paid Advertising</li>
                                                     </ul>
                                                 </div>
                                             </div>
                                         </div>
 
                                         <div class="bottom-contact" style="margin-top: 30px">
-                                            <a data-target="#req_qoute" data-sku="Small Business ~ $355 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                                            <a data-target="#req_qoute" data-sku="PLUS ~ $1200 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                                            <a class="btn chat" href="javascript:toggleTawkChat();">
+                                                <span class="cht_clr"><small>Click here to
+                                                        <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
+                                                    </small> Live Chat</span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="item" data-package-box>
+                                    <div class="package-main-box">
+                                        <div class="package-pr">
+                                            <h3>$2000</h3>
+                                        </div>
+                                        <div class="packtitles">
+                                            <div class="fleft">
+                                                <h4>PRIME</h4>
+                                                <p>2
+                                                    Months</p>
+                                            </div>
+                                            <div class="fright">
+                                                <h5>75% OFF<span class="cutprice">$1420</span></h5>
+                                            </div>
+                                        </div>
+                                        <div class="package-content">
+                                            <div class="slim-scroll">
+                                                <div data-package-scroll>
+                                                    <ul>
+                                                        <li>6 Social Media Channels (Facebook / Twitter / Pinterest / Instagram / YouTube / LinkedIn)</li>
+                                                        <li>Social media account setup</li>
+                                                        <li>Complete Account Management</li>
+                                                        <li>4 Posts per week (per network)</li>
+                                                        <li>1 GIF Post per Month</li>
+                                                        <li>Custom Editorial Calendar (Review before publishing) (Facebook)</li>
+                                                        <li>Call to Action Integration</li>
+                                                        <li>1 Stock Video Cover Banner</li>
+                                                        <li>Monthly Analytic Report</li>
+                                                        <li>Direct Access to Social Media Team</li>
+                                                        <li>Dedicated Budget for Paid Advertising</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="bottom-contact" style="margin-top: 30px">
+                                            <a data-target="#req_qoute" data-sku="PRIME ~ $2000 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
                                             <a class="btn chat" href="javascript:toggleTawkChat();">
                                                 <span class="cht_clr"><small>Click here to
                                                         <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
@@ -1425,7 +1502,7 @@
                             </div>
                         </div>
                     </div>
-                </div> -->
+                </div>
 
             </div>
         </div>

@@ -1179,7 +1179,7 @@ span.cht_clr img {
 
 .btn-view-pack {
     border: solid 3px transparent;
-    background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), linear-gradient(101deg, #ee7c00, #de4c06);
+    background: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), linear-gradient(101deg, #f0070a, #020202) !important;
     background-origin: border-box;
     background-clip: content-box, border-box;
     box-shadow: 2px 1000px 1px #fff inset;
@@ -4494,7 +4494,7 @@ section.banner_area.combo_detail_sec {
     padding: 6px 0px 12px 0;
     animation: scrollDownAnimation .5s ease infinite alternate;
     -webkit-animation: scrollDownAnimation .5s ease infinite alternate;
-    background: linear-gradient(to right bottom, #000000, #343434d9, #000, #BE1E2D, #ff0000);
+    background: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), linear-gradient(101deg, #f0070a, #020202) !important;
     border: solid 3px #ffffff;
 }
 

@@ -18,7 +18,7 @@
         counter-reset: step;
     }
 </style>
-<section class="banner-sec about-banner-sec pricing-page-sec">
+<section class="banner-sec about-banner-sec pricing-page-sec  banner1   " >
     <div class="header-slider banner-txt-box">
         <div class="container">
             <div class="row">
@@ -26,7 +26,7 @@
                     <div class="anim-banner-txt" data-aos="zoom-in" data-aos-duration="2000">
                         <h5>PRIVACY POLICY</h5>
                         <div class="pricig-page-img-box">
-                            <img src="public/assets/website/images/pricing-page-banner-img.png" alt="" class="img-fluid" />
+                            <!-- <img src="public/assets/website/images/pricing-page-banner-img.png" alt="" class="img-fluid" /> -->
                         </div>
                     </div>
                 </div>
@@ -97,7 +97,7 @@
                     <div class="contact-bottom-info-box">
                         <a href="contact-us.php" class="btn btn-ctn">Contact Us</a>
                         <a href="<?php echo $phone_link ?>" class="btn-tel">
-                            <img class="lazy img-fluid" src="assets/img/second-comtact-img-1.png" alt="">
+                            <!-- <img class="lazy img-fluid" src="assets/img/second-comtact-img-1.png" alt=""> -->
                             <div class="second-con-box">
                                 <h5>Call Us At</h5>
                                 <p><?php echo $phone ?></p>
