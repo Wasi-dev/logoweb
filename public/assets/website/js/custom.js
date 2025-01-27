@@ -508,3 +508,30 @@ $(window).scroll(function() {
             (a = 1));
 });
 $('.pkg_btn').click(function() { var gettitle = $(this).attr('data-sku');$(".pkg_nme").val(gettitle);console.log(gettitle);});
+   // Apply validation to all forms on the page
+   document.querySelectorAll("form").forEach(function (form) {
+    form.addEventListener("submit", function (event) {
+       const requiredFields = form.querySelectorAll("[data-validation='required']");
+       let isValid = true;
+
+       requiredFields.forEach(function (field) {
+          const errorMessage = field.parentElement.querySelector(".error-message");
+          if (!field.value.trim()) {
+             isValid = false;
+             field.style.border = "2px solid red"; // Highlight invalid fields
+             if (errorMessage) {
+                errorMessage.style.display = "block"; // Show error message
+             }
+          } else {
+             field.style.border = "1px solid #ccc"; // Reset border if valid
+             if (errorMessage) {
+                errorMessage.style.display = "none"; // Hide error message
+             }
+          }
+       });
+
+       if (!isValid) {
+          event.preventDefault();
+       }
+    });
+ });

@@ -1,4 +1,19 @@
 <?php
+
+// $name                   =      $_POST['name'];
+// $email                   =      $_POST['email'];
+// $phone                   =      $_POST['phone'];
+// $package                =      $_POST['package'];
+//     $link                    =      $_POST['link'];
+ 
+
+ 
+
+    
+// echo $name ."<br>" . $email ."<br>" . $link."<br>". $phone ."<br>" .$package;
+ 
+// exit();
+
 $servername = "localhost";
 $username = "devux";
 $password = 'X8U$YUx69Sr@Va_';

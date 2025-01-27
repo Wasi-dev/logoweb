@@ -13,6 +13,8 @@
    <link rel="stylesheet" type="text/css" href="assets/js/animate.min.html">
    <link rel="stylesheet" type="text/css" href="public/assets/website/css/custom.css">
    <link rel="stylesheet" type="text/css" href="public/assets/website/css/responsive.css">
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css" />
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.js"></script>
 
 
 
