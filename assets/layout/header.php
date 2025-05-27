@@ -2,11 +2,11 @@
 <html>
 
 <head>
-   <link rel="icon" type="image/x-icon" href="assets/img/logo-fav.png" />
 
-   <title></title>
+   <title>Logo Visoneer</title>
+   <link rel="icon" type="image/x-icon" href="assets/img/logo-fav.webp" />
    <meta name="description" content="">
-   <meta name="robots" content="noindex,nofollow,noarchive" />
+<meta name="robots" content="index, follow">
    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
    <link rel="stylesheet" type="text/css" href="public/assets/website/css/plugin.css">
    <link href="../stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
@@ -14,7 +14,84 @@
    <link rel="stylesheet" type="text/css" href="public/assets/website/css/custom.css">
    <link rel="stylesheet" type="text/css" href="public/assets/website/css/responsive.css">
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css" />
-<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.js"></script>
+   <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.js"></script>
+   <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+   <!-- Google tag (gtag.js) -->
+   <script async src="https://www.googletagmanager.com/gtag/js?id=G-NTFQC6SRSB"></script>
+   <script>
+      window.dataLayer = window.dataLayer || [];
+
+      function gtag() {
+         dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+
+      gtag('config', 'G-NTFQC6SRSB');
+   </script>
+   <meta name="google-site-verification" content="xosc_tWd3OIVH4-4XNbhLX-YtvO6hO9Qo96ypWn2JGM" />
+
+   <!-- Google Tag Manager -->
+   <script>
+      (function(w, d, s, l, i) {
+         w[l] = w[l] || [];
+         w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+         });
+         var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+         j.async = true;
+         j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+         f.parentNode.insertBefore(j, f);
+      })(window, document, 'script', 'dataLayer', 'GTM-NWPH3B5Q');
+   </script>
+   <!-- End Google Tag Manager -->
+   <!-- Google tag (gtag.js) -->
+   <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16834965503"></script>
+   <script>
+      window.dataLayer = window.dataLayer || [];
+
+      function gtag() {
+         dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+      gtag('config', 'AW-16834965503');
+   </script>
+   <!-- Google Tag Manager (noscript) -->
+   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NWPH3B5Q"
+         height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+   <!-- End Google Tag Manager (noscript) -->
+
+   <!-- Meta Pixel Code -->
+   <script>
+      function(f, b, e, v, n, t, s) {
+         if (f.fbq) return;
+         n = f.fbq = function() {
+            n.callMethod ?
+               n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+         };
+         if (!f._fbq) f._fbq = n;
+         n.push = n;
+         n.loaded = !0;
+         n.version = '2.0';
+         n.queue = [];
+         t = b.createElement(e);
+         t.async = !0;
+         t.src = v;
+         s = b.getElementsByTagName(e)[0];
+         s.parentNode.insertBefore(t, s)
+      }(window, document, 'script',
+         'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '654054000522202');
+      fbq('track', 'PageView');
+   </script>
+   <noscript><img height="1" width="1" style="display:none"
+         src="https://www.facebook.com/tr?id=654054000522202&ev=PageView&noscript=1" /></noscript>
+   <!-- End Meta Pixel Code -->
+    
+   <script src="https://www.google.com/recaptcha/api.js?render=6Lfkt8YqAAAAABwqs-pB-bMmJmYt5NvTQn_DLtBb"></script>
 
 
 
@@ -44,13 +121,13 @@
             </div>
          </div>
          <div class="navbar-box">
-            <a href="index.php"><img src="assets/img/logo.png" alt="" class="logo img-fluid" /></a>
+            <a href="index.php"><img src="assets/img/logo-anim.webp" alt="" class="logo img-fluid" /></a>
             <div class="nav-list-box">
                <ul>
                   <li><a href="index.php">home</a></li>
                   <li><a href="about-us.php">about us</a></li>
                   <!-- <li><a href="portfolio.php">portfolio</a></li> -->
-                 
+
                   <li class="nav-item dropdown megamenu-li dmenu">
                      <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Services</a>
                      <div class="dropdown-menu megamenu sm-menu" aria-labelledby="dropdown01">
@@ -132,7 +209,7 @@
                                  <div class="mega-links-box">
                                     <img src="public/assets/website/images/web-design.gif" alt="" class="img-fluid" />
                                     <b>web design </b>
-                                    <p>get the top spot on <br /> search engine ranking</p>
+                                    <p>Get a website that<br /> showcases who you are.</p>
                                  </div>
                               </a>
                            </div>
@@ -141,7 +218,7 @@
                                  <div class="mega-links-box">
                                     <img src="public/assets/website/images/web-main.gif" alt="" class="img-fluid" />
                                     <b>Website maintenance </b>
-                                    <p>get the top spot on <br /> search engine ranking</p>
+                                    <p>Keep your website<br /> running strong</p>
                                  </div>
                               </a>
                            </div>
@@ -151,7 +228,7 @@
                                     <img src="public/assets/website/images/mobile-app.gif" alt="" class="img-fluid" />
                                     <b>Mobile Apps
                                     </b>
-                                    <p>get the top spot on <br /> search engine ranking</p>
+                                    <p>Get a mobile app that<br /> moves with you.</p>
                                  </div>
                               </a>
                            </div>
@@ -161,7 +238,7 @@
                                     <img src="public/assets/website/images/shopify-development.gif" alt="" class="img-fluid" />
                                     <b>Shopify Development
                                     </b>
-                                    <p>get the top spot on <br /> search engine ranking</p>
+                                    <p>Get a Shopify store <br />that sells for you.</p>
                                  </div>
                               </a>
                            </div>
@@ -228,26 +305,48 @@
                <span onclick="openNav()"><i class="fa fa-bars" aria-hidden="true"></i></span>
             </div>
             <div id="mySidenav" class="sidenav d-lg-none">
-               <a href="index.php" class=" m-logo-img"><img src="public/assets/website/images/logo.png" alt="" class="img-fluid" /></a>
+               <a href="index.php" class=" m-logo-img"><img src="public/assets/website/images/logo.webp" alt="" class="img-fluid" /></a>
                <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+               <a href="index.php">Home</a>
                <a href="about-us.php">about us</a>
-               <a href="portfolio.php">portfolio</a>
                <a class="dropdown-btn">Services
                   <i class="fa fa-caret-down"></i>
                </a>
                <div class="dropdown-container" style="display: none;">
                   <a href="logo-design.php">Logo design</a>
                   <a href="branding.php">Branding</a>
-                  <a href="web-development.php">Web design & development</a>
+                  <a href="web-development.php">Web development</a>
                   <a href="e-commerce.php">e-Commerce</a>
                   <a href="video-animation.php">Video animation</a>
                   <a href="social-media-marketing.php">Social marketing</a>
                   <a href="content-writing.php">Content writing</a>
                   <a href="seo-services.php">SEO</a>
+                  <a href="website-designing.php">web design</a>
+                  <a href="Website-maintenance.php">Website maintenance</a>
+                  <a href="mobile-apps-development.php">Mobile Apps</a>
+                  <a href="shopify-development.php">Shopify Development</a>
+
+
+                  
                </div>
+               <a href="portfolio.php">portfolio</a>
                <a href="pricing.php">pricing</a>
                <a href="combo-packages.php">combo packages</a>
                <a href="contact-us.php">contact us</a>
+               <div class="top-info-box">
+                  <div class="contact-box">
+                     <img src="public/assets/website/images/contact-img-1.png" alt="" class="img-fluid" />
+                     <a href="<?php echo $email_link ?> "><?php echo $email ?></a>
+                  </div>
+                  <div class="contact-box">
+                     <img src="public/assets/website/images/contact-img-2.png" alt="" class="img-fluid" />
+                     <a href="<?php echo $phone_link ?>"><?php echo $phone ?></a>
+                  </div>
+                  <div class="contact-box">
+                     <img src="public/assets/website/images/chat-img-1.png" alt="" class="img-fluid" />
+                     <a href="javascript:toggleTawkChat();" class="chatt">Live Chat</a>
+                  </div>
+               </div>
             </div>
          </div>
    </header>

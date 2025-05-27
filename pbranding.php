@@ -8,7 +8,7 @@
                <div class="anim-banner-txt" data-aos="zoom-in" data-aos-duration="2000">
 
                   <div class="pricig-page-img-box pr-img">
-                     <img src="public/assets/website/images/branding-banner-img.png" alt="" class="b-img img-fluid" />
+                     <img src="public/assets/website/images/branding-banner-img.webp" alt="" class="b-img img-fluid" />
                   </div>
                </div>
             </div>
@@ -32,85 +32,85 @@
                      <div class="row">
                         <div class="col-md-4 col-sm-6 p-0">
                            <div class="gallery-img-box">
-                              <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/1.jpg">
-                                 <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/1.jpg">
+                              <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/1.webp">
+                                 <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/1.webp">
                               </a>
                            </div>
                         </div>
                         <div class="col-md-4 col-sm-6 p-0">
                            <div class="gallery-img-box">
-                              <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/2.jpg">
-                                 <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/2.jpg">
+                              <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/2.webp">
+                                 <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/2.webp">
                               </a>
                            </div>
                         </div>
                         <div class="col-md-4 col-sm-6 p-0">
                            <div class="gallery-img-box">
-                              <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/3.jpg">
-                                 <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/3.jpg">
+                              <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/3.webp">
+                                 <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/3.webp">
                               </a>
                            </div>
                         </div>
                         <div class="col-md-4 col-sm-6 p-0">
                            <div class="gallery-img-box">
-                              <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/4.jpg">
-                                 <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/4.jpg">
+                              <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/4.webp">
+                                 <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/4.webp">
                               </a>
                            </div>
                         </div>
                         <div class="col-md-4 col-sm-6 p-0">
                            <div class="gallery-img-box">
-                              <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/5.jpg">
-                                 <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/5.jpg">
+                              <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/5.webp">
+                                 <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/5.webp">
                               </a>
                            </div>
                         </div>
                         <div class="col-md-4 col-sm-6 p-0">
                            <div class="gallery-img-box">
-                              <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/6.jpg">
-                                 <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/6.jpg">
+                              <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/6.webp">
+                                 <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/6.webp">
                               </a>
                            </div>
                         </div>
                         <div class="col-md-4 col-sm-6 p-0">
                            <div class="gallery-img-box">
-                              <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/7.jpg">
-                                 <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/7.jpg">
+                              <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/7.webp">
+                                 <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/7.webp">
                               </a>
                            </div>
                         </div>
                         <div class="col-md-4 col-sm-6 p-0">
                            <div class="gallery-img-box">
-                              <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/8.jpg">
-                                 <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/8.jpg">
+                              <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/8.webp">
+                                 <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/8.webp">
                               </a>
                            </div>
                         </div>
                         <div class="col-md-4 col-sm-6 p-0">
                            <div class="gallery-img-box">
-                              <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/9.jpg">
-                                 <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/9.jpg">
+                              <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/9.webp">
+                                 <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/9.webp">
                               </a>
                            </div>
                         </div>
                         <div class="col-md-4 col-sm-6 p-0">
                            <div class="gallery-img-box">
-                              <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/10.jpg">
-                                 <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/10.jpg">
+                              <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/10.webp">
+                                 <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/10.webp">
                               </a>
                            </div>
                         </div>
                         <div class="col-md-4 col-sm-6 p-0">
                            <div class="gallery-img-box">
-                              <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/11.jpg">
-                                 <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/11.jpg">
+                              <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/11.webp">
+                                 <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/11.webp">
                               </a>
                            </div>
                         </div>
                         <div class="col-md-4 col-sm-6 p-0">
                            <div class="gallery-img-box">
-                              <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/12.jpg">
-                                 <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/12.jpg">
+                              <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/12.webp">
+                                 <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/12.webp">
                               </a>
                            </div>
                         </div>
@@ -122,31 +122,5 @@
 
     <?php include 'assets/layout/get-in-touch.php' ?>
 
-<section class="contact-us-sec">
-    <div class="container">
-    <div class="row">
-        <div class="col-lg-6 col-md-12">
-            <div class="contact-left-box" data-aos="fade-right" data-aos-duration="2000">
-                <h3>contact us</h3>
-                <h4>Let's write your <br /> story, together.</h4>
-            </div>
-        </div>
-        <div class="col-lg-6 col-md-12">
-            <div class="contact-right-box" data-aos="fade-left" data-aos-duration="2000">
-                <p>We do not tell you our story. We write it together. Partnering with us means a seat at the table where you will be heard.</p>
-                <div class="contact-bottom-info-box">
-                <a href="contact-us.php" class="btn btn-ctn">contact us</a>
-                <a href="<?php echo $phone_link ?>" class="btn-tel">
-                    <img class="lazy img-fluid" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/img/second-comtact-img-1.png" alt="">
-                    <div class="second-con-box">
-                        <h5>call us at</h5>
-                        <p><?php echo $phone ?></p>
-                    </div>
-                </a>
-                </div>
-            </div>
-        </div>
-    </div>
-    </div>
-</section>
+    <?php include 'assets/layout/cta.php' ?>
 <?php include 'assets/layout/footer.php' ?>

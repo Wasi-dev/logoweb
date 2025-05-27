@@ -5,47 +5,171 @@
             <div class="row align-items-center">
                 <div class="col-lg-5 col-md-12">
                     <div class="anim-banner-txt" data-aos="fade-right" data-aos-duration="2000">
-                        <h1>Reliable Website Maintenance</h1>
-                        <!-- <h2>Ensuring Your Website Runs Smoothly</h2> -->
-                        <p>Our expert team provides comprehensive website maintenance services, keeping your site updated, secure, and optimized for performance. From regular updates to troubleshooting, we ensure your online presence remains flawless and aligned with your business goals.</p>
+                    <h1> Keep Your Website Running Smoothly with Expert Website Maintenance Services in USA</h1>
+                       
+<p> Hey, Chicago business owners! A great website isn't just about design. It's about keeping it updated, secure, and performing flawlessly. Logo Visioneer's website maintenance services ensure your site stays fast, functional, and ready to impress so you can focus on growing your business.
+</p>
+<a href="javascript:void(0);" class="btn btn-request" data-toggle="modal" data-target="#req_qoute">Request a Quote</a> 
 
-                        <div class="form-banner" data-form-type="signup_form">
-                            <form class="" method="POST" action="mail.php"
-                                novalidate="novalidate">
-                                <input type="hidden" class="pkg_nme" name="package">
-                                <input type="hidden" name="link" value="<?php echo $link ?>">
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <ul>
-                                            <li><input name="name" minlength="2" type="text" placeholder="Name" required /></li>
-                                            <li><input name="phone" id="phone-coun" required="" type="text" minlength="10"
-                                                    maxlength="10" autocomplete="off"
-                                                    onkeypress="return ((event.charCode >= 48 &amp;&amp; event.charCode <= 57) )"
-                                                    placeholder="Phone Number"></li>
-                                            <li><input type="email" name="email" placeholder="Email Address" required></li>
-                                        </ul>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div id="formResult" class="slideformResult"></div>
-                                        <input class="pkg_btn submit" data-sku="Offering Engaging Form " name="submit"
-                                            type="submit" value="Submit Now" required />
-                                        <a href="javascript:toggleTawkChat();" class="btn btn-live chatt"><i
-                                                class='fas fa-comment'></i>Live Chat</a>
-                                    </div>
-                                </div>
-                            </form>
-                        </div>
                     </div>
                 </div>
                 <div class="col-lg-7">
                     <div class="anim-img-box">
-                        <img src="public/assets/website/images/web-maintain.png" alt="" class="img-fluid" />
+                        <img src="public/assets/website/images/web-maintain.webp" alt="" class="img-fluid" />
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
+
+
+<section class="services-sec seo-services-sec">
+   <div class="wrapv">
+      <div class="vertical tlt">
+         Design
+      </div>
+   </div>
+   <div class="wrapv-two">
+      <div class="vertical-two tlt-2">
+         Creative.
+      </div>
+   </div>
+   <div class="column_lines">
+      <div class="column"></div>
+      <div class="column"></div>
+      <div class="column"></div>
+      <div class="column"></div>
+      <div class="column"></div>
+   </div>
+   <div class="container">
+      <div class="row justify-content-center">
+         <div class="col-md-7">
+            <div class="services-head-box" data-aos="fade-down" data-aos-duration="2000">
+               <h2>Why is Website Maintenance Agency Essential for Your Business Success?
+               </h2>
+               <p>A neglected website can hurt your reputation. Research shows 88% of online visitors won't return to a website after a bad experience. From broken links to outdated security protocols, a poorly maintained site can drive customers away. Regular maintenance ensures your website stays secure, loads quickly, and delivers a flawless experience that keeps visitors coming back for more.</p>
+               <a href="javascript:void(0);" data-sku="lets get started" class="pkg_btn chatt btn btn-submit" data-toggle="modal"
+                  data-target="#req_qoute">lets get started</a>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="content-serv-sec seo-serv-sec">
+      <div class="container-fluid">
+         <div class="row content-serv-sec-responsive-slider">
+            <div class="col-lg-3 col-md-12">
+               <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
+                  <img src="public/assets/website/images/icons/optimization.webp" alt="" class="icon-img img-fluid" />
+                  <h2>Speed Optimization for Lightning-Fast Loading
+                  </h2>
+                  <p>Slow websites lose customers. We ensure your site loads in record time, keeping users engaged and boosting your search engine rankings.
+                  </p>
+               </div>
+            </div>
+            <div class="col-lg-3 col-md-12">
+               <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
+                  <img src="public/assets/website/images/icons/threat.webp" alt="" class="icon-img img-fluid" />
+                  <h2> Security Audits & Threat Protection
+                  </h2>
+                  <p>Stay ahead of hackers! Our proactive security updates, malware scans, and firewalls keep your website safe and secure.
+                  </p>
+               </div>
+            </div>
+            <div class="col-lg-3 col-md-12">
+               <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
+                  <img src="public/assets/website/images/icons/Refreshes.webp" alt="" class="icon-img img-fluid" />
+                  <h2>Content Updates & Refreshes
+                  </h2>
+                  <p>Keep your website fresh. From new blog posts to updated product listings, we ensure your content always feels relevant and engaging.
+                  </p>
+               </div>
+            </div>
+            <div class="col-lg-3 col-md-12">
+               <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
+                  <img src="public/assets/website/images/icons/Recovery.webp" alt="" class="icon-img img-fluid" />
+                  <h2>Regular Backups & Disaster Recovery
+                  </h2>
+                  <p>Never lose valuable data. With scheduled backups and fast recovery services, we've got your website covered in case of emergencies.
+                  </p>
+               </div>
+            </div>
+
+       </div>
+      </div>
+   </div>
+</section>
+
+<!--Steps Section-->
+<section class="mt-5 mb-5 show-desktop">
+<div class="container">
+   
+      <div class="price-head-box aos-init aos-animate" data-aos="fade-down" data-aos-duration="3000">
+         <h2>4 Steps to Hassle-Free</br> Website Maintenance
+
+
+         </h2>
+      </div>
+      <div class="row">
+         <div class="col-lg-8 col-md-12">
+            <div class="how-we-img-box">
+               <img src="public/assets/website/images/how-we-img.webp" alt="" class="img-fluid" />
+            </div>
+         </div>
+         <div class="col-lg-4 col-md-12">
+            <div class="v-anim-process-box logo-process-box">
+               <h3>Let's Evaluate Your Site
+
+               </h3>
+               <p>We'll assess your website's current performance, identifying areas that need improvement.
+
+               </p>
+            </div>
+         </div>
+      </div>
+      <div class="row">
+         <div class="col-lg-4 col-md-12">
+            <div class="v-anim-process-box anim-2 logo-process-box">
+               <h3>Craft a Maintenance Plan
+               </h3>
+               <p>We design a tailored plan that includes speed, security, and content updates to keep your website running perfectly.
+
+
+
+               </p>
+            </div>
+         </div>
+         <div class="col-lg-4 col-md-12">
+            <div class="v-anim-process-box anim-3 logo-process-box">
+               <h3>Implement & Monitor
+               </h3>
+               <p>From applying updates to running performance checks, we handle it all to ensure your site stays in peak condition.
+               </p>
+            </div>
+         </div>
+         <div class="col-lg-4 col-md-12">
+            <div class="v-anim-process-box anim-4 logo-process-box">
+               <h3>Analyze & Improve
+               </h3>
+               <p>With ongoing monitoring and data-driven adjustments, we continuously refine your site's performance.
+
+
+ 
+
+               </p>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<!--Steps Section end-->
+
+
+
+
+
+
+
 <section class="pricing-main-sec">
     <div class="container">
         <div class="price-head-box" data-aos="fade-down" data-aos-duration="3000">
@@ -402,6 +526,7 @@
 <?php include 'assets/layout/process-sec.php' ?>
 
 <?php include 'assets/layout/creation-sec.php' ?>
+<?php include 'assets/layout/get-in-touch.php' ?>
 <?php include 'assets/layout/testimonial.php' ?>
 
 <?php include 'assets/layout/footer.php' ?>

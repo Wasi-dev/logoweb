@@ -5,47 +5,91 @@
             <div class="row align-items-center">
                 <div class="col-lg-5 col-md-12">
                     <div class="anim-banner-txt" data-aos="fade-right" data-aos-duration="2000">
-                        <h1>Creative Website Design Solutions</h1>
-                        <!-- <h2>Transforming Ideas Into Stunning Websites</h2> -->
-                        <p>Our expert team specializes in designing visually stunning and highly functional websites tailored to your brand's unique identity. From concept to launch, we create user-friendly, responsive, and SEO-optimized websites that captivate audiences and drive results.</p>
+                        <h1>Grow Your Online Presence with the Best Web Design Company in USA!</h1>
 
-                        <div class="form-banner" data-form-type="signup_form">
-                            <form class="" method="POST" action="mail.php"
-                                novalidate="novalidate">
-                                <input type="hidden" class="pkg_nme" name="package">
-                                <input type="hidden" name="link" value="<?php echo $link ?>">
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <ul>
-                                            <li><input name="name" minlength="2" type="text" placeholder="Name" required /></li>
-                                            <li><input name="phone" id="phone-coun" required="" type="text" minlength="10"
-                                                    maxlength="10" autocomplete="off"
-                                                    onkeypress="return ((event.charCode >= 48 &amp;&amp; event.charCode <= 57) )"
-                                                    placeholder="Phone Number"></li>
-                                            <li><input type="email" name="email" placeholder="Email Address" required></li>
-                                        </ul>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div id="formResult" class="slideformResult"></div>
-                                        <input class="pkg_btn submit" data-sku="Offering Engaging Form " name="submit"
-                                            type="submit" value="Submit Now" required />
-                                        <a href="javascript:toggleTawkChat();" class="btn btn-live chatt"><i
-                                                class='fas fa-comment'></i>Live Chat</a>
-                                    </div>
-                                </div>
-                            </form>
-                        </div>
+                        <p> Hey, Chicago business owners! Want a website that wows and works? Logo Visioneer's web design services combine creative design, flawless functionality, and user-focused strategies to turn visitors into loyal customers.
+                        </p>
+                        <a href="javascript:void(0);" class="btn btn-request" data-toggle="modal" data-target="#req_qoute">Request a Quote</a>
+
                     </div>
                 </div>
                 <div class="col-lg-7">
                     <div class="anim-img-box">
-                        <img src="public/assets/website/images/website-designing.png" alt="" class="img-fluid" />
+                        <img src="public/assets/website/images/website-designing.webp" alt="" class="img-fluid" />
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
+
+<section class="services-sec seo-services-sec">
+    <div class="wrapv">
+        <div class="vertical tlt">
+            Design
+        </div>
+    </div>
+    <div class="wrapv-two">
+        <div class="vertical-two tlt-2">
+            Creative.
+        </div>
+    </div>
+    <div class="column_lines">
+        <div class="column"></div>
+        <div class="column"></div>
+        <div class="column"></div>
+        <div class="column"></div>
+        <div class="column"></div>
+    </div>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-7">
+                <div class="services-head-box" data-aos="fade-down" data-aos-duration="2000">
+                    <h2>How a Professional Web Design Agency Transforms Your Brand?</h2>
+                    <p>Your website is your first impression. Studies in the USA show that 75% of users judge a company's credibility by its design. A professionally designed site doesn't just look great. It builds trust, improves user experience, and drives conversions. From streamlined layouts to engaging visuals, a smart web design elevates your brand and keeps visitors coming back.</p>
+                    <a href="javascript:void(0);" data-sku="lets get started" class="pkg_btn chatt btn btn-submit" data-toggle="modal"
+                        data-target="#req_qoute">lets get started</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="content-serv-sec seo-serv-sec">
+        <div class="container-fluid">
+            <div class="row content-serv-sec-responsive-slider">
+                <div class="col-lg-3 col-md-12">
+                    <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
+                        <img src="public/assets/website/images/icons/information.webp" alt="" class="icon-img img-fluid" />
+                        <h2>Master Information Architecture</h2>
+                        <p>Organize with ease! We structure your website to make content clear, logical, and intuitive for every visitor.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-12">
+                    <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
+                        <img src="public/assets/website/images/icons/prototyping.webp" alt="" class="icon-img img-fluid" />
+                        <h2>Wireframing & Prototyping Brilliance</h2>
+                        <p>See your vision come to life. Our prototypes ensure your website's layout is perfect before we build.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-12">
+                    <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
+                        <img src="public/assets/website/images/icons/Visual.webp" alt="" class="icon-img img-fluid" />
+                        <h2>Visual Design That Impresses</h2>
+                        <p>Stunning, on-brand visuals meet seamless functionality to create a website that's as beautiful as it is effective.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-12">
+                    <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
+                        <img src="public/assets/website/images/icons/front-end.webp" alt="" class="icon-img img-fluid" />
+                        <h2>Front-End Development Magic</h2>
+                        <p>Fast, responsive, and flawless. We bring your design to life with coding that works perfectly on all devices.</p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
 <section class="pricing-main-sec">
     <div class="container">
         <div class="price-head-box" data-aos="fade-down" data-aos-duration="3000">
@@ -220,10 +264,70 @@
         <a href="pricing.php" class="btn btn-view-pack">view all packages</a>
     </div>
 </section>
+
+<!--Steps Section-->
+<section class="mt-5 mb-5">
+    <div class="container">
+
+        <div class="price-head-box aos-init aos-animate" data-aos="fade-down" data-aos-duration="3000">
+            <h2>4 Steps to
+                </br>Web Design Success
+
+            </h2>
+        </div>
+        <div class="row">
+            <div class="col-lg-8 col-md-12">
+                <div class="how-we-img-box">
+                    <img src="public/assets/website/images/how-we-img.webp" alt="" class="img-fluid" />
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-12">
+                <div class="v-anim-process-box logo-process-box">
+                    <h3>Let's Chat Goals
+                    </h3>
+                    <p>We'll dive into your brand and goals to craft a design strategy that reflects your vision.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4 col-md-12">
+                <div class="v-anim-process-box anim-2 logo-process-box">
+                    <h3>Create Your Design Framework</h3>
+                    <p>We tackle structure, wireframes, and visual design to create a seamless and stunning user experience.
+
+
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-12">
+                <div class="v-anim-process-box anim-3 logo-process-box">
+                    <h3>Develop and Optimize</h3>
+                    <p>From responsive coding to accessibility testing, we execute flawless development to ensure perfection. </p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-12">
+                <div class="v-anim-process-box anim-4 logo-process-box">
+                    <h3>Track and Improve</h3>
+                    <p>With ongoing analysis, we refine your site to adapt to trends and keep your audience engaged.
+
+
+
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--Steps Section end-->
+
+
+
+
+
 <?php include 'assets/layout/hitting-rec.php' ?>
 <?php include 'assets/layout/process-sec.php' ?>
-
 <?php include 'assets/layout/creation-sec.php' ?>
+<?php include 'assets/layout/get-in-touch.php' ?>
 <?php include 'assets/layout/testimonial.php' ?>
-
 <?php include 'assets/layout/footer.php' ?>

@@ -4,8 +4,9 @@
    <div class="header-slider banner-txt-box">
       <div class="container">
          <div class="banner-content-box" data-aos="zoom-in" data-aos-duration="2000">
-            <h1>WE ARE MORE THAN JUST <br /> AN AVERAGE BRAND AGENCY</h1>
-            <p>Providing opportunities to help you increase <br /> brand recognition & engagement. </p>
+            <h1> Logo Visioneer Provides </br>Comprehensive Branding Solutions!</h1>
+            <p>We believe that a killer logo is the first step to building a killer brand
+            </p>
 
          </div>
       </div>
@@ -31,54 +32,56 @@
    </div>
    <div class="exper-sec">
       <div class="exper-img-box" data-aos="zoom-in" data-aos-duration="2000">
-         <img src="public/assets/website/images/exper-img-1.jpg" alt="" class="img-fluid" />
+         <img src="public/assets/website/images/exper-img-1.webp" alt="" class="img-fluid" />
       </div>
       <div class="exper-content-box" data-aos="fade-up" data-aos-duration="2000">
-         <h2>Experienced <br /> Award-Winning <br /> Certified Company</h2>
+         <h2>Who We Are</h2>
          <h3>Where We Are Today</h3>
-         <p>Logo Visioneer is a massive team of designers, developers, artists, and managers offering logo design services
-            worldwide for both large and small-scale businesses. Over a decade in the market, we are now one of the
-            leading graphic and web design companies in the US and aim to establish as the best.</p>
-         <p>Logo Visioneer originated in 2010 and found the team full of dedication and ready to give their lives to the
-            designing industry. There is zero doubt that Logo Visioneer is the cream of logo design talent. Moreover, our
-            graphic designing portfolio also doesn't have any bounds, including flyers, t-shirts, coupons, brochures,
-            business cards, and much more. </p>
+         <p> Logo Visioneer is where ideas turn into iconic designs. We’re a fun, down-to-earth team of creative pros who get what your brand needs to stand out. We've got you covered from sleek and simple to bold and edgy. Your story deserves a logo that sticks, and we’re here to make it happen,minus the corporate fluff. 
+         </p>
+         <p>We’re not just about design. We are about making your brand look and feel as awesome as you dreamed it would. </p>
+         <p>We’re not just about design. We are about making your brand look and feel as awesome as you dreamed it would. </p>
+         <p>Let’s build something unforgettable!
+         </p>
          <a href="javascript:void(0);" class="btn btn-lets" data-toggle="modal" data-target="#req_qoute">Lets Get
             Started</a>
       </div>
       <div class="exper-img-box-left" data-aos="fade-up" data-aos-duration="2000">
-         <img src="public/assets/website/images/exper-img-2.jpg" alt="" class="img-fluid" />
+         <img src="public/assets/website/images/exper-img-2.webp" alt="" class="img-fluid" />
       </div>
    </div>
    <div class="core-values-sec">
       <div class="container">
          <div class="core-head-box" data-aos="fade-down" data-aos-duration="2000">
-            <h2>Our Core Values</h2>
-            <p>We believe in curating innovative ideas that drive, impact, and change minds.</p>
+            <h2>Our Core Values
+            </h2>
+            <p> Creativity, quality, affordability, and timely delivery define us.
+            </p>
          </div>
          <div class="row about-services-responsive-slider">
             <div class="col-lg-4 col-md-12">
                <div class="core-content-box" data-aos="zoom-in" data-aos-duration="2000">
-                  <img src="public/assets/website/images/service-img-1.png" alt="" class="img-fluid" />
-                  <p>Logo Visioneer propels digital sales and illustrates memorable moments of your brand by communicating
-                     your brand’s voice through stimulating content. We portrait your brand identity in the most
-                     impressive way through graphic designing, web solutions, imagery, and video production. </p>
+                  <img src="public/assets/website/images/service-img-1.webp" alt="" class="img-fluid" />
+                  <h4>Timely Delivery</h4>
+                  <p>At Logo Visioneer, we respect your time and deadlines. We’re committed to delivering exceptional designs on schedule, ensuring your brand moves forward without delays.
+                  </p>
                </div>
             </div>
             <div class="col-lg-4 col-md-12">
                <div class="core-content-box" data-aos="zoom-in" data-aos-duration="2000">
-                  <img src="public/assets/website/images/service-img-2.png" alt="" class="img-fluid" />
-                  <p>We amalgamate innovative thinking and trendsetting in the digital world to bring up high-quality
-                     and rich brand experiences that empower our clients with a competitive edge. </p>
+                  <img src="public/assets/website/images/service-img-2.webp" alt="" class="img-fluid" />
+                  <h4>Quality</h4>
+                  <p>Our designs reflect precision and creativity. At Logo Visioneer, we pride ourselves on producing high-quality work that showcases your brand’s uniqueness and leaves a lasting impression.
+                  </p>
                </div>
             </div>
             <div class="col-lg-4 col-md-12">
                <div class="core-content-box" data-aos="zoom-in" data-aos-duration="2000">
-                  <img src="public/assets/website/images/service-img-3.png" alt="" class="img-fluid" />
-                  <p>Logo Visioneer’ skilled team is committed to the fundamentals of ethics, and we are equally stringent
-                     in upholding aesthetic values. From classic to kitsch, we respect artistic innovation and
-                     creativity. With us, you will shortly found, how we work less like a hired agency and more like
-                     your own productive team.</p>
+                  <img src="public/assets/website/images/service-img-3.webp" alt="" class="img-fluid" />
+                  <h4>Affordability
+                  </h4>
+                  <p>We believe great design should be accessible. Logo Visioneer offers premium services at affordable prices, ensuring every business can achieve a standout brand without overspending.
+                  </p>
                </div>
             </div>
          </div>

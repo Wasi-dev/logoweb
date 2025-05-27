@@ -16,7 +16,7 @@ $('.service-slider .owl-carousel').owlCarousel({
     nav: true,
     dots: false,
     autoplay: true,
-    autoplayTimeout: 6000,
+    autoplayTimeout: 12000,
     navText: ["<img src='assets/img/left-arrow.png'>", "<img src='assets/img/arrow-right.png'>"],
     responsive: {
         0: {
@@ -89,7 +89,7 @@ $('.creation-slider .owl-carousel').owlCarousel({
     margin: 10,
     nav: true,
     autoplay: true,
-    autoplayTimeout: 6000,
+    autoplayTimeout: 12000,
     navText: ["<img src='assets/img/left-arrow.png'>", "<img src='assets/img/arrow-right.png'>"],
     dots: false,
     responsive: {
@@ -107,8 +107,10 @@ $('.creation-slider .owl-carousel').owlCarousel({
 
 $('.testimonial-slider .owl-carousel').owlCarousel({
     animateOut: 'fadeOut',
-    items: 1,
-    margin: 30,
+    items: 2,
+    loop: true,
+
+    margin: 10,
     stagePadding: 30,
     smartSpeed: 450,
     nav: true,
@@ -157,25 +159,27 @@ $('.tlt-2').textillate({
     },
 });
 
-$('.tlt-3').textillate({
-    loop: true,
-    in: {
-        effect: 'bounceIn',
-        delayScale: 8,
-        sync: false,
-        shuffle: false,
-        reverse: false,
-        sequence: true
-    },
-    out: {
-        effect: 'bounceOut',
-        delayScale: 8,
-        sync: false,
-        shuffle: false,
-        reverse: false,
-        sequence: true
-    },
-});
+if (window.innerWidth > 768) { // Adjust breakpoint as needed (e.g., 768px for tablets and phones)
+    $('.tlt-3').textillate({
+        loop: true,
+        in: {
+            effect: 'bounceIn',
+            delayScale: 8,
+            sync: false,
+            shuffle: false,
+            reverse: false,
+            sequence: true
+        },
+        out: {
+            effect: 'bounceOut',
+            delayScale: 8,
+            sync: false,
+            shuffle: false,
+            reverse: false,
+            sequence: true
+        },
+    });
+}
 
 
 
@@ -465,19 +469,19 @@ $(".package-main-box .package-content .slim-scroll ul").slimScroll({
 
 
 
-$(document).ready(function() {
-    $('.dmenu').hover(function() {
-        $(this).find('.sm-menu').first().stop(true, true).slideDown(100);
-    }, function() {
-        $(this).find('.sm-menu').first().stop(true, true).slideUp(100)
-    });
-});
+// $(document).ready(function() {
+//     $('.dmenu').hover(function() {
+//         $(this).find('.sm-menu').first().stop(true, true).slideDown(300);
+//     }, function() {
+//         $(this).find('.sm-menu').first().stop(true, true).slideUp(300)
+//     });
+// });
 
-$(document).ready(function() {
-    $(".megamenu").on("click", function(e) {
-        e.stopPropagation();
-    });
-});
+// $(document).ready(function() {
+//     $(".megamenu").on("click", function(e) {
+//         e.stopPropagation();
+//     });
+// });
 
 
 
@@ -535,3 +539,6 @@ $('.pkg_btn').click(function() { var gettitle = $(this).attr('data-sku');$(".pkg
        }
     });
  });
+ $(document).ready(function () {
+    $('#popup-form').modal('show');
+});

@@ -6,40 +6,18 @@
             <div class="row align-items-center">
                 <div class="col-lg-5 col-md-12">
                     <div class="anim-banner-txt" data-aos="fade-right" data-aos-duration="2000">
-                        <h1>Offering Engaging</h1>
-                        <h2>Marketing Content For Your Brand</h2>
-                        <p>Logo Visioneer is a full-service content writing agency specializing in premium content that can convert words into life and attract audiences towards your brand and enables you to achieve your goals. </p>
-                        <div class="form-banner" data-form-type="signup_form">
-                            <form class="" method="POST" action="mail.php"
-                                novalidate="novalidate">
-                                <input type="hidden" class="pkg_nme" name="package">
-                                <input type="hidden" name="link" value="<?php echo $link ?>">
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <ul>
-                                            <li><input name="name" minlength="2" type="text" placeholder="Name" required /></li>
-                                            <li><input name="phone" id="phone-coun" required="" type="text" minlength="10"
-                                                    maxlength="10" autocomplete="off"
-                                                    onkeypress="return ((event.charCode >= 48 &amp;&amp; event.charCode <= 57) )"
-                                                    placeholder="Phone Number"></li>
-                                            <li><input type="email" name="email" placeholder="Email Address" required></li>
-                                        </ul>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div id="formResult" class="slideformResult"></div>
-                                        <input class="pkg_btn submit" data-sku="Offering Engaging Form " name="submit"
-                                            type="submit" value="Submit Now" required />
-                                        <a href="javascript:toggleTawkChat();" class="btn btn-live chatt"><i
-                                                class='fas fa-comment'></i>Live Chat</a>
-                                    </div>
-                                </div>
-                            </form>
-                        </div>
+                        <h1>Looking for a Content Writing Company in USA to Create </br>
+Compelling Brand Narratives?
+</h1>
+                       
+                        <p>The content that speaks to your audience? Logo Visioneer’s content writing services craft compelling, on-brand copy that engages, informs, and converts. Whether you're in need of website copy, blogs, or social media posts, our content writing experts in the USA ensures your message stands out and captures attention in today’s competitive digital landscape. Let us help your brand shine!
+                        </p>
+                        <a href="javascript:void(0);" class="btn btn-request" data-toggle="modal" data-target="#req_qoute">Request a Quote</a> 
                     </div>
                 </div>
                 <div class="col-lg-7">
                     <div class="anim-img-box">
-                        <img src="public/assets/website/images/content-writing-banner-img.png" alt="" class="img-fluid" />
+                        <img src="public/assets/website/images/content-writing-banner-img.webp" alt="" class="img-fluid" />
                     </div>
                 </div>
             </div>
@@ -57,19 +35,15 @@
             Creative.
         </div>
     </div>
-    <div class="column_lines">
-        <div class="column"></div>
-        <div class="column"></div>
-        <div class="column"></div>
-        <div class="column"></div>
-        <div class="column"></div>
-    </div>
+   
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-7">
                 <div class="services-head-box" data-aos="fade-down" data-aos-duration="2000">
-                    <h2>Get Professionally Written Content By Us</h2>
-                    <p>A well-written piece attracts and creates your brand's image in the reader's mind, and that image is what we are concerned about at Logo Visioneer. With our unbeatable marketing and communicating skills, we can write impactful content for you. Our highly satisfied customer base stands testament to our claim that we have always proven true to our words with promises of high-quality products and content. We offer white label unique content for you that is tested for both plagiarism and errors. Our high-quality content increases your site engagement as well as business. </p>
+                    <h2> Why Your Business Needs</br> Professional Content Writing Agency?
+                    </h2>
+                    <p> People connect with brands through their stories. 70% of folks prefer to learn about a brand through its content. That's why killer content is a MUST. We'll help you craft awesome content that truly speaks to your audience. We're talking well-researched, SEO-friendly stuff that'll make your brand shine in the USA market. Let's create something amazing together!"
+                    </p>
                     <a href="javascript:void(0);" class="btn btn-submit" data-toggle="modal" data-target="#req_qoute">lets get started</a>
                 </div>
             </div>
@@ -80,30 +54,38 @@
             <div class="row content-serv-sec-responsive-slider">
                 <div class="col-lg-3 col-md-12">
                     <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
-                        <img src="public/assets/website/images/content-serv-img-1.png" alt="" class="img-fluid" />
-                        <h3>Website Content Writing</h3>
-                        <p>When we talk about websites, your website's design is the most important as the content that your website houses. Our writers can write about every service you are providing and ensure that they will generate exceptional content free from plagiarism with good keyword input that can play well in the field. </p>
+                        <img src="public/assets/website/images/web-copy.webp" alt="" class="icon-img img-fluid" />
+                        <h2>Website Copywriting
+                        </h2>
+                        <p> Need copy that turns visitors into customers? We craft website content that’s clear, engaging, and conversion-driven.
+                        </p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-12">
                     <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
-                        <img src="public/assets/website/images/content-serv-img-2.png" alt="" class="img-fluid" />
-                        <h3>Creative Content Writing</h3>
-                        <p>Having years of experience, our team for creative content writing knows all the tactics and techniques used to build a monotonous story. Creativity is all about adding your touch to the ubiquitous, and our team at Logo Visioneer knows it competently.</p>
+                        <img src="public/assets/website/images/content-writing.webp" alt="" class="icon-img img-fluid" />
+                        <h2> Creative Content Writing
+                        </h2>
+                        <p> Looking for out-of-the-box ideas? Our creative writing services bring fresh, innovative concepts that captivate your audience.
+                        </p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-12">
                     <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
-                        <img src="public/assets/website/images/content-serv-img-3.png" alt="" class="img-fluid" />
-                        <h3>Blog Writing</h3>
-                        <p>Blogging is the latest and most popular method nowadays of spreading the news. Blogging has become the most powerful method to make anything viral or the talk of the town. It's also one of the prominent methods of marketing and gaining popularity to your online and offline outlets. Our writers are pros at creating efficient and ingenious blogs. </p>
+                        <img src="public/assets/website/images/blog-writing.webp" alt="" class="icon-img img-fluid" />
+                        <h2>Blog Writing
+                        </h2>
+                        <p>Build trust and authority with engaging, well-researched blog posts that resonate with your audience and drive traffic.
+                        </p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-12">
                     <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
-                        <img src="public/assets/website/images/content-serv-img-4.png" alt="" class="img-fluid" />
-                        <h3>Article Writing</h3>
-                        <p>If you are forgetting quality content for your brand, you are probably giving your customers the wrong impression about your brand or business by having content that just fails to make the impression. You need to take the opportunity your viewer is giving you by reading your content, and maybe you will lose a potential client. Get an expert writer at Logo Visioneer and ensure that you are all the way.</p>
+                        <img src="public/assets/website/images/article-writing.webp" alt="" class="icon-img img-fluid" />
+                        <h2>Article Writing
+                        </h2>
+                        <p>Our article writing service delivers informative, value-packed content that informs and inspires your readers to take action. 
+                        </p>
                     </div>
                 </div>
             </div>
@@ -112,6 +94,67 @@
 </section>
 <?php include 'assets/layout/hitting-rec.php' ?>
 
+</br>
+</br>
+
+<section class="content-sec">
+<div class="container">
+   
+      <div class="price-head-box aos-init aos-animate" data-aos="fade-down" data-aos-duration="3000">
+         <h2>4 Steps to Content
+         </br> Writing Success
+         </h2>
+      </div>
+      <div class="row">
+         <div class="col-lg-8 col-md-12">
+            <div class="how-we-img-box">
+               <img src="public/assets/website/images/how-we-img.webp" alt="" class="img-fluid" />
+            </div>
+         </div>
+         <div class="col-lg-4 col-md-12">
+            <div class="v-anim-process-box logo-process-box">
+               <h3>Let’s Define Your Message
+
+               </h3>
+               <p>We listen and understand your brand’s voice, audience, and goals before crafting unique, engaging content.
+
+
+
+               </p>
+            </div>
+         </div>
+      </div>
+      <div class="row">
+         <div class="col-lg-4 col-md-12">
+            <div class="v-anim-process-box anim-2 logo-process-box">
+               <h3>Write With Impact
+               </h3>
+               <p>We focus on quality, creativity, and clarity to ensure your content captures attention and drives results.
+               </p>
+            </div>
+         </div>
+         <div class="col-lg-4 col-md-12">
+            <div class="v-anim-process-box anim-3 logo-process-box">
+               <h3>Optimize for Results
+               </h3>
+               <p>Our content is optimized for SEO, ensuring better visibility, traffic, and engagement across search engines.
+               </p>
+            </div>
+         </div>
+         <div class="col-lg-4 col-md-12">
+            <div class="v-anim-process-box anim-4 logo-process-box">
+               <h3>Update and Improve
+               </h3>
+               <p>We continuously refine and update content to keep it fresh, relevant, and impactful for your audience.
+
+ 
+
+               </p>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
 <section class="pricing-main-sec">
     <div class="container">
         <div class="price-head-box" data-aos="fade-down" data-aos-duration="3000">
@@ -252,40 +295,34 @@
     </div>
 </section>
 <section class="content-slider-sec">
-    <div class="column_lines">
-        <div class="column"></div>
-        <div class="column"></div>
-        <div class="column"></div>
-        <div class="column"></div>
-        <div class="column"></div>
-    </div>
+   
     <div class="container">
         <div class="service-slider">
             <div class="owl-carousel owl-theme">
                 <div class="item">
                     <div class="serv-main-box anim-serv-box">
-                        <img src="public/assets/website/images/content-slider-img-1.png" alt="" class="img-fluid" />
+                        <img src="public/assets/website/images/content-slider-img-1.webp" alt="" class="img-fluid" />
                         <h3>Improve your Rankings</h3>
                         <p>Hiring a professional content writer means ensuring that your website will improve the ranking with premium quality content. By adding valuable content to your website consistently, you will be in good ranks of the search engines as well as visitors. </p>
                     </div>
                 </div>
                 <div class="item">
                     <div class="serv-main-box anim-serv-box">
-                        <img src="public/assets/website/images/content-slider-img-2.png" alt="" class="img-fluid" />
+                        <img src="public/assets/website/images/content-slider-img-2.webp" alt="" class="img-fluid" />
                         <h3>Keyword Integration</h3>
                         <p>With a reliable and knowledgeable content writer, you will get content with natural keyword integration that will impressively help you to get a higher place on the search engine result page (SERP). Brands must invest in premium quality content to get recognized by search engines.</p>
                     </div>
                 </div>
                 <div class="item">
                     <div class="serv-main-box anim-serv-box">
-                        <img src="public/assets/website/images/content-slider-img-3.png" alt="" class="img-fluid" />
+                        <img src="public/assets/website/images/content-slider-img-3.webp" alt="" class="img-fluid" />
                         <h3>Get Content from Experts</h3>
                         <p>We help you get the most impactful content from experts who have extensive experience in the field and can go beyond your expectations. We ensure timely content delivery so that you can get most of it. </p>
                     </div>
                 </div>
                 <div class="item">
                     <div class="serv-main-box anim-serv-box">
-                        <img src="public/assets/website/images/content-slider-img-1.png" alt="" class="img-fluid" />
+                        <img src="public/assets/website/images/content-slider-img-1.webp" alt="" class="img-fluid" />
                         <h3>Attractive Website for the Targeted Audiences</h3>
                         <p>More traffic leads to the success of an online business, and well-written content can do this job effectively and efficiently. Our team writes the content that keeps the visitors hooked on your website. </p>
                     </div>
@@ -340,7 +377,7 @@
             </div>
             <div class="col-lg-3 col-md-12">
                 <a href="<?php echo $phone_link ?>" class="btn-tel">
-                    <img src="public/assets/website/images/second-comtact-img-1.png" alt="" class="img-fluid" />
+                    <img src="public/assets/website/images/second-comtact-img-1.webp" alt="" class="img-fluid" />
                     <div class="second-con-box">
                         <h5>call us at</h5>
                         <p><?php echo $phone ?></p>
@@ -353,6 +390,6 @@
         </div>
     </div>
 </section>
-
+<?php include 'assets/layout/get-in-touch.php' ?>
 <?php include 'assets/layout/testimonial.php' ?>
 <?php include 'assets/layout/footer.php' ?>

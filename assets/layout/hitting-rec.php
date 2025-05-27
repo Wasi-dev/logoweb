@@ -1,8 +1,10 @@
 <section class="counter-sec">
    <div class="container-fluid">
+      <h2>hitting new records</h2>
       <div class="counter-main">
+
          <div class="counter-head-box">
-            <h2>hitting <br /> new records</h2>
+
          </div>
          <div class="counter-main-box counter-responsive-slider" id="counter">
             <div class="counter-box">
@@ -41,9 +43,7 @@
                <p>logo designed</p>
             </div>
          </div>
-         <div class="btn-portfolio-box">
-<a class="pkg_btn btn btn-portfolio" data-sku="Get Started Now" data-toggle="modal" data-target="#req_qoute">Get Started Now</a>
-         </div>
+
       </div>
    </div>
 </section>

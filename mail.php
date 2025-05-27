@@ -67,7 +67,7 @@ if ($conn->query($sql) === TRUE) {
  $result = $conn->query($sin_rec);
 
  if ($row = $result->fetch_assoc()) {
-$to = "contact@logovisioneer.com, gabriel.brown@logovisioneer.com, waseempixedustmedia@gmail.com";
+$to = "contact@logovisioneer.com, gabriel.brown@logovisioneer.com, Aimankhan.official000@gmail.com";
 $from = "no-reply@" . parse_url($link, PHP_URL_HOST); // Use the website name as the sender
 
 $subject = "Client Order Query " . $package;

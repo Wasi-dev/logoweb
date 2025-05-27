@@ -5,48 +5,101 @@
             <div class="row align-items-center">
                 <div class="col-lg-5 col-md-12">
                     <div class="anim-banner-txt" data-aos="fade-right" data-aos-duration="2000">
-                        <h1> Shopify Development Services</h1>
-                        <!-- <h2>Building Your Dream Online Store</h2> -->
-                        <p>Our skilled team specializes in creating custom Shopify stores that are visually appealing, highly functional, and tailored to your business needs. From setup to optimization, we deliver user-friendly, responsive, and sales-driven solutions that help you succeed in the e-commerce world.</p>
+                        <h1>Build Your Dream Store with the Best Shopify Development Company in USA
+                        </h1>
+                       
+                        <p>Hey, Chicago entrepreneurs! Want a Shopify store that not only looks amazing but works like a charm? Logo Visioneer's Shopify web development solutions bring creativity, functionality, and flawless performance together. From stunning designs to seamless shopping experiences, our Shopify developers craft online stores that sell and scale effortlessly.
+                        </p>
+                        <a href="javascript:void(0);" class="btn btn-request" data-toggle="modal" data-target="#req_qoute">Request a Quote</a> 
 
-
-                        <div class="form-banner" data-form-type="signup_form">
-                            <form class="" method="POST" action="mail.php"
-                                novalidate="novalidate">
-                                <input type="hidden" class="pkg_nme" name="package">
-                                <input type="hidden" name="link" value="<?php echo $link ?>">
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <ul>
-                                            <li><input name="name" minlength="2" type="text" placeholder="Name" required /></li>
-                                            <li><input name="phone" id="phone-coun" required="" type="text" minlength="10"
-                                                    maxlength="10" autocomplete="off"
-                                                    onkeypress="return ((event.charCode >= 48 &amp;&amp; event.charCode <= 57) )"
-                                                    placeholder="Phone Number"></li>
-                                            <li><input type="email" name="email" placeholder="Email Address" required></li>
-                                        </ul>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div id="formResult" class="slideformResult"></div>
-                                        <input class="pkg_btn submit" data-sku="Offering Engaging Form " name="submit"
-                                            type="submit" value="Submit Now" required />
-                                        <a href="javascript:toggleTawkChat();" class="btn btn-live chatt"><i
-                                                class='fas fa-comment'></i>Live Chat</a>
-                                    </div>
-                                </div>
-                            </form>
-                        </div>
+                     
                     </div>
                 </div>
                 <div class="col-lg-7">
                     <div class="anim-img-box">
-                        <img src="public/assets/website/images/shopify.png" alt="" class="img-fluid" />
+                        <img src="public/assets/website/images/shopify.webp" alt="" class="img-fluid" />
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
+
+<section class="services-sec seo-services-sec">
+   <div class="wrapv">
+      <div class="vertical tlt">
+         Design
+      </div>
+   </div>
+   <div class="wrapv-two">
+      <div class="vertical-two tlt-2">
+         Creative.
+      </div>
+   </div>
+   <div class="column_lines">
+      <div class="column"></div>
+      <div class="column"></div>
+      <div class="column"></div>
+      <div class="column"></div>
+      <div class="column"></div>
+   </div>
+   <div class="container">
+      <div class="row justify-content-center">
+         <div class="col-md-7">
+            <div class="services-head-box" data-aos="fade-down" data-aos-duration="2000">
+               <h2>Custom Shopify Web Development Solutions</h2>
+               <p> Every business is different, so why settle for a cookie-cutter store? Our Shopify web designers build custom-made Shopify online stores in the USA that perfectly match your brand and goals. From personalized themes and intuitive navigation to features that enhance user experience, we ensure your store reflects your brand's identity while delivering a seamless shopping journey that converts visitors into loyal customers.
+               </p>
+               <a href="javascript:void(0);" data-sku="lets get started" class="pkg_btn chatt btn btn-submit" data-toggle="modal"
+                  data-target="#req_qoute">lets get started</a>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="content-serv-sec seo-serv-sec">
+      <div class="container-fluid">
+         <div class="row content-serv-sec-responsive-slider">
+            <div class="col-lg-3 col-md-12">
+               <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
+                  <img src="public/assets/website/images/icons/Shopify.webp" alt="" class="icon-img img-fluid" />
+                  <h2>Shopify Theme Design & Customization</h2>
+                  <p>Want a store that stands out? We customize Shopify themes or design one from scratch to give your store a unique, on-brand look that wows customers.
+                  </p>
+               </div>
+            </div>
+            <div class="col-lg-3 col-md-12">
+               <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
+                  <img src="public/assets/website/images/icons/Integration.webp" alt="" class="icon-img img-fluid" />
+                  <h2>Seamless App Integration</h2>
+                  <p>Need advanced features? From payment gateways to marketing tools, our expert Shopify website developers integrate apps that enhance your store's functionality and customer experience.</p>
+               </div>
+            </div>
+            <div class="col-lg-3 col-md-12">
+               <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
+                  <img src="public/assets/website/images/icons/Migration.webp" alt="" class="icon-img img-fluid" />
+                  <h2> Shopify Migration Services
+                  </h2>
+                  <p> Ready to move to Shopify? We handle everything, including data transfer, design adaptation, and functionality, to ensure a smooth transition to your new platform.
+                  </p>
+               </div>
+            </div>
+            <div class="col-lg-3 col-md-12">
+               <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
+                  <img src="public/assets/website/images/icons/Responsiveness.webp" alt="" class="icon-img img-fluid" />
+                  <h2> Speed Optimization & Mobile Responsiveness</h2>
+                  <p>Shoppers won't wait for slow sites. We optimize your Shopify store for lightning-fast loading times and flawless performance on any device.
+                  </p>
+               </div>
+            </div>
+
+       </div>
+      </div>
+   </div>
+</section>
+
+
+
+
 <section class="pricing-main-sec">
     <div class="container">
         <div class="price-head-box" data-aos="fade-down" data-aos-duration="3000">
@@ -316,10 +369,66 @@
         <a href="pricing.php" class="btn btn-view-pack">view all packages</a>
     </div>
 </section>
+
+
+
+<!--Steps Section-->
+<section class="mt-5 mb-5 show-desktop">
+<div class="container">
+   
+      <div class="price-head-box aos-init aos-animate" data-aos="fade-down" data-aos-duration="3000">
+      <h2>4 Steps to Hassle-Free</br>Shopify Development Success</h2>
+      </div>
+      <div class="row">
+         <div class="col-lg-8 col-md-12">
+            <div class="how-we-img-box">
+               <img src="public/assets/website/images/how-we-img.webp" alt="" class="img-fluid" />
+            </div>
+         </div>
+         <div class="col-lg-4 col-md-12">
+            <div class="v-anim-process-box logo-process-box">
+               <h3>Let's Explore Your Vision</h3>
+               <p>We will collaborate to understand your brand, target audience, and goals to create a Shopify strategy that's uniquely yours.</p>
+            </div>
+         </div>
+      </div>
+      <div class="row">
+         <div class="col-lg-4 col-md-12">
+            <div class="v-anim-process-box anim-2 logo-process-box">
+               <h3>Design & Customize
+               </h3>
+               <p>From bespoke themes to tailored layouts, our Shopify web designers bring your ideas to life with stunning visuals and seamless usability.
+               </p>
+            </div>
+         </div>
+         <div class="col-lg-4 col-md-12">
+            <div class="v-anim-process-box anim-3 logo-process-box">
+               <h3>Develop & Optimize
+               </h3>
+               <p>Our Shopify website developers build a store that's fast, functional, and loaded with features to elevate your eCommerce experience.
+               </p>
+            </div>
+         </div>
+         <div class="col-lg-4 col-md-12">
+            <div class="v-anim-process-box anim-4 logo-process-box">
+               <h3>Launch & Support
+               </h3>
+               <p>After testing your store to perfection, we help you go live and provide ongoing support to keep your store at its best.
+               </p>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<!--Steps Section end-->
+
+
+
+
 <?php include 'assets/layout/hitting-rec.php' ?>
 <?php include 'assets/layout/process-sec.php' ?>
 
 <?php include 'assets/layout/creation-sec.php' ?>
+<?php include 'assets/layout/get-in-touch.php' ?>
 <?php include 'assets/layout/testimonial.php' ?>
-
 <?php include 'assets/layout/footer.php' ?>

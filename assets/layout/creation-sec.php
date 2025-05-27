@@ -10,8 +10,9 @@
        <div class="row">
           <div class="col-lg-3 col-md-4">
              <div class="creation-head">
-           
-                <h2>A <span>creative agency</span><br /><span>dedicated </span>  to<br /><span>digital creation</span>and<br />crafting powerful brand strategies.</h2>
+               <h2 class="show-desktop">A <span>creative agency</span><br /><span> dedicated </span>  to<br /><span>digital creation</span> and<br />crafting powerful brand strategies.</h2>
+
+                <h2 class="show-mobile">A <span>creative agency</span><span>dedicated </span>  to<span>digital creation</span> and crafting powerful brand strategies.</h2>
              </div>
           </div>
           <div class="col-lg-9 col-md-8">
@@ -19,43 +20,39 @@
                 <div class="owl-carousel owl-theme">
                    <div class="item">
                       <div class="creation-slider-box">
-                         <h3>creativity</h3>
-                         <p>Creativity is the driving force behind our industry, and we’ve made it a cornerstone for our design and development teams. We embrace unlimited creativity and innovation in every project we undertake.
-                        </p>
+                         <h3>Idea Brainstorming                         </h3>
+                         <p>Let’s get those creative juices flowing! We’ll explore your brand’s unique personality and brainstorm various logo concepts.</p>
                       </div>
                    </div>
                    <div class="item">
                       <div class="creation-slider-box">
-                         <h3>Multiple Designers Assigned</h3>
-                         <p>Our talented and experienced team, experts in innovation, consistently exceeds customer expectations. We guarantee 100% quality work, free from any limitations on creativity and innovation.
-                        </p>
+                         <h3>Concept Development</h3>
+                         <p>Time to refine those ideas! We’ll develop a few strong concepts and present them to you for feedback.</p>
                       </div>
                    </div>
                    <div class="item">
                       <div class="creation-slider-box">
-                         <h3>Industry Specific Designers</h3>
-                         <p>With years of experience, our management team has developed a deep understanding of delivering high-quality design services. 
-                        </p>
+                         <h3>Design Refinement </h3>
+                         <p>Let’s perfect the look and feel! We’ll fine-tune your chosen concept, making adjustments based on your input. </p>
                       </div>
                    </div>
                    <div class="item">
                       <div class="creation-slider-box">
-                         <h3>Timely Logo Delivery</h3>
-                         <p>When it comes to design excellence, our skilled team goes beyond all limits. Every element of the design is meticulously crafted, ensuring that no aspect of quality is overlooked.
-                        </p>
+                         <h3>Client Approval
+                         </h3>
+                         <p> You’re the boss! We’ll present the final designs for your approval and make any necessary revisions.</p>
                       </div>
                    </div>
                    <div class="item">
                       <div class="creation-slider-box">
-                         <h3>Free Logo Multiple File Formats</h3>
-                         <p>You’ll receive your logo in multiple formats, not just a JPEG, to ensure it meets the diverse needs of your brand.
-                        </p>
+                         <h3>File Delivery</h3>
+                         <p> Ready to launch? We will deliver all the necessary files in the right formats so you can start using your new logo right away.</p>
                       </div>
                    </div>
                    <div class="item">
                       <div class="creation-slider-box">
                          <h3>Unlimited Revisions</h3>
-                         <p>Our top priority is your satisfaction. We’ll continue working until you’re completely happy with the final result. Not happy with what you see? Let’s make it right.
+                         <p>Your satisfaction is our top priority. We will continue refining the work until you are completely happy with the final result. Not satisfied? Let us make it right.
                         </p>
                       </div>
                    </div>

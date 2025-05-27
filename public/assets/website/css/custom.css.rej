@@ -1,0 +1,13 @@
+diff a/public/assets/website/css/custom.css b/public/assets/website/css/custom.css	(rejected hunks)
+@@ -5140,9 +5140,9 @@
+ 
+ }
+ 
+-div#web-design {
++/* div#web-design {
+     width: 100% !important;
+-}
++} */
+ .pr-div a:hover img {
+     object-position: bottom;
+     box-shadow: 0px 0px 11px 3px #ff0003;

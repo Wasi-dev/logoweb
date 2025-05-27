@@ -1,0 +1,2536 @@
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-08T14:07:42Z
+    [hostname] => logovisioneer.com
+    [score] => 0.7
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-08T14:07:47Z
+    [hostname] => logovisioneer.com
+    [score] => 0.7
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-08T14:07:54Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-08T14:08:00Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-08T14:08:05Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-08T14:08:24Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-08T14:08:26Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-08T14:08:29Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-08T14:09:01Z
+    [hostname] => logovisioneer.com
+    [score] => 0.7
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-08T20:08:27Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-08T20:09:14Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-08T20:10:05Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-08T20:11:16Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => browser-error
+        )
+
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-09T09:04:04Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-09T09:07:12Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-09T19:34:04Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-09T19:35:20Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-09T19:35:27Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-09T19:35:40Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-09T19:37:37Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-09T19:38:52Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-09T19:39:04Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-09T19:40:06Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-09T19:40:54Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-09T19:43:37Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-09T19:44:11Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-09T19:44:12Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-09T21:03:51Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-09T21:04:39Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-10T00:17:43Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-10T00:21:25Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-10T00:22:48Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-10T00:25:47Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-10T00:27:44Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => browser-error
+        )
+
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-10T09:20:02Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-10T09:20:46Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-10T09:21:38Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-10T09:22:53Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-10T09:23:08Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-10T16:32:53Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => browser-error
+        )
+
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-10T19:01:48Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-10T20:49:33Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-11T09:39:05Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-11T09:39:09Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-11T09:40:39Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-11T09:41:06Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-11T12:30:28Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-11T17:11:24Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-11T23:47:05Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-11T23:57:43Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-12T17:30:35Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => browser-error
+        )
+
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-12T18:01:25Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-12T18:01:50Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-12T18:01:53Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-12T18:04:37Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-12T18:04:45Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-12T18:11:24Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-12T18:12:01Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-12T18:12:32Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-12T18:13:34Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-12T18:35:13Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-12T19:11:58Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-12T19:22:52Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-12T19:26:50Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-12T19:28:35Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-12T19:29:03Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-12T19:29:11Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-12T19:32:49Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => browser-error
+        )
+
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-12T19:33:59Z
+    [hostname] => logovisioneer.com
+    [score] => 0.7
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-12T19:34:53Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => browser-error
+        )
+
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-12T21:21:32Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-12T23:13:46Z
+    [hostname] => logovisioneer.com
+    [score] => 0.7
+    [action] => homepage
+)
+Array
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => browser-error
+        )
+
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-13T00:52:07Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-13T01:28:57Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => browser-error
+        )
+
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-14T17:27:27Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-14T18:47:55Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-14T18:48:05Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-14T18:53:32Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-14T19:40:38Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-14T20:07:27Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-14T20:07:46Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-14T20:29:48Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-15T00:19:57Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-15T00:20:18Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => browser-error
+        )
+
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-15T14:05:00Z
+    [hostname] => logovisioneer.com
+    [score] => 0.7
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-15T17:43:39Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-15T19:29:11Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-16T09:12:09Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-16T12:45:39Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-16T12:47:44Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-16T17:01:57Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-16T17:28:26Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-17T00:29:35Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => browser-error
+        )
+
+)
+Array
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => browser-error
+        )
+
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-18T18:56:33Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-18T18:57:15Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-18T18:57:57Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-18T18:58:05Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-18T18:58:15Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-18T18:58:46Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-18T18:58:50Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-18T18:59:16Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-19T00:18:41Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-19T17:46:13Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => browser-error
+        )
+
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-19T19:09:02Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-19T19:12:50Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-19T19:12:50Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-19T20:34:51Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => browser-error
+        )
+
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-22T04:07:24Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-22T04:07:51Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => browser-error
+        )
+
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-22T21:59:03Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => browser-error
+        )
+
+)
+Array
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => browser-error
+        )
+
+)
+Array
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => browser-error
+        )
+
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-25T04:57:18Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-25T04:57:29Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-25T04:57:32Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-25T05:02:10Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-25T05:02:27Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-25T05:23:53Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => browser-error
+        )
+
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-25T16:49:10Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-25T16:49:25Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => browser-error
+        )
+
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-25T23:20:29Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => browser-error
+        )
+
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-26T18:21:33Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-28T03:04:05Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => browser-error
+        )
+
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-29T03:38:41Z
+    [hostname] => logovisioneer.com
+    [score] => 0.3
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-29T07:07:16Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => browser-error
+        )
+
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-29T13:18:14Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-29T13:51:42Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-29T13:52:53Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-29T13:53:22Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-29T18:48:20Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-29T18:48:25Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-29T19:14:20Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-29T19:17:28Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-29T19:18:06Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-29T20:38:28Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-30T09:29:28Z
+    [hostname] => logovisioneer.com
+    [score] => 0.3
+    [action] => homepage
+)
+Array
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => browser-error
+        )
+
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-30T13:12:09Z
+    [hostname] => logovisioneer.com
+    [score] => 0.3
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-30T13:50:00Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-30T17:33:14Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-30T19:19:03Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-30T19:18:57Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => browser-error
+        )
+
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-30T22:23:02Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-04-30T23:58:07Z
+    [hostname] => logovisioneer.com
+    [score] => 0.7
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-01T01:16:51Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => browser-error
+        )
+
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-01T19:22:52Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-01T19:29:07Z
+    [hostname] => logovisioneer.com
+    [score] => 0.7
+    [action] => homepage
+)
+Array
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => browser-error
+        )
+
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-02T11:32:11Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-02T12:12:39Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-02T12:12:44Z
+    [hostname] => logovisioneer.com
+    [score] => 0.7
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-02T12:28:18Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-02T13:05:40Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-02T13:37:10Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => browser-error
+        )
+
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-02T14:12:54Z
+    [hostname] => logovisioneer.com
+    [score] => 0.7
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-02T15:42:25Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-02T19:37:58Z
+    [hostname] => logovisioneer.com
+    [score] => 0.3
+    [action] => homepage
+)
+Array
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => browser-error
+        )
+
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-02T21:25:20Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-02T21:25:25Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-02T21:25:25Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-02T21:25:48Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-03T19:22:12Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-03T19:45:02Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-03T19:45:12Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => browser-error
+        )
+
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-04T18:54:35Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-04T19:51:24Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-04T19:51:35Z
+    [hostname] => logovisioneer.com
+    [score] => 0.3
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-04T19:52:05Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-05T08:49:53Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-05T19:57:15Z
+    [hostname] => logovisioneer.com
+    [score] => 0.7
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-05T19:58:08Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-06T03:57:52Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-06T10:02:15Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-06T20:10:59Z
+    [hostname] => logovisioneer.com
+    [score] => 0.3
+    [action] => homepage
+)
+Array
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => browser-error
+        )
+
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-06T20:30:57Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-07T20:18:25Z
+    [hostname] => logovisioneer.com
+    [score] => 0.3
+    [action] => homepage
+)
+Array
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => browser-error
+        )
+
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-08T06:27:38Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-09T17:40:22Z
+    [hostname] => logovisioneer.com
+    [score] => 0.7
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-09T17:45:33Z
+    [hostname] => logovisioneer.com
+    [score] => 0.3
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-12T17:07:41Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-12T23:31:42Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-13T19:22:24Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-13T19:48:56Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-13T19:52:26Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-13T21:33:43Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-14T00:17:37Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-14T00:17:38Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-14T00:17:51Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-14T00:22:46Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-14T00:22:59Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-14T00:23:02Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-14T00:23:00Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-14T00:25:32Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-14T11:10:29Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-15T10:27:43Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-15T11:17:25Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-16T13:51:17Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-16T14:54:37Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-16T15:41:01Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-16T18:09:39Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-17T03:40:35Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-17T04:03:23Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-19T08:03:51Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-19T19:07:41Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-19T19:07:52Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-19T19:09:25Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-19T19:10:10Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-19T19:10:38Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-19T19:11:13Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-19T19:17:07Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-19T19:56:17Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-19T22:52:54Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-19T22:55:51Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-19T22:57:29Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-19T23:50:49Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-20T04:29:14Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-20T04:29:52Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-20T11:33:13Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-20T11:33:21Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-20T11:33:30Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-20T11:33:41Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-20T17:30:37Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-20T17:30:52Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-20T17:31:04Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-20T17:38:28Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-20T17:38:33Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-20T19:28:35Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-20T23:53:03Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-21T22:50:37Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-21T22:50:41Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-21T23:21:11Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-21T23:23:02Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-22T18:36:21Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-22T20:12:21Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-22T20:58:40Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-22T20:59:02Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-22T22:03:22Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 
+    [error-codes] => Array
+        (
+            [0] => browser-error
+        )
+
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-23T22:23:43Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-23T22:25:33Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-23T22:41:30Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-23T22:42:35Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-23T22:50:28Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-23T23:30:15Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-23T23:30:16Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-23T23:30:30Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-23T23:39:50Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-23T23:41:55Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-23T23:42:12Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-23T23:49:53Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-23T23:50:02Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-23T23:55:47Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-23T23:59:08Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-24T00:02:13Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-24T00:11:09Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-24T00:14:00Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-24T00:14:10Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-24T00:15:39Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-24T00:17:16Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-24T00:17:39Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-24T00:22:03Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-24T00:25:21Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-24T00:28:54Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-24T00:31:49Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-24T00:34:23Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-24T00:37:22Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-24T00:41:55Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-24T00:44:10Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-24T00:46:15Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-24T00:48:23Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-24T00:50:13Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-24T00:51:14Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-24T00:52:30Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-24T00:52:39Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-24T00:53:14Z
+    [hostname] => www.logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-26T11:21:38Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-26T14:17:27Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-26T14:19:28Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-26T14:19:37Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-26T14:20:43Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-26T16:19:13Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-26T16:20:54Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-26T17:18:19Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-26T18:20:01Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-26T22:46:29Z
+    [hostname] => logovisioneer.com
+    [score] => 0.9
+    [action] => homepage
+)
+Array
+(
+    [success] => 1
+    [challenge_ts] => 2025-05-27T02:25:38Z
+    [hostname] => logovisioneer.com
+    [score] => 0.1
+    [action] => homepage
+)

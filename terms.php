@@ -28,7 +28,7 @@ body {
                     <div class="anim-banner-txt" data-aos="zoom-in" data-aos-duration="2000">
                     <h5>TERMS & CONDITIONS<br /></h5>
                     <div class="pricig-page-img-box">
-                        <img src="../public/assets/website/images/pricing-page-banner-img.png" alt="" class="img-fluid" />
+                        <img src="../public/assets/website/images/pricing-page-banner-img.webp" alt="" class="img-fluid" />
                     </div>
                     </div>
                 </div>
@@ -42,26 +42,89 @@ body {
           <div class="col-md-12 col-sm-12 col-xs-12 privacy">
              <div class="term-text">
              <h3 style="margin-top: 50px;">Refund Policy</h3>
-<p style="font-weight: bold;">Logo Visioneer refund policy will be void if:</p>
-<p>• You have chosen an all-in-one package.</p>
-<p>• The primary design concept has been approved.</p>
-<p>• You have requested revisions.</p>
-<p>• The cancellation is due to reasons unrelated to the company or its policies.</p>
-<p>• The company has not been contacted for more than 2 weeks after project initiation.</p>
-<p>• The company’s policies, or policy, have been violated.</p>
-<p>• Another company or designer apart from Logo Visioneer has been approached for the same project.</p>
-<p>• The creative brief lacks the required information.</p>
-<p>• A complete design change has been demanded.</p>
-<p>• The claim has crossed the given ‘request for refund’ time frame.</p>
-<p>• The business is closing or changing its name or operations.</p>
-<p>• Reasons such as ‘change of mind,’ ‘disagreement with a partner,’ or other non-service-related reasons will not qualify for a refund under any circumstances.</p>
-<p>• If a client subscribes to a service bundle and is dissatisfied with a specific service, the refund will only apply to that particular service and not the entire bundle.</p>
-<p>• No refund can be claimed or processed once the final files have been delivered upon your request.</p>
-<p>• Refunds and revisions explicitly do not apply to items offered for free.</p>
-<p>• The client will not be entitled to any refunds after 30 days from the date of purchase.</p>
-<p>• Services such as Social Media, SEO, Domain Registration, and Web Hosting are not eligible for refunds under any circumstances.</p>
-<p>• For websites, refunds will not be entertained once the client has approved the design and the website has entered the development phase.</p>
-<p>Note: Logo Visioneer reserves the right to reject any project or cancel the contract when deemed necessary. After the refund, you will not retain rights to use the designs for any purpose; they will become the sole property of Logo Visioneer.</p>
+<p style="font-weight: bold;">A refund request will not be entertained under the following conditions:
+</p>
+<p>• If the primary design concept for a website or logo is approved and the project has entered the development stage, a refund cannot be issued.
+</p>
+
+
+<p>• If revisions have been requested beyond the number included in your package, additional revisions will incur a small fee instead of a refund.
+
+</p>
+
+
+<p>• If the cancellation is due to reasons unrelated to the company or its policies, a refund will not be granted.
+</p>
+<p>• If there has been no communication with the company for more than 2 weeks after project initiation, the refund policy will be void.
+</p>
+<p>• If the company’s policies or terms have been violated, a refund will not be processed.
+</p>
+<p>• If another company or designer has been approached for the same project while working with Design Pioneer Studio, the refund will not be applicable.
+</p>
+<p>• If the creative brief lacks the required details or does not clearly express the vision for the project, the refund will not be granted.
+</p>
+<p>• If a complete design change is requested after the design has been approved via call or email, the refund policy will not apply.
+</p>
+<p>• If the request for a refund is made after the allowed time frame, it will not be processed.
+</p>
+<p>• If the business is closing or changing its name, services, or operations, a refund cannot be requested.
+</p>
+<p>• Refunds will not be granted for reasons such as ‘change of mind,’ ‘disagreement with a partner,’ or any other non-service-related reasons.
+</p>
+<p>• If a client purchases a service bundle and is dissatisfied with one specific service, only that service will be eligible for a refund, not the entire bundle.
+</p>
+<p>• Once the final design files have been delivered at the client’s request, a refund will no longer be possible.
+</p>
+<p>• Items provided for free within a package do not qualify for a refund or revision.
+</p>
+<p>• If a client approves any design, whether it be a logo, website, or any other service, they will no longer be eligible for a refund.
+</p>
+<p>• Services including Social Media, SEO, Domain Registration, and Web Hosting are non-refundable under any circumstances.
+</p>
+
+<p>• For websites, once the design has been approved and the project has moved to the development phase, refunds will not be granted for logos, marketing campaigns, animations, SEO, or other related services.
+</p>
+<p><strong>Note:<strong> Design Pioneer Studio reserves the right to reject any project or cancel the contract at its discretion. If a refund is processed, the client will lose all rights to the designs, and they will become the exclusive property of Design Pioneer Studio.</p>
+
+
+
+<h3>Delivery Policy</h3>
+<p>All design files will be delivered to your “My Account” area as per the date specified in the “Order Confirmation.” Clients will also receive an email notification regarding file delivery. The revision and refund policies will be based on the delivery date and time.
+</p>
+<p>Customized design orders will be delivered as per the timeline suggested by the project manager.
+</p>
+<p>A RUSH DELIVERY option is available for an additional [Confirm the correct currency and amount], allowing clients to receive their initial designs within 24 hours. For further assistance, please contact our customer support team.
+
+</p>
+
+<h3>Record Maintenance</h3>
+<p>Your finalized design files will be archived for 60 days from the date of delivery. If you require the files within this timeframe, they will be provided free of charge.
+</p>
+
+<p>After 60 days, a fee will be applicable for retrieving your files and designs.
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h3>How To Claim Your Refund</h3>
 <p>To ensure your refund request is processed effectively and approved, please follow these steps:</p>
@@ -91,13 +154,9 @@ body {
 <h3>Ownership Rights & Copyright</h3>
 <p>If you do not own the logo or lack copyright certification, please request your designer or the company that created the logo to transfer ownership and certification to you.</p>
 
-<h3>Delivery Policy</h3>
-<p>All design files are delivered to your “My Account” area as per the date specified in the “Order Confirmation.” Clients will also receive an email notification regarding file delivery. Revision and refund policies are governed by the delivery date and time.</p>
-<p>Customized design orders are typically delivered within 5 to 7 days after the order is received.</p>
-<p>We also offer a RUSH DELIVERY option for an additional SITE_CURRENCY_SYMBOLS100 to receive your initial designs within 24 hours. For further assistance, please contact our customer support team.</p>
 
-<h3>Record Maintenance</h3>
-<p>Your finalized design files are archived after delivery. If you require the files again, they can be emailed upon request.</p>
+
+
 
 <h3>Customer Support</h3>
 <p>Logo Visioneer provides 24-hour customer support to address your questions and concerns. Contact us anytime for prompt assistance.</p>
@@ -112,34 +171,7 @@ body {
 <p>All designs created by Logo Visioneer are original and crafted from scratch. We ensure that our logos align with your design brief and requirements.</p>
 
 </section>
-<section class="contact-us-sec">
-    <div class="container">
-    <div class="row">
-        <div class="col-lg-6 col-md-12">
-            <div class="contact-left-box" data-aos="fade-right" data-aos-duration="2000">
-                <h3>contact us</h3>
-                <h4>Let's write your <br /> story, together.</h4>
-            </div>
-        </div>
-        <div class="col-lg-6 col-md-12">
-            <div class="contact-right-box" data-aos="fade-left" data-aos-duration="2000">
-                <p>We do not tell you our story. We write it together. Partnering with us means a seat at the table where you will be heard.</p>
-                <div class="contact-bottom-info-box">
-                <a href="contact-us.php" class="btn btn-ctn">contact us</a>
-                <a href="<?php echo $phone_link ?>" class="btn-tel">
-                    <img class="lazy img-fluid" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/img/second-comtact-img-1.png" alt="">
-                    <div class="second-con-box">
-                        <h5>call us at</h5>
-                        <p><?php echo $phone ?></p>
-                    </div>
-                </a>
-                </div>
-            </div>
-        </div>
-    </div>
-    </div>
-</section>
-     
+<?php include 'assets/layout/cta.php' ?>
  
 <?php include 'assets/layout/footer.php' ?>
  

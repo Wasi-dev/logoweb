@@ -1,8 +1,9 @@
 <section class="process-sec">
     <div class="container-fluid p-0 m-0">
        <div class="process-head-box" data-aos="fade-down" data-aos-duration="2000">
-          <h2>our work process</h2>
-          <p>Ready to enhance your brand's presence? We specialize in logo design, branding,      <br /> digital marketing, and development services to help your business grow.
+          <h2>Your Brand’s Blueprint</h2>
+          <p>The blueprint from our logo design firm will guide every decision,</br> ensuring your brand is consistent and impactful across all touchpoints.
+
         </p>
        </div>
        <div class="prcess-main-box" data-aos="zoom-in" data-aos-duration="2000">
@@ -10,20 +11,21 @@
              <div class="col-md-3 col-sm-6 p-0">
                 <div class="content">
                    <div class="content-overlay"></div>
-                   <img class="content-image lazy" src="assests/img/" data-src="public/assets/website/images/process-img-1.jpg">
+                   <img class="content-image lazy" src="assests/img/" data-src="public/assets/website/images/process-img-1.webp">
                    <div class="content-details fadeIn-top">
                       <div class="hover-num-box">
                          <h3>01</h3>
                          <h4>Design Brief</h4>
                       </div>
-                      <p>The process starts with the description of the idea that you have in your mind for the logo that you think is going to represent your brand. This is where we start constructing the logo.                      </p>
+                      <p>The process begins with describing the idea you have in mind for the logo, which you believe will best represent your brand. This is the foundation for constructing the logo.
+                     </p>
                    </div>
                 </div>
              </div>
              <div class="col-md-3 col-sm-6 p-0">
                 <div class="content">
                    <div class="content-overlay"></div>
-                   <img class="content-image lazy" src="public/assets/website/images/process-img-2.jpg" data-src="public/assets/website/images/process-img-2.jpg">
+                   <img class="content-image lazy" src="public/assets/website/images/process-img-2.webp" data-src="public/assets/website/images/process-img-2.webp">
                    <div class="content-details fadeIn-top">
                       <div class="hover-num-box">
                          <h3>02</h3>
@@ -37,7 +39,7 @@
              <div class="col-md-3 col-sm-6 p-0">
                 <div class="content">
                    <div class="content-overlay"></div>
-                   <img class="content-image lazy" src="assests/img/" data-src="public/assets/website/images/pr-3.jpg">
+                   <img class="content-image lazy" src="assests/img/" data-src="public/assets/website/images/pr-3.webp">
                    <div class="content-details fadeIn-top">
                       <div class="hover-num-box">
                          <h3>03</h3>
@@ -51,7 +53,7 @@
              <div class="col-md-3 col-sm-6 p-0">
                 <div class="content">
                    <div class="content-overlay"></div>
-                   <img class="content-image lazy" src="assests/img/" data-src="public/assets/website/images/pr-4.jpg">
+                   <img class="content-image lazy" src="assests/img/" data-src="public/assets/website/images/pr-4.webp">
                    <div class="content-details fadeIn-top">
                       <div class="hover-num-box">
                          <h3>04</h3>

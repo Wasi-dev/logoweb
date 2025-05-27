@@ -1,8 +1,10 @@
 <section class="pricing-main-sec">
     <div class="container">
         <div class="price-head-box" data-aos="fade-down" data-aos-duration="2000">
-            <h2>Most Affordable Packages</h2>
-            <p>With a decade of experience, we are familiar with the competitive nature of the market. <br />Our goal is to offer reasonable pricing without sacrificing quality.</p>
+            <h2>Low Pricing But Top Quality</br> Branding & Design Services
+            </h2>
+            <p>Don’t break the bank to build a killer brand! Logo Visioneer, a professional logo design firm in USA, offers creative branding and design services at surprisingly affordable prices. Get the quality you deserve without the hefty price tag.
+            </p>
         </div>
         <div class="pricing-tabs-box">
             <nav class="nav nav-pills" role="tablist">
@@ -33,31 +35,29 @@
                                         </div>
                                         <div class="packtitles">
                                             <div class="fleft">
-                                                <h4>Basic
-                                                    Logo</h4>
-                                                <p>Logo Design<br>
-                                                    (Logotype/Word mark Logo Design)</p>
+                                                <h4>Basic Logo
+                                                    package</h4>
+                                                <p>Suitable for branding and revamping of all small, medium & large enterprises.</p>
                                             </div>
                                             <div class="fright">
-                                                <h5>75% OFF<span class="cutprice">$100</span></h5>
+                                                <h5>75% OFF<span class="cutprice">$140</span></h5>
                                             </div>
                                         </div>
                                         <div class="package-content">
                                             <div class="slim-scroll">
                                                 <div data-package-scroll>
                                                     <ul>
-                                                        <li>3 Logo design ideas </li>
-                                                        <li>by 1 Design Artist </li>
-                                                        <li>Free Color Options </li>
-                                                        <li>2 to 3 Business Days Rotation</li>
-                                                        <li>100% Ownership </li>
-                                                        <li>File Formats (PNG, JPG ,PDF)</li>
-                                                        <li>Get Initial Concepts within 24 hours
+                                                        <li>2 Custom Logo Design Concepts</li>
+                                                        <li>1 Dedicated Designer</li>
+                                                        <li>4 REVISIONS </li>
+                                                        <li>File Format (JPEG)</li>
+                                                        <li>24 to 48 hours TAT</li>
+                                                        <li>100% Unique Design Guarantee</li>
+                                                        <li>100% Satisfaction Guarantee
                                                         </li>
-                                                        <li>100% Unique Design Guarantee
+                                                        <li>100% Ownership Rights
                                                         </li>
-                                                        <li>100% Satisfaction Guarantee </li>
-                                                        <li>100% Money Back Guarantee </li>
+
                                                     </ul>
                                                 </div>
                                             </div>
@@ -78,35 +78,33 @@
                                 <div class="item" data-package-box>
                                     <div class="package-main-box">
                                         <div class="package-pr">
-                                            <h3>$75</h3>
+                                            <h3>$70</h3>
                                         </div>
                                         <div class="packtitles">
                                             <div class="fleft">
-                                                <h4>Startup Logo</h4>
-                                                <p>Logo Design<br>
-                                                    (Abstract/Iconic Logo Design)</p>
+                                                <h4>Startup Logo
+                                                    package</h4>
+                                                <p>Suitable for branding and revamping of all small, medium & large enterprises.</p>
                                             </div>
                                             <div class="fright">
-                                                <h5>75% OFF<span class="cutprice">$300</span></h5>
+                                                <h5>75% OFF<span class="cutprice">$280</span></h5>
                                             </div>
                                         </div>
                                         <div class="package-content">
                                             <div class="slim-scroll">
                                                 <div data-package-scroll>
                                                     <ul>
-                                                        <li>6 Logo Design Ideas </li>
-                                                        <li>By 2 Designers </li>
-                                                        <li>5 Revisions</li>
-
-                                                        <li>Free Color Options </li>
-                                                        <li>2 to 3 Business Days Rotation </li>
-                                                        <li>File Formats ( PNG, JPG, PDF) </li>
-                                                        <li>Get Initial Concepts within 24 hours
-                                                        </li>
-                                                        <li>100% Unique Design Guarantee
-                                                        </li>
-                                                        <li>100% Satisfaction Guarantee </li>
-                                                        <li>100% Money Back Guarantee </li>
+                                                        <li>4 Logo Design Concepts</li>
+                                                        <li>Upto 8 Revisions</li>
+                                                        <li>2 Dedicated Designers</li>
+                                                        <li>Stationery Design (Business Card)</li>
+                                                        <li>Color Options</li>
+                                                        <li>Grayscale Format</li>
+                                                        <li>Free Icon </li>
+                                                        <li>24 to 48 hours TAT</li>
+                                                        <li>All File Formats (PNG, JPEG, PDF)</li>
+                                                        <li>100% Unique Design Guarantee </li>
+                                                        <li>100% Ownership Rights</li>
                                                     </ul>
                                                 </div>
                                             </div>
@@ -131,34 +129,30 @@
                                         </div>
                                         <div class="packtitles">
                                             <div class="fleft">
-                                                <h4>Professional</h4>
-                                                <p>Logo Design<br>
-                                                    (Brand mark/Symbol/Emblem Logo Design)</p>
+                                                <h4>Professional Logo
+                                                    package</h4>
+                                                <p>
+                                                    Suitable for branding and revamping of all small, medium large enterprises.</p>
                                             </div>
                                             <div class="fright">
-                                                <h5>75% OFF<span class="cutprice">$580</span></h5>
+                                                <h5>75% OFF<span class="cutprice">$500</span></h5>
                                             </div>
                                         </div>
                                         <div class="package-content">
                                             <div class="slim-scroll">
                                                 <div data-package-scroll>
-                                                    <ul>
-                                                        <li>9 Unique Logo Concepts </li>
-                                                        <li>By 4 Designers </li>
-                                                        <li>Unlimited Revisions </li>
-
-                                                        <li>Free Color Options </li>
-                                                        <li>Free Icon Design </li>
-                                                        <li>Stationery Design (Business Card, Letterhead, Envelope) </li>
-                                                        <li>2 to 3 Business Days Rotation
-                                                        </li>
-                                                        <li>All Final Files ( PNG,JPG, PDF) </li>
-                                                        <li>Get Initial Concepts within 24 hours
-                                                        </li>
-                                                        <li>100% Unique Design Guarantee
-                                                        </li>
-                                                        <li>100% Satisfaction Guarantee </li>
-                                                        <li>100% Money Back Guarantee </li>
+                                                    <ul class="list">
+                                                        <li>6 Logo Design Concepts</li>
+                                                        <li>Unlimited Revisions</li>
+                                                        <li>3 Award Winning Designers</li>
+                                                        <li>Complete Stationery Design (Business Card, Letterhead, Envelope Design)</li>
+                                                        <li>Color Options</li>
+                                                        <li>Grayscale Format</li>
+                                                        <li>24 to 48 hours TAT</li>
+                                                        <li>15% off on Website Order</li>
+                                                        <li>All File Formats (Ai, PSD, EPS, PNG, JPG, PDF, PES)</li>
+                                                        <li>100% Ownership Rights</li>
+                                                        <li>100% Unique Design Guarantee</li>
                                                     </ul>
                                                 </div>
                                             </div>
@@ -179,50 +173,96 @@
                                 <div class="item" data-package-box>
                                     <div class="package-main-box">
                                         <div class="package-pr">
-                                            <h3>$199</h3>
+                                            <h3>$150</h3>
                                         </div>
                                         <div class="packtitles">
                                             <div class="fleft">
-                                                <h4>Business
-                                                    Logo (Best Seller)</h4>
-                                                <p>Logo Design<br>
-                                                    (Logotype/Word mark Logo Design)</p>
+                                                <h4>Professional Pro Logo
+                                                    package</h4>
+                                                <p>Suitable for branding
+
+                                                    <br>
+                                                    and revamping of all small, medium & large enterprises.
+                                                </p>
                                             </div>
                                             <div class="fright">
-                                                <h5>75% OFF<span class="cutprice">$1184</span></h5>
+                                                <h5>75% OFF<span class="cutprice">$600</span></h5>
                                             </div>
                                         </div>
                                         <div class="package-content">
                                             <div class="slim-scroll">
                                                 <div data-package-scroll>
                                                     <ul>
-
-                                                        <li> Unlimited Logo Design Idea(s) </li>
-                                                        <li> By 6 Designer(s) </li>
-                                                        <li> Free Icon Design </li>
-                                                        <li> Unlimited Revisions </li>
-                                                        <li> 24 Hours TAT </li>
-                                                        <li> Stationery Design (Business Card, Letterhead, Envelope) </li>
-                                                        <li> Free Electronic Letterhead </li>
-                                                        <li> Free Invoice Design </li>
-                                                        <li> 2 Sided Flyer (OR) Bi-Fold Brochure Design </li>
-                                                        <li>
-                                                            File Formats
-
-                                                            (.PNG, .JPG, .PDF)
-                                                        </li>
-                                                        <li> Get Initial Concepts within 24 hours </li>
-                                                        <li> 100% Unique Design Guarantee </li>
-                                                        <li> 100% Satisfaction Guarantee </li>
-                                                        <li> 100% Money Back Guarantee </li>
+                                                        <li>8 Logo Design Concepts</li>
+                                                        <li>Unlimited Revisions</li>
+                                                        <li>3 Award Winning Designers</li>
+                                                        <li>Complete Stationery Design (Business Card, Letterhead, Envelope Design)</li>
+                                                        <li>Icon Design</li>
+                                                        <li>Social Media Designs (Any 2; Facebook, YouTube, Instagram, LinkedIn, Etc.)</li>
+                                                        <li>Color Options</li>
+                                                        <li>Grayscale Format</li>
+                                                        <li>24 to 48 hours TAT</li>
+                                                        <li>15% off on Website Order</li>
+                                                        <li>All File Formats (Ai, PSD, EPS, PNG, JPG, PDF, PES)</li>
+                                                        <li>100% Ownership Rights</li>
+                                                        <li>100% Unique Design Guarantee</li>
                                                     </ul>
                                                 </div>
                                             </div>
                                         </div>
 
                                         <div class="bottom-contact" style="margin-top: 30px">
-                                            <a data-target="#req_qoute" data-sku="Business
-                                                Logo (Best Seller) ~ $199 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                                            <a data-target="#req_qoute" data-sku="Professional Pro Logo
+                                             package ~ $150 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                                            <a class="btn chat" href="javascript:toggleTawkChat();">
+                                                <span class="cht_clr"><small>Click here to
+                                                        <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
+                                                    </small> Live Chat</span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="item" data-package-box>
+                                    <div class="package-main-box">
+                                        <div class="package-pr">
+                                            <h3>$199</h3>
+                                        </div>
+                                        <div class="packtitles">
+                                            <div class="fleft">
+                                                <h4>Business Professional Logo
+                                                </h4>
+                                                <p>Suitable for branding and revamping of all small, medium & large enterprises.</p>
+                                            </div>
+                                            <div class="fright">
+                                                <h5>75% OFF<span class="cutprice">$796</span></h5>
+                                            </div>
+                                        </div>
+                                        <div class="package-content">
+                                            <div class="slim-scroll">
+                                                <div data-package-scroll>
+                                                    <ul class="list">
+                                                        <li>Unlimited Logo Design Concepts</li>
+                                                        <li>Unlimited Revisions</li>
+                                                        <li>5 Dedicated Award Winning Designers</li>
+                                                        <li>Complete Stationery Design (Business Card, Letterhead, Folder, Envelopes)</li>
+                                                        <li>2 Page Corporate Brochure</li>
+                                                        <li>Complete Social Media Designs (Facebook, Linkedin, Instagram, Youtube)</li>
+                                                        <li>Grayscale Format</li>
+                                                        <li>Icon Design</li>
+                                                        <li>24 to 48 Hours TAT</li>
+                                                        <li>20% off on Website Order</li>
+                                                        <li>All File Formats (Ai, PSD, EPS, PNG, JPG, PDF, PES)</li>
+                                                        <li>100% Ownership Rights</li>
+                                                        <li>100% Unique Design Guarantee</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="bottom-contact" style="margin-top: 30px">
+                                            <a data-target="#req_qoute" data-sku="Business Professional Logo ~ $199 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
                                             <a class="btn chat" href="javascript:toggleTawkChat();">
                                                 <span class="cht_clr"><small>Click here to
                                                         <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
@@ -240,92 +280,33 @@
                                         </div>
                                         <div class="packtitles">
                                             <div class="fleft">
-                                                <h4>Premium Illustrative
+                                                <h4>Business Professional Pro Logo
                                                 </h4>
-                                                <p>Logo Design<br>
-                                                    (Abstract/Iconic Logo Design)</p>
+                                                <p>Suitable for branding and revamping of all small, medium & large enterprises.</p>
                                             </div>
                                             <div class="fright">
-                                                <h5>75% OFF<span class="cutprice">$3200</span></h5>
+                                                <h5>75% OFF<span class="cutprice">$1196</span></h5>
                                             </div>
                                         </div>
                                         <div class="package-content">
                                             <div class="slim-scroll">
                                                 <div data-package-scroll>
-                                                    <ul>
-                                                        <li> 3 Hand-drawn Custom Illustrative Design Ideas </li>
-                                                        <li> By 4 Creative Artists </li>
-                                                        <li> 24 Hours TAT </li>
-                                                        <li> Unlimited Revisions </li>
-                                                        <li> Stationery Design (Business Card, Letterhead, Envelope) </li>
-                                                        <li>
-                                                            File Formats
-
-                                                            (.AI, .PSD, .EPS, .PNG, .JPG, .PDF, .TIFF)
-                                                        </li>
-                                                        <li>Get Initial Concepts within 24 hours</li>
-                                                        <li> 100% Unique Design Guarantee </li>
-                                                        <li> 100% Satisfaction Guarantee </li>
-                                                        <li> 100% Money Back Guarantee </li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="bottom-contact" style="margin-top: 30px">
-                                            <a data-target="#req_qoute" data-sku="Premium Illustrative ~ $299 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
-                                            <a class="btn chat" href="javascript:toggleTawkChat();">
-                                                <span class="cht_clr"><small>Click here to
-                                                        <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
-                                                    </small> Live Chat</span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="item" data-package-box>
-                                    <div class="package-main-box">
-                                        <div class="package-pr">
-                                            <h3>$499</h3>
-                                        </div>
-                                        <div class="packtitles">
-                                            <div class="fleft">
-                                                <h4>Enterprise
-                                                </h4>
-                                                <p>Logo Design<br>
-                                                    (Brand mark/Symbol/Emblem Logo Design)</p>
-                                            </div>
-                                            <div class="fright">
-                                                <h5>75% OFF<span class="cutprice">$1399</span></h5>
-                                            </div>
-                                        </div>
-                                        <div class="package-content">
-                                            <div class="slim-scroll">
-                                                <div data-package-scroll>
-                                                    <ul>
-                                                        <li> Unlimited Logo Design Idea(s) </li>
-                                                        <li> By 7 Award-Winning Designer(s) </li>
-                                                        <li> Free Icon Design </li>
-                                                        <li> Unlimited Revisions </li>
-                                                        <li> 24 Hours TAT </li>
-                                                        <li> Stationery Design (Business Card, Letterhead, Envelope) </li>
-                                                        <li> Free Electronic Letterhead </li>
-                                                        <li> Free Invoice Design </li>
-                                                        <li> 2 Sided Flyer (OR) Bi-Fold Brochure Design </li>
-                                                        <li> 4 Pages Website </li>
-                                                        <li> Social Media Size Images </li>
-                                                        <li> Social Media Pages Design (i.e. Facebook, Twitter, LinkedIn, Pinterest, Instagaram, Google+) (Any 3) </li>
-                                                        <li> T-Shirt Design, Signage Design, Packaging Design (Any 2) </li>
-                                                        <li>
-                                                            File Formats
-
-                                                            (.AI, .EPS, .PNG, .JPG, .PDF)
-                                                        </li>
-                                                        <li>Get Initial Concepts within 24 hours</li>
-                                                        <li> 100% Unique Design Guarantee </li>
-                                                        <li> 100% Satisfaction Guarantee </li>
-                                                        <li> 100% Money Back Guarantee </li>
+                                                    <ul class="list">
+                                                        <li>Unlimited Logo Design Concepts</li>
+                                                        <li>Unlimited Revisions</li>
+                                                        <li>6 Dedicated Award Winning Designers</li>
+                                                        <li>Complete Stationery Design (Business Card, Letterhead, Folder, Envelopes)</li>
+                                                        <li>4 Page Corporate Brochure</li>
+                                                        <li>Business Web Landing Page Design</li>
+                                                        <li>Complete Social Media Designs (Facebook, LinkedIn, Instagram, YouTube, Pinterest, Reddit, Etc.)</li>
+                                                        <li>Free Color Options</li>
+                                                        <li>Free Grayscale Format</li>
+                                                        <li>20% off on Website Order</li>
+                                                        <li>24 Hours TAT</li>
+                                                        <li>All File Formats (Ai, PSD, EPS, PNG, JPG, PDF, PES)</li>
+                                                        <li>100% Ownership Rights</li>
+                                                        <li>100% Unique Design Guarantee</li>
+                                                        <li>100% Money Back Guarantee</li>
                                                     </ul>
                                                 </div>
                                             </div>

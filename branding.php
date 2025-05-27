@@ -5,40 +5,17 @@
          <div class="row">
             <div class="col-lg-6 col-md-12">
                <div class="anim-banner-txt" data-aos="fade-right" data-aos-duration="2000">
-                  <h1>GARNER THE ATTENTION AND CUSTOMERS</h1>
-                  <h2>That You Want With Our Branding Solutions</h2>
-                  <p>We are providing premium branding services that are well designed and fulfill the creative
-                     marketing objectives of our customers, which is the primary way of engaging potential clients.</p>
-                  <div class="form-banner" data-form-type="signup_form">
-                     <form class="" method="POST" enctype="multipart/form-data" action="mail.php"
-                        novalidate="novalidate">
-                        <input type="hidden" class="pkg_nme" name="package">
-                        <input type="hidden" name="link" value="<?php echo $link ?>">
-                        <div class="row">
-                           <div class="col-md-12">
-                              <ul>
-                                 <li><input name="name" minlength="2" type="text" placeholder="Name" required /></li>
-                                 <li><input name="phone" id="phone-coun" required="" type="text" minlength="10"
-                                       maxlength="10" autocomplete="off"
-                                       onkeypress="return ((event.charCode >= 48 &amp;&amp; event.charCode <= 57) )"
-                                       placeholder="Phone Number"></li>
-                                 <li><input type="email" name="email" placeholder="Email Address" required></li>
-                              </ul>
-                           </div>
-                           <div class="col-md-12">
-                              <div id="formResult" class="slideformResult"></div>
-                              <input class="pkg_btn submit" data-sku="Offering Engaging Form " name="submit"
-                                 type="submit" value="Submit Now" required />
-                              <a href="javascript:toggleTawkChat();" class="btn btn-live chatt"><i
-                                    class='fas fa-comment'></i>Live Chat</a>
-                           </div>
-                        </div>
-                     </form>
-                  </div>
+                  <h1>Looking for A Branding Company in USA That Reshapes Your</h1>
+                  <h2>Brands to Achieve Maximum Impact.
+                  </h2>
+                  <p>Looking for a creative branding company in the USA That Reshapes Your Brands to Achieve Maximum Impact? Logo Visioneer can help! They're the real deal when it comes to making your brand stand out.
+                  </p>
+                  <a href="javascript:void(0);" class="btn btn-request" data-toggle="modal" data-target="#req_qoute">Request a Quote</a>
+
                </div>
             </div>
             <div class="branding-img-box">
-               <img src="public/assets/website/images/branding-banner-img.png" alt="" class="img-fluid" />
+               <img src="public/assets/website/images/branding-banner-img.webp" alt="" class="img-fluid" />
             </div>
          </div>
       </div>
@@ -66,16 +43,10 @@
       <div class="row justify-content-center">
          <div class="col-md-7">
             <div class="services-head-box" data-aos="fade-down" data-aos-duration="2000">
-               <h2>Let's Unlock Achievements Together </h2>
-               <p>When we are talking about branding or brand image, it's not just about a cool logo or an attractive
-                  banner. It's about the whole procedure of how a brand will make its space in the client's heart and
-                  mind. There should be more than just a logo that stirs up the whole scenario and acts as icing on the
-                  cake. It comprises a wide range of features and characteristics that the client associates with the
-                  product at the time of making a purchase. Now, how attractive and unique these characteristics and
-                  traits are is what decides your brand equity. We at Logo Visioneer will research, build, manage, consider,
-                  reconsider, strengthen, and refine your branding tactics and ideas. We create each brand strategy as
-                  if it's our own and ensure it helps you achieve the attention and customers that you desire for your
-                  brand. </p>
+               <h2>Why Your Business Needs Branding Agency?
+               </h2>
+               <p>Branding builds trust and recognition, key to success in the competitive US market. Studies show 60% of consumers are more likely to buy from brands they trust. Strong branding increases brand recall by 80%. Invest in professional branding solutions to boost your bottom line.
+               </p>
                <a href="javascript:void(0);" data-sku="lets get started" class="pkg_btn chatt btn btn-submit" data-toggle="modal"
                   data-target="#req_qoute">lets get started</a>
             </div>
@@ -88,18 +59,17 @@
             <div class="owl-carousel owl-theme">
                <div class="item">
                   <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
-                     <img src="public/assets/website/images/branding-content-serv-img-1.png" alt="" class="img-fluid" />
-                     <h3>Logo Designs</h3>
-                     <p>Logo designs are among the most underrated things for newbies, and they don't think of them as
-                        important. However, for our experienced brand managers, we know the significance a logo holds.
-                        With hundreds of satisfied customers and more than a decade of experience we craft a perfect
-                        logo for your business in a reasonable time. </p>
+                     <img src="public/assets/website/images/logo-icon.webp" alt="" class="icon-img img-fluid" />
+                     <h2>Logo Design
+                     </h2>
+                     <p>Looking for a logo that's both memorable and versatile? Logo Visioneer designs logos that are adaptable across all platforms, ensuring consistent branding across your business, no matter where your business is in the USA.
+                     </p>
                   </div>
                </div>
                <div class="item">
                   <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
-                     <img src="public/assets/website/images/branding-content-serv-img-2.png" alt="" class="img-fluid" />
-                     <h3>Infographic Designs</h3>
+                     <img src="public/assets/website/images/infographic.webp" alt="" class="icon-img img-fluid" />
+                     <h2>Infographic Designs</h2>
                      <p>Conveying your message sometimes becomes a challenging task, especially when it's lengthy. An
                         easy way to describe complicated things is to pile up every vital factor and cover it into a
                         page. An infographic is the most helpful thing in this situation. Our skilled designers work
@@ -109,8 +79,8 @@
                </div>
                <div class="item">
                   <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
-                     <img src="public/assets/website/images/branding-content-serv-img-3.png" alt="" class="img-fluid" />
-                     <h3>Brochure Designs</h3>
+                     <img src="public/assets/website/images/brochure.webp" alt="" class="icon-img img-fluid" />
+                     <h2>Brochure Designs</h2>
                      <p>Brochures are precursors of important information of a product or brand and eventually hold
                         pivotal importance in the branding of any product. They have the potential of building or
                         breaking a brand. So, our designers with a long experience in branding know which brochure
@@ -119,35 +89,15 @@
                </div>
                <div class="item">
                   <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
-                     <img src="public/assets/website/images/branding-content-serv-img-4.png" alt="" class="img-fluid" />
-                     <h3>Stationery Design</h3>
+                     <img src="public/assets/website/images/stationary.webp" alt="" class="icon-img img-fluid" />
+                     <h2>Stationery Design</h2>
                      <p>Our stationery design package constitutes a detailed stationery set design, including office
                         supplies, writing equipment, paper, letterheads, cases, business, and other similar things. The
                         primary purpose of the stationery package is to make the whole collection of items according to
                         brand image. </p>
                   </div>
                </div>
-               <div class="item">
-                  <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
-                     <img src="public/assets/website/images/branding-content-serv-img-3.png" alt="" class="img-fluid" />
-                     <h3>Online Promotional Design</h3>
-                     <p>When we say we own our clients and their work, we really mean it. We make sure we promote your
-                        business in the most noticeable way. With our online reputation management services, we make
-                        sure of the fact that whether it is your branding or social media posts that we are designing
-                        for, your brand soul is reflected in it with amazing designs.</p>
-                  </div>
-               </div>
-               <div class="item">
-                  <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
-                     <img src="public/assets/website/images/branding-content-serv-img-4.png" alt="" class="img-fluid" />
-                     <h3>Trade Show Design</h3>
-                     <p>Our custom designs are always crafted keeping in mind the ambition of making them memorable and
-                        impactful. The same scheme is applied when it comes to trade designs as well, as we craft
-                        impressions that last a lifetime through designs that are inspiring and appealing, our designs
-                        bring engagement and customers to your products from your desired audience wherever you are in
-                        the world.</p>
-                  </div>
-               </div>
+
             </div>
          </div>
       </div>
@@ -162,208 +112,295 @@
             most reasonable price plans. We ensure quality over quantity. </p>
       </div>
       <div class="package-slider-box">
-                        <div class="owl-carousel owl-theme">
-                            <div class="item">
-                                <div class="item" data-package-box>
-                                    <div class="package-main-box">
-                                        <div class="package-pr">
-                                            <h3>$45</h3>
-                                        </div>
-                                        <div class="packtitles">
-                                            <div class="fleft">
-                                                <h4>Basic
-                                                </h4>
-                                                <p>Stationery Design
-                                                </p>
-                                            </div>
-                                            <div class="fright">
-                                                <h5>75% OFF<span class="cutprice">$180</span></h5>
-                                            </div>
-                                        </div>
-                                        <div class="package-content">
-                                            <div class="slim-scroll">
-                                                <div data-package-scroll>
-                                                    <ul>
-                                                        <li> Basic Stationery Package </li>
-                                                        <li> Business Card </li>
-                                                        <li> Letterhead Design </li>
-                                                        <li> Envelope Design </li>
-                                                        <li> 100% Satisfaction Guarantee </li>
-                                                        <li> 100% Money Back Guarantee </li>
-                                                        <li> 100% Unique Design Guarantee </li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="bottom-contact" style="margin-top: 30px">
-                                            <a data-target="#req_qoute" data-sku="Basic ~ $45 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
-                                            <a class="btn chat" href="javascript:toggleTawkChat();">
-                                                <span class="cht_clr"><small>Click here to
-                                                        <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
-                                                    </small> Live Chat</span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="item" data-package-box>
-                                    <div class="package-main-box">
-                                        <div class="package-pr">
-                                            <h3>$79</h3>
-                                        </div>
-                                        <div class="packtitles">
-                                            <div class="fleft">
-                                                <h4>Economy
-                                                </h4>
-                                                <p>Stationery Design
-                                                </p>
-                                            </div>
-                                            <div class="fright">
-                                                <h5>75% OFF<span class="cutprice">$316</span></h5>
-                                            </div>
-                                        </div>
-                                        <div class="package-content">
-                                            <div class="slim-scroll">
-                                                <div data-package-scroll>
-                                                    <ul>
-                                                        <li> Ultimate Stationery Package </li>
-                                                        <li> 2 Business Cards </li>
-                                                        <li> Letterhead Design </li>
-                                                        <li> Envelope Design </li>
-                                                        <li> Fax Template </li>
-                                                        <li> MS Word Letterhead </li>
-                                                        <li> 4 Page Brochure Design </li>
-                                                        <li> 100% Satisfaction Guarantee </li>
-                                                        <li> 100% Money Back Guarantee </li>
-                                                        <li> 100% Unique Design Guarantee </li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="bottom-contact" style="margin-top: 30px">
-                                            <a data-target="#req_qoute" data-sku="Economy ~ $79 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
-                                            <a class="btn chat" href="javascript:toggleTawkChat();">
-                                                <span class="cht_clr"><small>Click here to
-                                                        <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
-                                                    </small> Live Chat</span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="item" data-package-box>
-                                    <div class="package-main-box">
-                                        <div class="package-pr">
-                                            <h3>$129</h3>
-                                        </div>
-                                        <div class="packtitles">
-                                            <div class="fleft">
-                                                <h4>Startup</h4>
-                                                <p>Stationery Design
-                                                </p>
-                                            </div>
-                                            <div class="fright">
-                                                <h5>75% OFF<span class="cutprice">$516</span></h5>
-                                            </div>
-                                        </div>
-                                        <div class="package-content">
-                                            <div class="slim-scroll">
-                                                <div data-package-scroll>
-                                                    <ul>
-                                                        <li> Corporate Stationery Package </li>
-                                                        <li> Business Card </li>
-                                                        <li> Letterhead Design </li>
-                                                        <li> Envelope Design </li>
-                                                        <li> Fax Template </li>
-                                                        <li> MS Word Letterhead </li>
-                                                        <li> 100% Satisfaction Guarantee </li>
-                                                        <li> 100% Money Back Guarantee </li>
-                                                        <li> 100% Unique Design Guarantee </li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="bottom-contact" style="margin-top: 30px">
-                                            <a data-target="#req_qoute" data-sku="Startup ~ $129 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
-                                            <a class="btn chat" href="javascript:toggleTawkChat();">
-                                                <span class="cht_clr"><small>Click here to
-                                                        <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
-                                                    </small> Live Chat</span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+         <div class="owl-carousel owl-theme">
+            <div class="item">
+               <div class="item" data-package-box>
+                  <div class="package-main-box">
+                     <div class="package-pr">
+                        <h3>$45</h3>
+                     </div>
+                     <div class="packtitles">
+                        <div class="fleft">
+                           <h4>Basic
+                           </h4>
+                           <p>Stationery Design
+                           </p>
                         </div>
-                    </div>
+                        <div class="fright">
+                           <h5>75% OFF<span class="cutprice">$180</span></h5>
+                        </div>
+                     </div>
+                     <div class="package-content">
+                        <div class="slim-scroll">
+                           <div data-package-scroll>
+                              <ul>
+                                 <li> Basic Stationery Package </li>
+                                 <li> Business Card </li>
+                                 <li> Letterhead Design </li>
+                                 <li> Envelope Design </li>
+                                 <li> 100% Satisfaction Guarantee </li>
+                                 <li> 100% Money Back Guarantee </li>
+                                 <li> 100% Unique Design Guarantee </li>
+                              </ul>
+                           </div>
+                        </div>
+                     </div>
+
+                     <div class="bottom-contact" style="margin-top: 30px">
+                        <a data-target="#req_qoute" data-sku="Basic ~ $45 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                        <a class="btn chat" href="javascript:toggleTawkChat();">
+                           <span class="cht_clr"><small>Click here to
+                                 <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
+                              </small> Live Chat</span>
+                        </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="item">
+               <div class="item" data-package-box>
+                  <div class="package-main-box">
+                     <div class="package-pr">
+                        <h3>$79</h3>
+                     </div>
+                     <div class="packtitles">
+                        <div class="fleft">
+                           <h4>Economy
+                           </h4>
+                           <p>Stationery Design
+                           </p>
+                        </div>
+                        <div class="fright">
+                           <h5>75% OFF<span class="cutprice">$316</span></h5>
+                        </div>
+                     </div>
+                     <div class="package-content">
+                        <div class="slim-scroll">
+                           <div data-package-scroll>
+                              <ul>
+                                 <li> Ultimate Stationery Package </li>
+                                 <li> 2 Business Cards </li>
+                                 <li> Letterhead Design </li>
+                                 <li> Envelope Design </li>
+                                 <li> Fax Template </li>
+                                 <li> MS Word Letterhead </li>
+                                 <li> 4 Page Brochure Design </li>
+                                 <li> 100% Satisfaction Guarantee </li>
+                                 <li> 100% Money Back Guarantee </li>
+                                 <li> 100% Unique Design Guarantee </li>
+                              </ul>
+                           </div>
+                        </div>
+                     </div>
+
+                     <div class="bottom-contact" style="margin-top: 30px">
+                        <a data-target="#req_qoute" data-sku="Economy ~ $79 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                        <a class="btn chat" href="javascript:toggleTawkChat();">
+                           <span class="cht_clr"><small>Click here to
+                                 <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
+                              </small> Live Chat</span>
+                        </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="item">
+               <div class="item" data-package-box>
+                  <div class="package-main-box">
+                     <div class="package-pr">
+                        <h3>$129</h3>
+                     </div>
+                     <div class="packtitles">
+                        <div class="fleft">
+                           <h4>Startup</h4>
+                           <p>Stationery Design
+                           </p>
+                        </div>
+                        <div class="fright">
+                           <h5>75% OFF<span class="cutprice">$516</span></h5>
+                        </div>
+                     </div>
+                     <div class="package-content">
+                        <div class="slim-scroll">
+                           <div data-package-scroll>
+                              <ul>
+                                 <li> Corporate Stationery Package </li>
+                                 <li> Business Card </li>
+                                 <li> Letterhead Design </li>
+                                 <li> Envelope Design </li>
+                                 <li> Fax Template </li>
+                                 <li> MS Word Letterhead </li>
+                                 <li> 100% Satisfaction Guarantee </li>
+                                 <li> 100% Money Back Guarantee </li>
+                                 <li> 100% Unique Design Guarantee </li>
+                              </ul>
+                           </div>
+                        </div>
+                     </div>
+
+                     <div class="bottom-contact" style="margin-top: 30px">
+                        <a data-target="#req_qoute" data-sku="Startup ~ $129 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                        <a class="btn chat" href="javascript:toggleTawkChat();">
+                           <span class="cht_clr"><small>Click here to
+                                 <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
+                              </small> Live Chat</span>
+                        </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
       <a href="pricing.php" class="btn btn-view-pack">view all packages</a>
    </div>
 </section>
-<section class="gallery-sec web-design-gallery-sec">
-   <div class="column_lines">
-      <div class="column"></div>
-      <div class="column"></div>
-      <div class="column"></div>
-      <div class="column"></div>
-      <div class="column"></div>
+<section class="gallery-sec web-design-gallery-sec show-desktop">
+
+   <div class="container">
+      <div class="price-head-box aos-init aos-animate" data-aos="fade-down" data-aos-duration="3000">
+         <h2>4 Steps to Crafting Iconic Brands
+         </h2>
+      </div>
+      <div class="row">
+         <div class="col-lg-8 col-md-12">
+            <div class="how-we-img-box">
+               <img src="public/assets/website/images/how-we-img.webp" alt="" class="img-fluid" />
+            </div>
+         </div>
+         <div class="col-lg-4 col-md-12">
+            <div class="v-anim-process-box logo-process-box">
+               <h3>Unearth Your Story
+               </h3>
+               <p>Dive deep to uncover your brand's essence, values, and what truly makes it unique.
+
+               </p>
+            </div>
+         </div>
+      </div>
+      <div class="row">
+         <div class="col-lg-4 col-md-12">
+            <div class="v-anim-process-box anim-2 logo-process-box">
+               <h3>Design the Vision
+               </h3>
+               <p>Create bold, memorable visuals that resonate with your audience and amplify your identity.
+
+               </p>
+            </div>
+         </div>
+         <div class="col-lg-4 col-md-12">
+            <div class="v-anim-process-box anim-3 logo-process-box">
+               <h3>Bring It to Life
+               </h3>
+               <p>Strategically implement your brand across platforms, leaving a cohesive and lasting impression everywhere.
+
+               </p>
+            </div>
+         </div>
+         <div class="col-lg-4 col-md-12">
+            <div class="v-anim-process-box anim-4 logo-process-box">
+               <h3>Evolve for Impact</h3>
+               <p>Continuously refine, adapt, and innovate to keep your brand fresh, relevant, and unforgettable.
+
+               </p>
+            </div>
+         </div>
+      </div>
    </div>
+
    <div class="container-fluid">
       <div class="process-head-box" data-aos="fade-down" data-aos-duration="2000">
-         <h2>A glimpse of our recent work</h2>
-         <p>With our skilled and experienced team, we have spent years in digital marketing <br /> and designing with
-            our customers to deliver premium quality work. Take a glance at our recent work.</p>
+         <h2>See Our Brand Magic in Action</h2>
+         <p>Ready to see some seriously cool branding by our expert branding company in USA? </br>Check out our portfolio! We've got some amazing projects that show how we bring brands</br> to life. You'll be blown away by our creativity!
+         </p>
       </div>
       <div class="row">
          <div class="col-md-4 col-sm-6 p-0">
             <div class="gallery-img-box">
-               <a data-fancybox="gallery" href="public/assets/website/images/branding-gallery-img-1.jpg">
-                  <img src="public/assets/website/images/branding-gallery-img-1.jpg">
+               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/1.webp">
+                  <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/1.webp">
                </a>
             </div>
          </div>
          <div class="col-md-4 col-sm-6 p-0">
             <div class="gallery-img-box">
-               <a data-fancybox="gallery" href="public/assets/website/images/branding-gallery-img-2.jpg">
-                  <img src="public/assets/website/images/branding-gallery-img-2.jpg">
+               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/2.webp">
+                  <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/2.webp">
                </a>
             </div>
          </div>
          <div class="col-md-4 col-sm-6 p-0">
             <div class="gallery-img-box">
-               <a data-fancybox="gallery" href="public/assets/website/images/branding-gallery-img-3.jpg">
-                  <img src="public/assets/website/images/branding-gallery-img-3.jpg">
+               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/3.webp">
+                  <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/3.webp">
                </a>
             </div>
          </div>
          <div class="col-md-4 col-sm-6 p-0">
             <div class="gallery-img-box">
-               <a data-fancybox="gallery" href="public/assets/website/images/branding-gallery-img-4.jpg">
-                  <img src="public/assets/website/images/branding-gallery-img-4.jpg">
+               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/4.webp">
+                  <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/4.webp">
                </a>
             </div>
          </div>
          <div class="col-md-4 col-sm-6 p-0">
             <div class="gallery-img-box">
-               <a data-fancybox="gallery" href="public/assets/website/images/branding-gallery-img-5.jpg">
-                  <img src="public/assets/website/images/branding-gallery-img-5.jpg">
+               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/5.webp">
+                  <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/5.webp">
                </a>
             </div>
          </div>
          <div class="col-md-4 col-sm-6 p-0">
             <div class="gallery-img-box">
-               <a data-fancybox="gallery" href="public/assets/website/images/branding-gallery-img-6.jpg">
-                  <img src="public/assets/website/images/branding-gallery-img-6.jpg">
+               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/6.webp">
+                  <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/6.webp">
+               </a>
+            </div>
+         </div>
+         <div class="col-md-4 col-sm-6 p-0">
+            <div class="gallery-img-box">
+               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/7.webp">
+                  <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/7.webp">
+               </a>
+            </div>
+         </div>
+         <div class="col-md-4 col-sm-6 p-0">
+            <div class="gallery-img-box">
+               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/8.webp">
+                  <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/8.webp">
+               </a>
+            </div>
+         </div>
+         <div class="col-md-4 col-sm-6 p-0">
+            <div class="gallery-img-box">
+               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/9.webp">
+                  <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/9.webp">
+               </a>
+            </div>
+         </div>
+         <div class="col-md-4 col-sm-6 p-0">
+            <div class="gallery-img-box">
+               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/10.webp">
+                  <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/10.webp">
+               </a>
+            </div>
+         </div>
+         <div class="col-md-4 col-sm-6 p-0">
+            <div class="gallery-img-box">
+               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/11.webp">
+                  <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/11.webp">
+               </a>
+            </div>
+         </div>
+         <div class="col-md-4 col-sm-6 p-0">
+            <div class="gallery-img-box">
+               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/branding/12.webp">
+                  <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/branding/12.webp">
                </a>
             </div>
          </div>
       </div>
       <a href="javascript:void(0);" data-sku="lets get started" class="pkg_btn chatt btn btn-submit" data-toggle="modal"
-                  data-target="#req_qoute">lets get started</a>
+         data-target="#req_qoute">lets get started</a>
    </div>
 </section>
 
@@ -374,12 +411,12 @@
       <div class="row align-items-center">
          <div class="col-lg-6 col-md-12">
             <div class="second-contact-head">
-               <h2>Are You Ready To <br />Place Your Order?</h2>
+               <h2>Let’s Create Magic With</br> Professional branding agency</h2>
             </div>
          </div>
          <div class="col-lg-3 col-md-12">
             <a href="<?php echo $phone_link ?>" class="btn-tel">
-               <img src="public/assets/website/images/second-comtact-img-1.png" alt="" class="img-fluid" />
+               <img src="public/assets/website/images/second-comtact-img-1.webp" alt="" class="img-fluid" />
                <div class="second-con-box">
                   <h5>call us at</h5>
                   <p><?php echo $phone ?></p>
@@ -392,36 +429,8 @@
       </div>
    </div>
 </section>
-<?php include 'assets/layout/testimonial.php' ?>
+
 <?php include 'assets/layout/get-in-touch.php' ?>
-<section class="contact-us-sec">
-   <div class="container">
-      <div class="row">
-         <div class="col-lg-6 col-md-12">
-            <div class="contact-left-box" data-aos="fade-right" data-aos-duration="2000">
-               <h3>contact us</h3>
-               <h4>Let's write your <br /> story, together.</h4>
-            </div>
-         </div>
-         <div class="col-lg-6 col-md-12">
-            <div class="contact-right-box" data-aos="fade-left" data-aos-duration="2000">
-               <p>We do not tell you our story. We write it together. Partnering with us means a seat at the table where
-                  you will be heard.</p>
-               <div class="contact-bottom-info-box">
-                  <a href="contact-us.php" class="btn btn-ctn">contact us</a>
-                  <a href="<?php echo $phone_link ?>" class="btn-tel">
-                     <img class="lazy img-fluid" src="assets/img/second-comtact-img-1.png">
-                     <div class="second-con-box">
-                        <h5>call us at</h5>
-                        <p>
-                           <?php echo $phone ?>
-                        </p>
-                     </div>
-                  </a>
-               </div>
-            </div>
-         </div>
-      </div>
-   </div>
-</section>
+<?php include 'assets/layout/cta.php' ?>
+<?php include 'assets/layout/testimonial.php' ?>
 <?php include 'assets/layout/footer.php' ?>

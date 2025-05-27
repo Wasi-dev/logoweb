@@ -6,42 +6,17 @@
          <div class="row align-items-center">
             <div class="col-lg-5 col-md-12">
                <div class="anim-banner-txt" data-aos="fade-right" data-aos-duration="2000">
-                  <h1>Offering Engaging</h1>
-                  <h2>SEO Services For Your Brand</h2>
-                  <p>Logo Visioneer is trusted by hundreds of customers as a full-service Search Engine Optimization agency that provides stunning services to boost search engine ranking. You can get custom SEO services that fit your brand and generate traffic for high conversions.</p>
-                  <div class="form-banner" data-form-type="signup_form">
-                     <div class="form-banner" data-form-type="signup_form">
-                        <form class="" method="POST" action="mail.php"
-                           novalidate="novalidate">
-                           <input type="hidden" class="pkg_nme" name="package">
-                           <input type="hidden" name="link" value="<?php echo $link ?>">
-                           <div class="row">
-                              <div class="col-md-12">
-                                 <ul>
-                                    <li><input name="name" minlength="2" type="text" placeholder="Name" required /></li>
-                                    <li><input name="phone" id="phone-coun" required="" type="text" minlength="10"
-                                          maxlength="10" autocomplete="off"
-                                          onkeypress="return ((event.charCode >= 48 &amp;&amp; event.charCode <= 57) )"
-                                          placeholder="Phone Number"></li>
-                                    <li><input type="email" name="email" placeholder="Email Address" required></li>
-                                 </ul>
-                              </div>
-                              <div class="col-md-12">
-                                 <div id="formResult" class="slideformResult"></div>
-                                 <input class="pkg_btn submit" data-sku="Offering Engaging Form " name="submit"
-                                    type="submit" value="Submit Now" required />
-                                 <a href="javascript:toggleTawkChat();" class="btn btn-live chatt"><i
-                                       class='fas fa-comment'></i>Live Chat</a>
-                              </div>
-                           </div>
-                        </form>
-                     </div>
-                  </div>
+                  <h1>Skyrocket Your Website's Visibility with A Top SEO Company in USA!
+                  </h1>
+               
+                  <p>Hello All US Business Owners! Want your website to dominate search results? Logo Visioneer's SEO services focus on technical precision, compelling content, and strategies that drive traffic and conversions.
+                  </p>
+                  <a href="javascript:void(0);" class="btn btn-request" data-toggle="modal" data-target="#req_qoute">Request a Quote</a> 
                </div>
             </div>
             <div class="col-lg-7">
                <div class="anim-img-box">
-                  <img src="public/assets/website/images/seo-banner-img.png" alt="" class="img-fluid" />
+                  <img src="public/assets/website/images/seo-banner-img.webp" alt="" class="img-fluid" />
                </div>
             </div>
          </div>
@@ -70,8 +45,13 @@
       <div class="row justify-content-center">
          <div class="col-md-7">
             <div class="services-head-box" data-aos="fade-down" data-aos-duration="2000">
-               <h2>Improve Organic Traffic And Boost Engagement Rate </h2>
-               <p>When determining the important factors of marketing and branding a business, the most important is the channel or means you will market through. In the modern era, one can't ignore search engines between their marketing strategy and a successful businessman knows the significance of search engines. It plays a vital role in spreading brand words to prospective customers and audiences. Our SEO experts with experience of a decade ensure your brand reaches goals worldwide.</p>
+               <h2>How Does A Professional SEO Agency in USA Bring Traffic?
+               </h2>
+               <p>93% of online experiences begin with a search engine, making SEO the cornerstone of online success. With strategic optimization, your business can attract the right audience, improve visibility, and drive consistent traffic.  
+</br>
+An expert SEO company ensures your business ranks higher, drives qualified traffic, and builds authority in your niche. Plus, local SEO can bring nearby customers straight to your door. Let's help your business get discovered, drive growth, and turn searchers into loyal fans!
+
+</p>
                <a href="javascript:void(0);" data-sku="lets get started" class="pkg_btn chatt btn btn-submit" data-toggle="modal"
                   data-target="#req_qoute">lets get started</a>
             </div>
@@ -83,32 +63,105 @@
          <div class="row content-serv-sec-responsive-slider">
             <div class="col-lg-3 col-md-12">
                <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
-                  <img src="public/assets/website/images/seo-content-serv-img-1.png" alt="" class="img-fluid" />
-                  <h3>Technical Seo</h3>
-                  <p>We have full-time skilled technical SEOs with high command of data analysis background, web development, and programming. We are experts at enterprise-level technical SEO as well. </p>
+                  <img src="public/assets/website/images/icons/master.webp" alt="" class="icon-img  img-fluid" />
+                  <h2>Master Technical SEO</h2>
+                  <p>Fix the backend! We ensure your website's structure, speed, and crawlability are optimized for search engine success.
+                  </p>
                </div>
             </div>
             <div class="col-lg-3 col-md-12">
                <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
-                  <img src="public/assets/website/images/seo-content-serv-img-2.png" alt="" class="img-fluid" />
-                  <h3>Content</h3>
-                  <p>We also take care of content writing needs because a well-written piece can raise your website organically. Our experts know the arrangement of words on your website, and with an effective approach, the content can play a significant role in SEO. </p>
+                  <img src="public/assets/website/images/icons/convert.webp" alt="" class="icon-img  img-fluid" />
+                  <h2>Content That Converts
+                  </h2>
+                  <p>Not just keywords stories. We create compelling, optimized content that grabs attention and converts traffic into loyal customers.
+                  </p>
                </div>
             </div>
             <div class="col-lg-3 col-md-12">
                <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
-                  <img src="public/assets/website/images/seo-content-serv-img-3.png" alt="" class="img-fluid" />
-                  <h3>Local SEO</h3>
-                  <p>SEO is required to reach customers globally as well as locally. With a robust SEO strategy, you can approach your target audience in a specific area. Our expert SEOs will provide signals to Google that focuses on the importance to your geographical area. </p>
+                  <img src="public/assets/website/images/icons/magic.webp" alt="" class="icon-img  img-fluid" />
+                  <h2>Local SEO Magic
+                  </h2>
+                  <p>Attract nearby customers! We optimize for location-based searches, ensuring your business shines in your community.
+                  </p>
                </div>
             </div>
             <div class="col-lg-3 col-md-12">
                <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
-                  <img src="public/assets/website/images/seo-content-serv-img-4.png" alt="" class="img-fluid" />
-                  <h3>Link Building</h3>
-                  <p>Logo Visioneer SEOs mainly focus on developing long-term and high-quality strategies that revolve around compelling content. Authentic and equitable relationships consistent traffic from domains in authority. </p>
+                  <img src="public/assets/website/images/icons/seo.webp" alt="" class="icon-img  img-fluid" />
+                  <h2>On-Site SEO Expertise
+                  </h2>
+                  <p>Boost your visibility with optimized titles, meta descriptions, and flawless internal linking to wow search engines.
+                  </p>
                </div>
             </div>
+            <div class="col-lg-3 col-md-12">
+               <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
+                  <img src="public/assets/website/images/icons/Strategies.webp" alt="" class="icon-img  img-fluid" />
+                  <h2>Off-Site SEO Strategies
+
+                  </h2>
+                  <p>Build authority with strategic backlinks and high-quality off-site optimizations that enhance your credibility and rankings.
+
+                  </p>
+               </div>
+            </div>
+
+            <div class="col-lg-3 col-md-12">
+               <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
+                  <img src="public/assets/website/images/icons/Link.webp" alt="" class="icon-img  img-fluid" />
+                  <h2>Link Building That Works
+
+                  </h2>
+                  <p>We craft links that matter. Earn authoritative, natural backlinks that build your domain's trust and boost rankings.
+
+                  </p>
+               </div>
+            </div>
+
+            <div class="col-lg-3 col-md-12">
+               <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
+                  <img src="public/assets/website/images/icons/Keyword.webp" alt="" class="icon-img  img-fluid" />
+                  <h2>Smart Keyword Research
+
+                  </h2>
+                  <p>We uncover high-traffic, low-competition keywords tailored to your industry, ensuring your content targets the right audience.
+
+                  </p>
+               </div>
+            </div>
+
+
+            <div class="col-lg-3 col-md-12">
+               <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
+                  <img src="public/assets/website/images/icons/Audit.webp" alt="" class="icon-img  img-fluid" />
+                  <h2>Comprehensive SEO Audit
+
+                  </h2>
+                  <p>Identify what's holding you back. Our deep-dive audits spot gaps and craft a winning SEO action plan.
+
+                  </p>
+               </div>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
          </div>
       </div>
    </div>
@@ -320,13 +373,7 @@
    </div>
 </section>
 <section class="video-anim-process-sec seo-process-sec">
-   <div class="column_lines">
-      <div class="column"></div>
-      <div class="column"></div>
-      <div class="column"></div>
-      <div class="column"></div>
-      <div class="column"></div>
-   </div>
+   
    <div class="v-ani-sec">
       <div class="container">
          <div class="v-anim-head">
@@ -364,14 +411,14 @@
 <section class="benefits-sec">
    <div class="container">
       <div class="benefits-head-box">
-         <h2>Our SEO Strategy Timeline</h2>
+         <h2>4 Steps to SEO Success</h2>
       </div>
       <div class="row bene-row-line seo-process-responsive-slider">
          <div class="col-lg-6 col-md-12 p-0">
             <div class="benefits-main-box-left">
                <div class="benefits-content-box txt-right">
-                  <h3>Our SEO Strategy </h3>
-                  <p>An SEO strategy is of no use if it doesn't align with your marketing objectives. That's the reason we discuss and set up an everlasting SEO strategy with you.</p>
+                  <h3>Let's Chat Goals </h3>
+                  <p>We'll analyze your business needs and goals to craft an SEO strategy tailored just for you.</p>
                </div>
                <div class="benefits-num-box">
                   <h4>1</h4>
@@ -384,7 +431,7 @@
                   <h4>2</h4>
                </div>
                <div class="benefits-content-box txt-left">
-                  <h3>Proper SEO Analysis</h3>
+                  <h3>Build Your SEO Framework</h3>
                   <p>Analyzing your website is the next big step, which our SEOs will do and list down all the changes before starting the work. </p>
                </div>
             </div>
@@ -392,8 +439,10 @@
          <div class="col-lg-6 col-md-12 p-0">
             <div class="benefits-main-box-left">
                <div class="benefits-content-box txt-right">
-                  <h3>Targeted Keyword Research</h3>
-                  <p>Our experts look for the most suitable keywords that can work with your target market and ensure your SEO strategy will support your objectives. </p>
+                  <h3>Execute and Optimize
+                  </h3>
+                  <p>From keyword targeting to link building, we execute strategies proven to deliver measurable results.
+                  </p>
                </div>
                <div class="benefits-num-box">
                   <h4>3</h4>
@@ -406,12 +455,14 @@
                   <h4>4</h4>
                </div>
                <div class="benefits-content-box txt-left">
-                  <h3>On Page Optimization</h3>
-                  <p>After the keyword research, our next step is fulfilling on-page optimization requirements to get the desired results from the SEO strategy. </p>
+                  <h3>Track and Improve
+                  </h3>
+                  <p>We provide regular reports, analyze trends, and tweak strategies to ensure ongoing growth and success.
+                  </p>
                </div>
             </div>
          </div>
-         <div class="col-lg-6 col-md-12 p-0">
+         <!-- <div class="col-lg-6 col-md-12 p-0">
             <div class="benefits-main-box-left">
                <div class="benefits-content-box txt-right">
                   <h3>Link Building</h3>
@@ -432,63 +483,14 @@
                   <p>We help you stay in the process and keep you in touch by consulting with you the insights and helping you analyze the efforts. </p>
                </div>
             </div>
-         </div>
+         </div> -->
       </div>
    </div>
 </section>
 
-<section class="second-contact-sec">
-   <div class="container">
-      <div class="row align-items-center">
-         <div class="col-lg-6 col-md-12">
-            <div class="second-contact-head">
-               <h2>Are You Ready To <br />Place Your Order?</h2>
-            </div>
-         </div>
-         <div class="col-lg-3 col-md-12">
-            <a href="tel:+17736444494" class="btn-tel">
-               <img src="public/assets/website/images/second-comtact-img-1.png" alt="" class="img-fluid" />
-               <div class="second-con-box">
-                  <h5>call us at</h5>
-                  <p><?php echo $phone ?></p>
-               </div>
-            </a>
-         </div>
-         <div class="col-lg-3 col-md-12">
-            <a href="javascript:toggleTawkChat();" class="btn btn-start chatt">start live chat</a>
-         </div>
-      </div>
-   </div>
-</section>
-<?php include 'assets/layout/testimonial.php' ?>
 
 <?php include 'assets/layout/get-in-touch.php' ?>
+<?php include 'assets/layout/testimonial.php' ?>
 
-<section class="contact-us-sec">
-   <div class="container">
-      <div class="row">
-         <div class="col-lg-6 col-md-12">
-            <div class="contact-left-box" data-aos="fade-right" data-aos-duration="2000">
-               <h3>contact us</h3>
-               <h4>Let's write your <br /> story, together.</h4>
-            </div>
-         </div>
-         <div class="col-lg-6 col-md-12">
-            <div class="contact-right-box" data-aos="fade-left" data-aos-duration="2000">
-               <p>We do not tell you our story. We write it together. Partnering with us means a seat at the table where you will be heard.</p>
-               <div class="contact-bottom-info-box">
-                  <a href="contact-us.php" class="btn btn-ctn">contact us</a>
-                  <a href="<?php echo $phone_link ?>" class="btn-tel">
-                     <img class="lazy img-fluid" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/img/second-comtact-img-1.png" alt="">
-                     <div class="second-con-box">
-                        <h5>call us at</h5>
-                        <p><?php echo $phone ?></p>
-                     </div>
-                  </a>
-               </div>
-            </div>
-         </div>
-      </div>
-   </div>
-</section>
+
 <?php include 'assets/layout/footer.php' ?>

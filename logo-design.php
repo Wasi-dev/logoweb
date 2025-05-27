@@ -5,13 +5,12 @@
          <div class="row align-items-center">
             <div class="col-lg-5 col-md-12">
                <div class="anim-banner-txt" data-aos="fade-right" data-aos-duration="2000">
-                  <h1>Offering Engaging</h1>
-                  <h2>Logo Design <br /> For Your Brand</h2>
-                  <p>We are providing you the opportunity to work with experienced and professional designers or logo
-                     creators who generate unique and stunning designs. Let's discuss your imaginary design to give it a
-                     real shape that can help you achieve your business heights.</p>
-                  <!-- <a href="javascript:void(0);" class="btn btn-request" data-toggle="modal" data-target="#req_qoute">Request a Quote</a> -->
-                  <div class="form-banner" data-form-type="signup_form">
+                  <h1>Your Brand's Signature Style Starts with Creative Logo Design Service!</h1>
+
+                  <p> Your brand deserves a logo that truly reflects its unique personality. That's where we come in. Logo Visioneer offers a corporate logo design service that goes beyond just creating a pretty picture. We dive deep to understand your brand's essence and translate it into a visually stunning and impactful logo. Your Brand's Signature Style Starts with the best logo designing Services in USA! Let's craft a logo that makes a statement and helps your business thrive.
+                  </p>
+                  <a href="javascript:void(0);" class="btn btn-request" data-toggle="modal" data-target="#req_qoute">Request a Quote</a>
+                  <!-- <div class="form-banner" data-form-type="signup_form">
                      <form class="" method="POST" enctype="multipart/form-data" action="mail.php"
                         novalidate="novalidate">
                         <input type="hidden" class="pkg_nme" name="package">
@@ -36,12 +35,12 @@
                            </div>
                         </div>
                      </form>
-                  </div>
+                  </div> -->
                </div>
             </div>
             <div class="col-lg-7">
                <div class="anim-img-box">
-                  <img src="public/assets/website/images/logo-banner-img.png" alt="" class="img-fluid" />
+                  <img src="public/assets/website/images/logo-banner-img.webp" alt="" class="img-fluid" />
                </div>
             </div>
          </div>
@@ -70,11 +69,10 @@
       <div class="row justify-content-center">
          <div class="col-md-7">
             <div class="services-head-box" data-aos="fade-down" data-aos-duration="2000">
-               <h2>Logos We Create</h2>
-               <p>Logo Visioneer are proud of its content that brings clients back to them for further services. It's a
-                  design agency not only full of experienced and skilled people but passionate, energetic, and dedicated
-                  designers make it worth standing out of competition. It's not just logos that we design but also
-                  remarkable identities that build brands.</p>
+               <h2> Logo Designs by Expert Logo Designer
+               </h2>
+               <p>Which logos do we create? You bet! We're talking sleek, modern logos, vintage-inspired emblems, and everything. Tell us your vision, and we will bring it to life with a custom logo design service that wows.
+               </p>
             </div>
          </div>
       </div>
@@ -84,40 +82,39 @@
          <div class="row content-serv-sec-responsive-slider">
             <div class="col-lg-3 col-md-12">
                <div class="content-serv-box logo-content-box" data-aos="zoom-in" data-aos-duration="2000">
-                  <img src="public/assets/website/images/logo-serv-img-1.png" alt="" class="img-fluid" />
-                  <h3>Abstract Mark</h3>
-                  <p>Abstract logos are one of the most popular types of logo designs for small businesses to large
-                     brands. Abstract logos, if done well, are simple and elegant, perfect for clean and memorable
-                     logos.</p>
+                  <img src="public/assets/website/images/logo-icon.webp" alt="" class="icon-img img-fluid" />
+                  <h2>Abstract Mark
+                  </h2>
+                  <p>We design visually stunning Abstract Marks that capture your brand’s essence through unique shapes, colours, and creativity, leaving a lasting impression.
+                  </p>
                </div>
             </div>
             <div class="col-lg-3 col-md-12">
                <div class="content-serv-box logo-content-box" data-aos="zoom-in" data-aos-duration="2000">
-                  <div class="images-bx">
-                  <img src="public/assets/website/images/logo-serv-img-2.png" alt="" class="img-fluid" />
+                  <div class="">
+                     <img src="public/assets/website/images/letter-base.webp" alt="" class="icon-img img-fluid" />
                   </div>
 
-                  <h3>Letter Based Logos</h3>
-                  <p>This type of logo is based on typography instead of iconography. These logos with uniquely crafted
-                     letters transmit messages effectively. These logos consist of graphical techniques to illustrate
-                     letters in a better way.</p>
+                  <h2>Letter Based Logos</h2>
+                  <p>Our brand logo design services are known for Emblem Logos that merge text and imagery seamlessly, delivering a timeless design perfect for heritage, trust, and professionalism.
+                  </p>
                </div>
             </div>
             <div class="col-lg-3 col-md-12">
                <div class="content-serv-box logo-content-box" data-aos="zoom-in" data-aos-duration="2000">
-                  <img src="public/assets/website/images/logo-serv-img-3.png" alt="" class="img-fluid" />
-                  <h3>Emblem Logos</h3>
-                  <p>Our skilled designers know the worth of emblem logos and craft them adequately professional as well
-                     as graphically illustrative. We will draft a perfect logo for your business in a timely manner.</p>
+                  <img src="public/assets/website/images/embelem.webp" alt="" class="icon-img img-fluid" />
+                  <h2>Emblem Logos</h2>
+                  <p>Our brand logo design services are known for Emblem Logos that merge text and imagery seamlessly, delivering a timeless design perfect for heritage, trust, and professionalism.
+                  </p>
                </div>
             </div>
             <div class="col-lg-3 col-md-12">
                <div class="content-serv-box logo-content-box" data-aos="zoom-in" data-aos-duration="2000">
-                  <img src="public/assets/website/images/logo-serv-img-4.png" alt="" class="img-fluid" />
-                  <h3>Wordmark Mark</h3>
-                  <p>These types of logos are popular in service-providing industries and use bold typography to get the
-                     message of using the corporation or brand name. Wordmark logo design demands a good understanding
-                     of fonts and custom formatting for text. </p>
+                  <img src="public/assets/website/images/wordmark.webp" alt="" class="icon-img img-fluid" />
+                  <h2>Wordmark Logos
+                  </h2>
+                  <p>Our Wordmark Logos focus on typography, creating clean, bold, and sleek designs that showcase your brand name in a powerful and memorable way
+                  </p>
                </div>
             </div>
          </div>
@@ -127,22 +124,26 @@
 <section class="pricing-main-sec">
    <div class="container">
       <div class="price-head-box" data-aos="fade-down" data-aos-duration="3000">
-         <h2>Most Affordable Packages</h2>
-         <p>Being 10 years in the market, we are well acquainted with the competition. <br />That's why we bring the
-            most reasonable price plans. We ensure quality over quantity.</p>
+         <h2>Highlights of Our Creative logo Design Services Agency</h2>
+         <p> Look at the inspiring logo design work from our expert and professional logo designers. </br>We bet, you will surely ring us after looking at our recent logo design work.
+         </p>
       </div>
       <div class="package-slider-box">
          <div class="owl-carousel owl-theme">
+
+
             <div class="item">
                <div class="item" data-package-box>
                   <div class="package-main-box">
                      <div class="package-pr">
-                        <h3>$25</h3>
+                        <h3>$35</h3>
                      </div>
                      <div class="packtitles">
                         <div class="fleft">
-                           <h4>Instant Logo</h4>
-                           <p>Suitable for Small Startups</p>
+                           <h4>Basic
+                              Logo</h4>
+                           <p>Logo Design<br>
+                              (Logotype/Word mark Logo Design)</p>
                         </div>
                         <div class="fright">
                            <h5>75% OFF<span class="cutprice">$100</span></h5>
@@ -154,17 +155,23 @@
                               <ul>
                                  <li>3 Logo design ideas </li>
                                  <li>by 1 Design Artist </li>
-                                 <li>3 revisions <br>(additional revision per change $10) </li>
-                                 <li>Final Files (JPEG, PNG,PDF) </li>
-                                 <li>100% Unique Custom Logo Design Concepts </li>
-                                 <li>12 - 24 Hours Turnaround Time </li>
+                                 <li>Free Color Options </li>
+                                 <li>2 to 3 Business Days Rotation</li>
+                                 <li>100% Ownership </li>
+                                 <li>File Formats (PNG, JPG ,PDF)</li>
+                                 <li>Get Initial Concepts within 24 hours
+                                 </li>
+                                 <li>100% Unique Design Guarantee
+                                 </li>
+                                 <li>100% Satisfaction Guarantee </li>
+                                 <li>100% Money Back Guarantee </li>
                               </ul>
                            </div>
                         </div>
                      </div>
 
                      <div class="bottom-contact" style="margin-top: 30px">
-                     <a data-target="#req_qoute" data-sku="Instant Logo ~ $25 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                        <a data-target="#req_qoute" data-sku="Basic Logo ~ $35 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
                         <a class="btn chat" href="javascript:toggleTawkChat();">
                            <span class="cht_clr"><small>Click here to
                                  <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
@@ -182,8 +189,9 @@
                      </div>
                      <div class="packtitles">
                         <div class="fleft">
-                           <h4>Standard Logo</h4>
-                           <p>Suitable for Medium Scale Businesses</p>
+                           <h4>Startup Logo</h4>
+                           <p>Logo Design<br>
+                              (Abstract/Iconic Logo Design)</p>
                         </div>
                         <div class="fright">
                            <h5>75% OFF<span class="cutprice">$300</span></h5>
@@ -194,18 +202,25 @@
                            <div data-package-scroll>
                               <ul>
                                  <li>6 Logo Design Ideas </li>
-                                 <li>By 4 Different Logo Designers </li>
-                                 <li>6 Revisions (Additional Revision Per Change $10) </li>
-                                 <li>Final Files (Vector EPS, JPEG, PNG, PDF) </li>
-                                 <li>Business Card Design </li>
-                                 <li>100% Unique Custom Logo Design Concepts </li>
+                                 <li>By 2 Designers </li>
+                                 <li>5 Revisions</li>
+
+                                 <li>Free Color Options </li>
+                                 <li>2 to 3 Business Days Rotation </li>
+                                 <li>File Formats ( PNG, JPG, PDF) </li>
+                                 <li>Get Initial Concepts within 24 hours
+                                 </li>
+                                 <li>100% Unique Design Guarantee
+                                 </li>
+                                 <li>100% Satisfaction Guarantee </li>
+                                 <li>100% Money Back Guarantee </li>
                               </ul>
                            </div>
                         </div>
                      </div>
 
                      <div class="bottom-contact" style="margin-top: 30px">
-                     <a data-target="#req_qoute" data-sku="Standard Logo ~ $75 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                        <a data-target="#req_qoute" data-sku="Startup Logo ~ $75 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
                         <a class="btn chat" href="javascript:toggleTawkChat();">
                            <span class="cht_clr"><small>Click here to
                                  <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
@@ -219,12 +234,13 @@
                <div class="item" data-package-box>
                   <div class="package-main-box">
                      <div class="package-pr">
-                        <h3>$145</h3>
+                        <h3>$125</h3>
                      </div>
                      <div class="packtitles">
                         <div class="fleft">
-                           <h4>Prime Logo</h4>
-                           <p>Suitable for Medium Scale Business Startups</p>
+                           <h4>Professional</h4>
+                           <p>Logo Design<br>
+                              (Brand mark/Symbol/Emblem Logo Design)</p>
                         </div>
                         <div class="fright">
                            <h5>75% OFF<span class="cutprice">$580</span></h5>
@@ -234,21 +250,38 @@
                         <div class="slim-scroll">
                            <div data-package-scroll>
                               <ul>
-                                 <li>12 Different Logo Design Ideas </li>
-                                 <li>By 3 Different Logo Designers </li>
+                                 <li>9 Unique Logo Concepts </li>
+                                 <li>By 4 Designers </li>
                                  <li>Unlimited Revisions </li>
-                                 <li>All Final Files (Vector AI, PSD, Vector EPS, JPEG, PNG, PDF) </li>
-                                 <li>Free Stationery Design (Business Card, Letterhead, Envelope, Email Signature) </li>
-                                 <li>48 Hours Turnaround Time </li>
-                                 <li>100% Unique Custom Logo Design Concepts </li>
-                                 <li>100% Approval Assurance </li>
+
+                                 <li>Free Color Options </li>
+                                 <li>Unlimited Logo Concepts.
+                                 </li>
+
+                                 <li>Facebook and Instagram Page design.
+                                 </li>
+
+                                 <li>Banner Design.
+                                 </li>
+
+                                 <li>Free Icon Design </li>
+                                 <li>Stationery Design (Business Card, Letterhead, Envelope) </li>
+                                 <li>2 to 3 Business Days Rotation
+                                 </li>
+                                 <li>All Final Files ( PNG,JPG, PDF) </li>
+                                 <li>Get Initial Concepts within 24 hours
+                                 </li>
+                                 <li>100% Unique Design Guarantee
+                                 </li>
+                                 <li>100% Satisfaction Guarantee </li>
+                                 <li>100% Money Back Guarantee </li>
                               </ul>
                            </div>
                         </div>
                      </div>
 
                      <div class="bottom-contact" style="margin-top: 30px">
-                     <a data-target="#req_qoute" data-sku="Prime Logo ~ $145 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                        <a data-target="#req_qoute" data-sku=">Professional ~ $125 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
                         <a class="btn chat" href="javascript:toggleTawkChat();">
                            <span class="cht_clr"><small>Click here to
                                  <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
@@ -262,12 +295,14 @@
                <div class="item" data-package-box>
                   <div class="package-main-box">
                      <div class="package-pr">
-                        <h3>$296</h3>
+                        <h3>$199</h3>
                      </div>
                      <div class="packtitles">
                         <div class="fleft">
-                           <h4>Deluxe Logo (Best Seller)</h4>
-                           <p>Suitable for Medium to Large Scale Enterprises</p>
+                           <h4>Business
+                              Logo (Best Seller)</h4>
+                           <p>Logo Design<br>
+                              (Logotype/Word mark Logo Design)</p>
                         </div>
                         <div class="fright">
                            <h5>75% OFF<span class="cutprice">$1184</span></h5>
@@ -277,23 +312,33 @@
                         <div class="slim-scroll">
                            <div data-package-scroll>
                               <ul>
-                                 <li>Unlimited Logo Design Ideas </li>
-                                 <li>By Experienced Design Team </li>
-                                 <li>Unlimited Revisions </li>
-                                 <li>All Final Files (Vector AI, Vector PSD, Vector EPS, JPEG, PNG, PDF) </li>
-                                 <li>Stationery Design (Business Card, Letterhead, Envelope) </li>
-                                 <li>Free Electronic Letterhead </li>
-                                 <li>Free Invoice Design </li>
-                                 <li>Social Media File Formats </li>
-                                 <li>24-48 Hours Turnaround Time </li>
-                                 <li>100% Unique Custom Logo Design Concepts </li>
+
+                                 <li> Unlimited Logo Design Idea(s) </li>
+                                 <li> By 6 Designer(s) </li>
+                                 <li> Free Icon Design </li>
+                                 <li> Unlimited Revisions </li>
+                                 <li> 24 Hours TAT </li>
+                                 <li> Stationery Design (Business Card, Letterhead, Envelope) </li>
+                                 <li> Free Electronic Letterhead </li>
+                                 <li> Free Invoice Design </li>
+                                 <li> 2 Sided Flyer (OR) Bi-Fold Brochure Design </li>
+                                 <li>
+                                    File Formats
+
+                                    (.webp, .webp, .PDF)
+                                 </li>
+                                 <li> Get Initial Concepts within 24 hours </li>
+                                 <li> 100% Unique Design Guarantee </li>
+                                 <li> 100% Satisfaction Guarantee </li>
+                                 <li> 100% Money Back Guarantee </li>
                               </ul>
                            </div>
                         </div>
                      </div>
 
                      <div class="bottom-contact" style="margin-top: 30px">
-                     <a data-target="#req_qoute" data-sku="Deluxe Logo (Best Seller) ~ $296 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                        <a data-target="#req_qoute" data-sku="Business
+                    Logo (Best Seller) ~ $199 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
                         <a class="btn chat" href="javascript:toggleTawkChat();">
                            <span class="cht_clr"><small>Click here to
                                  <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
@@ -307,12 +352,14 @@
                <div class="item" data-package-box>
                   <div class="package-main-box">
                      <div class="package-pr">
-                        <h3>$800</h3>
+                        <h3>$299</h3>
                      </div>
                      <div class="packtitles">
                         <div class="fleft">
-                           <h4>Award Winning Logo Pack</h4>
-                           <p>Those who are looking for Best</p>
+                           <h4>Premium Illustrative
+                           </h4>
+                           <p>Logo Design<br>
+                              (Abstract/Iconic Logo Design)</p>
                         </div>
                         <div class="fright">
                            <h5>75% OFF<span class="cutprice">$3200</span></h5>
@@ -322,26 +369,27 @@
                         <div class="slim-scroll">
                            <div data-package-scroll>
                               <ul>
-                                 <li>Designed by 20+ years Experienced Art Directors </li>
-                                 <li>Unlimited Revisions </li>
-                                 <li>Business Stationery Included </li>
-                                 <li>MS Word Letterhead Included </li>
-                                 <li>FAX Template Included </li>
-                                 <li>Email Signature Design </li>
-                                 <li>Black and White version Files </li>
-                                 <li>Font names, Color codes included </li>
-                                 <li>Social Media Page Designs </li>
-                                 <li>Email & Phone Support </li>
-                                 <li>Dedicated Account Manager </li>
-                                 <li>100% Satisfaction Guarantee </li>
-                                 <li>Copyright Certificate </li>
+                                 <li> 3 Hand-drawn Custom Illustrative Design Ideas </li>
+                                 <li> By 4 Creative Artists </li>
+                                 <li> 24 Hours TAT </li>
+                                 <li> Unlimited Revisions </li>
+                                 <li> Stationery Design (Business Card, Letterhead, Envelope) </li>
+                                 <li>
+                                    File Formats
+
+                                    (.AI, .PSD, .EPS, .webp, .webp, .PDF, .TIFF)
+                                 </li>
+                                 <li>Get Initial Concepts within 24 hours</li>
+                                 <li> 100% Unique Design Guarantee </li>
+                                 <li> 100% Satisfaction Guarantee </li>
+                                 <li> 100% Money Back Guarantee </li>
                               </ul>
                            </div>
                         </div>
                      </div>
 
                      <div class="bottom-contact" style="margin-top: 30px">
-                     <a data-target="#req_qoute" data-sku="Award Winning Logo Pack ~ $800 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
+                        <a data-target="#req_qoute" data-sku="Premium Illustrative ~ $299 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
                         <a class="btn chat" href="javascript:toggleTawkChat();">
                            <span class="cht_clr"><small>Click here to
                                  <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
@@ -355,12 +403,14 @@
                <div class="item" data-package-box>
                   <div class="package-main-box">
                      <div class="package-pr">
-                        <h3>$350</h3>
+                        <h3>$499</h3>
                      </div>
                      <div class="packtitles">
                         <div class="fleft">
-                           <h4>3D and Illustration Logo</h4>
-                           <p></p>
+                           <h4>Enterprise
+                           </h4>
+                           <p>Logo Design<br>
+                              (Brand mark/Symbol/Emblem Logo Design)</p>
                         </div>
                         <div class="fright">
                            <h5>75% OFF<span class="cutprice">$1399</span></h5>
@@ -370,19 +420,35 @@
                         <div class="slim-scroll">
                            <div data-package-scroll>
                               <ul>
-                                 <li>3 Logo Design Concepts </li>
-                                 <li>By Lead Art Director </li>
-                                 <li>UNLIMITED Revisions </li>
-                                 <li>100% Satisfaction Guarantee </li>
-                                 <li>100% Unique Design Guarantee </li>
-                                 <li>100% Money Back Guarantee* </li>
+                                 <li> Unlimited Logo Design Idea(s) </li>
+                                 <li> By 7 Award-Winning Designer(s) </li>
+                                 <li> Free Icon Design </li>
+                                 <li> Unlimited Revisions </li>
+                                 <li> 24 Hours TAT </li>
+                                 <li> Stationery Design (Business Card, Letterhead, Envelope) </li>
+                                 <li> Free Electronic Letterhead </li>
+                                 <li> Free Invoice Design </li>
+                                 <li> 2 Sided Flyer (OR) Bi-Fold Brochure Design </li>
+                                 <li> 4 Pages Website </li>
+                                 <li> Social Media Size Images </li>
+                                 <li> Social Media Pages Design (i.e. Facebook, Twitter, LinkedIn, Pinterest, Instagaram, Google+) (Any 3) </li>
+                                 <li> T-Shirt Design, Signage Design, Packaging Design (Any 2) </li>
+                                 <li>
+                                    File Formats
+
+                                    (.AI, .EPS, .webp, .webp, .PDF)
+                                 </li>
+                                 <li>Get Initial Concepts within 24 hours</li>
+                                 <li> 100% Unique Design Guarantee </li>
+                                 <li> 100% Satisfaction Guarantee </li>
+                                 <li> 100% Money Back Guarantee </li>
                               </ul>
                            </div>
                         </div>
                      </div>
 
                      <div class="bottom-contact" style="margin-top: 30px">
-                     <a data-target="#req_qoute" data-sku="3D and Illustration Logo ~ $350 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>>
+                        <a data-target="#req_qoute" data-sku="Enterprise ~ $499 " data-toggle="modal" class="pkg_btn btn btn-order startchat">order now</a>
                         <a class="btn chat" href="javascript:toggleTawkChat();">
                            <span class="cht_clr"><small>Click here to
                                  <img src="public/assets/website/images/chat-img.gif" alt="" class="img-fluid" />
@@ -403,71 +469,105 @@
    <div class="container-fluid">
       <div class="process-head-box" data-aos="fade-down" data-aos-duration="2000">
          <h2>A glimpse of our recent work</h2>
-         <p>With our skilled and experienced team, we have spent years in digital marketing and designing with our
-            customers to deliver premium quality work. Take a glance at our recent work.</p>
+         <p>Our skilled and experienced team has spent years in digital marketing and design,</br>
+            collaborating with clients to deliver top-quality results. Take a look at our latest work.</p>
       </div>
-      <div class="row">
+      <div class="row inner-portf">
          <div class="col-md-4 col-sm-6 p-0">
             <div class="gallery-img-box">
-               <a data-fancybox="gallery" href="public/assets/website/images/logo-img-1.jpg">
-                  <img src="public/assets/website/images/logo-img-1.jpg">
-               </a>
+               <video class="lazy video-class portfolio-vid" autoplay loop muted playsinline>
+                  <source src="assets/img/portfolio/logodesign/1.mp4" type="video/mp4">
+                  Your browser does not support the video tag.
+               </video>
+
             </div>
          </div>
          <div class="col-md-4 col-sm-6 p-0">
             <div class="gallery-img-box">
-               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/logodesign/1.jpg">
-                  <img src="public/assets/website/images/portfolio/logodesign/1.jpg">
-               </a>
+               <video class="lazy video-class portfolio-vid" autoplay loop muted playsinline>
+                  <source src="assets/img/portfolio/logodesign/2.mp4" type="video/mp4">
+                  Your browser does not support the video tag.
+               </video>
             </div>
          </div>
          <div class="col-md-4 col-sm-6 p-0">
             <div class="gallery-img-box">
-               <a data-fancybox="gallery" href="public/assets/website/images/logo-img-3.jpg">
-                  <img src="public/assets/website/images/logo-img-3.jpg">
-               </a>
+               <video class="lazy video-class portfolio-vid" autoplay loop muted playsinline>
+                  <source src="assets/img/portfolio/logodesign/3.mp4" type="video/mp4">
+                  Your browser does not support the video tag.
+               </video>
             </div>
          </div>
          <div class="col-md-4 col-sm-6 p-0">
             <div class="gallery-img-box">
-               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/logodesign/11.jpg">
-                  <img src="public/assets/website/images/portfolio/logodesign/11.jpg">
-               </a>
+               <video class="lazy video-class portfolio-vid" autoplay loop muted playsinline>
+                  <source src="assets/img/portfolio/logodesign/4.mp4" type="video/mp4">
+                  Your browser does not support the video tag.
+               </video>
             </div>
          </div>
          <div class="col-md-4 col-sm-6 p-0">
             <div class="gallery-img-box">
-               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/logodesign/3.jpg">
-                  <img src="public/assets/website/images/portfolio/logodesign/3.jpg">
-               </a>
+               <video class="lazy video-class portfolio-vid" autoplay loop muted playsinline>
+                  <source src="assets/img/portfolio/logodesign/5.mp4" type="video/mp4">
+                  Your browser does not support the video tag.
+               </video>
             </div>
          </div>
          <div class="col-md-4 col-sm-6 p-0">
             <div class="gallery-img-box">
-               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/logodesign/21.jpg">
-                  <img src="public/assets/website/images/portfolio/logodesign/21.jpg">
-               </a>
+               <video class="lazy video-class portfolio-vid" autoplay loop muted playsinline>
+                  <source src="assets/img/portfolio/logodesign/6.mp4" type="video/mp4">
+                  Your browser does not support the video tag.
+               </video>
             </div>
          </div>
          <div class="col-md-4 col-sm-6 p-0">
             <div class="gallery-img-box">
-               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/logodesign/17.jpg">
-                  <img src="public/assets/website/images/portfolio/logodesign/17.jpg">
-               </a>
+               <video class="lazy video-class portfolio-vid" autoplay loop muted playsinline>
+                  <source src="assets/img/portfolio/logodesign/7.mp4" type="video/mp4">
+                  Your browser does not support the video tag.
+               </video>
             </div>
          </div>
          <div class="col-md-4 col-sm-6 p-0">
             <div class="gallery-img-box">
-               <a data-fancybox="gallery" href="public/assets/website/images/logo-img-5.jpg">
-                  <img src="public/assets/website/images/logo-img-5.jpg">
-               </a>
+               <video class="lazy video-class portfolio-vid" autoplay loop muted playsinline>
+                  <source src="assets/img/portfolio/logodesign/8.mp4" type="video/mp4">
+                  Your browser does not support the video tag.
+               </video>
             </div>
          </div>
          <div class="col-md-4 col-sm-6 p-0">
             <div class="gallery-img-box">
-               <a data-fancybox="gallery" href="public/assets/website/images/logo-img-6.jpg">
-                  <img src="public/assets/website/images/logo-img-6.jpg">
-               </a>
+               <video class="lazy video-class portfolio-vid" autoplay loop muted playsinline>
+                  <source src="assets/img/portfolio/logodesign/9.mp4" type="video/mp4">
+                  Your browser does not support the video tag.
+               </video>
+            </div>
+         </div>
+         <div class="col-md-4 col-sm-6 p-0">
+            <div class="gallery-img-box">
+               <video class="lazy video-class portfolio-vid" autoplay loop muted playsinline>
+                  <source src="assets/img/portfolio/logodesign/10.mp4" type="video/mp4">
+                  Your browser does not support the video tag.
+               </video>
+            </div>
+         </div>
+         <div class="col-md-4 col-sm-6 p-0">
+            <div class="gallery-img-box">
+               <video class="lazy video-class portfolio-vid" autoplay loop muted playsinline>
+                  <source src="assets/img/portfolio/logodesign/11.mp4" type="video/mp4">
+                  Your browser does not support the video tag.
+               </video>
+            </div>
+         </div>
+         <div class="col-md-4 col-sm-6 p-0">
+            <div class="gallery-img-box">
+               <video class="lazy video-class portfolio-vid" autoplay loop muted playsinline>
+                  <source src="assets/img/portfolio/logodesign/12.mp4" type="video/mp4">
+                  Your browser does not support the video tag.
+               </video>
             </div>
          </div>
       </div>
@@ -488,14 +588,14 @@
       <div class="row">
          <div class="col-lg-8 col-md-12">
             <div class="how-we-img-box">
-               <img src="public/assets/website/images/how-we-img.jpg" alt="" class="img-fluid" />
+               <img src="public/assets/website/images/how-we-img.webp" alt="" class="img-fluid" />
             </div>
          </div>
          <div class="col-lg-4 col-md-12">
             <div class="v-anim-process-box logo-process-box">
                <h3>Design Brief</h3>
-               <p>The process starts with the description of the idea that you have in your mind for the logo that you
-                  think is going to represent your brand. This is where we start constructing the logo. </p>
+               <p>We gather your ideas and requirements to create a design tailored to your vision.
+               </p>
             </div>
          </div>
       </div>
@@ -503,22 +603,22 @@
          <div class="col-lg-4 col-md-12">
             <div class="v-anim-process-box anim-2 logo-process-box">
                <h3>Research & Sketch</h3>
-               <p>Now we have your idea, and we are clear with the factors needed to brew the perfect logo. Here our
-                  designers will start making a concept and create a draft to begin the collaborative design process</p>
+               <p>We explore concepts and sketch creative ideas to craft a unique and impactful logo.
+               </p>
             </div>
          </div>
          <div class="col-lg-4 col-md-12">
             <div class="v-anim-process-box anim-3 logo-process-box">
                <h3>Revision</h3>
-               <p>Once we are satisfied with the delivery, we share it with the client. However, we are entirely open to
-                  revisions and feedback until the customer is 100% satisfied.</p>
+               <p>We refine designs based on your feedback, ensuring every detail aligns perfectly with your expectations.
+               </p>
             </div>
          </div>
          <div class="col-lg-4 col-md-12">
             <div class="v-anim-process-box anim-4 logo-process-box">
                <h3>Final Delivery </h3>
-               <p>After review by the client and removing errors from the product, we deliver the final project and all
-                  necessary formats files.</p>
+               <p>Your polished logo is delivered in high-quality formats, ready to represent your brand professionally.
+               </p>
             </div>
          </div>
       </div>
@@ -530,12 +630,13 @@
       <div class="row align-items-center">
          <div class="col-lg-6 col-md-12">
             <div class="second-contact-head">
-               <h2>Are You Ready To <br />Place Your Order?</h2>
+               <h2>Get a Free Quote on Logo Design Services</br> in USA from Logo Visioneer.
+               </h2>
             </div>
          </div>
          <div class="col-lg-3 col-md-12">
             <a href="<?php echo $phone_link ?>" class="btn-tel">
-               <img src="public/assets/website/images/second-comtact-img-1.png" alt="" class="img-fluid" />
+               <img src="public/assets/website/images/second-comtact-img-1.webp" alt="" class="img-fluid" />
                <div class="second-con-box">
                   <h5>call us at</h5>
                   <p><?php echo $phone ?></p>
@@ -549,38 +650,6 @@
    </div>
 </section>
 
-<?php include 'assets/layout/testimonial.php' ?>
 <?php include 'assets/layout/get-in-touch.php' ?>
-<!-- 
-<section class="contact-us-sec">
-   <div class="container">
-      <div class="row">
-         <div class="col-lg-6 col-md-12">
-            <div class="contact-left-box" data-aos="fade-right" data-aos-duration="2000">
-               <h3>contact us</h3>
-               <h4>Let's write your <br /> story, together.</h4>
-            </div>
-         </div>
-         <div class="col-lg-6 col-md-12">
-            <div class="contact-right-box" data-aos="fade-left" data-aos-duration="2000">
-               <p>We do not tell you our story. We write it together. Partnering with us means a seat at the table where
-                  you will be heard.</p>
-               <div class="contact-bottom-info-box">
-                  <a href="contact-us.php" class="btn btn-ctn">contact us</a>
-                  <a href="<?php echo $phone_link ?>4" class="btn-tel">
-                     <img class="lazy img-fluid"
-                        src="assets/img/second-comtact-img-1.png"
-                        >
-                     <div class="second-con-box">
-                        <h5>call us at</h5>
-                        <p><?php echo $phone ?></p>
-                     </div>
-                  </a>
-               </div>
-            </div>
-         </div>
-      </div>
-   </div>
-</section> -->
-
+<?php include 'assets/layout/testimonial.php' ?>
 <?php include 'assets/layout/footer.php' ?>

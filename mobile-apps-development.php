@@ -5,48 +5,148 @@
             <div class="row align-items-center">
                 <div class="col-lg-5 col-md-12">
                     <div class="anim-banner-txt" data-aos="fade-right" data-aos-duration="2000">
-                        <h1>Innovative Mobile App Development</h1>
-                        <!-- <h2>Turning Ideas Into Powerful Apps</h2> -->
-                        <p>Our skilled team specializes in creating cutting-edge mobile applications tailored to your business needs. From design to deployment, we deliver user-friendly, secure, and scalable apps that enhance engagement and drive growth for your brand.</p>
+                        <h1>Bring Your Ideas to Life with the Best Mobile App Development Company in USA</h1>
+                        <p>Hey, Chicago entrepreneurs! Want an app that's innovative, user-friendly, and built to scale? Logo Visioneer's mobile app development solutions combine cutting-edge technology, intuitive design, and seamless functionality to create apps that engage users and drive results. Let's turn your vision into a mobile reality!
+                        </p>
+                        <a href="javascript:void(0);" class="btn btn-request" data-toggle="modal" data-target="#req_qoute">Request a Quote</a> 
 
-
-                        <div class="form-banner" data-form-type="signup_form">
-                            <form class="" method="POST" action="mail.php"
-                                novalidate="novalidate">
-                                <input type="hidden" class="pkg_nme" name="package">
-                                <input type="hidden" name="link" value="<?php echo $link ?>">
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <ul>
-                                            <li><input name="name" minlength="2" type="text" placeholder="Name" required /></li>
-                                            <li><input name="phone" id="phone-coun" required="" type="text" minlength="10"
-                                                    maxlength="10" autocomplete="off"
-                                                    onkeypress="return ((event.charCode >= 48 &amp;&amp; event.charCode <= 57) )"
-                                                    placeholder="Phone Number"></li>
-                                            <li><input type="email" name="email" placeholder="Email Address" required></li>
-                                        </ul>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div id="formResult" class="slideformResult"></div>
-                                        <input class="pkg_btn submit" data-sku="Offering Engaging Form " name="submit"
-                                            type="submit" value="Submit Now" required />
-                                        <a href="javascript:toggleTawkChat();" class="btn btn-live chatt"><i
-                                                class='fas fa-comment'></i>Live Chat</a>
-                                    </div>
-                                </div>
-                            </form>
-                        </div>
+                     
                     </div>
                 </div>
                 <div class="col-lg-7">
                     <div class="anim-img-box">
-                        <img src="public/assets/website/images/mobile-app.png" alt="" class="img-fluid" />
+                        <img src="public/assets/website/images/mobile-app.png" alt="" class="mobile-app img-fluid" />
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
+
+<section class="services-sec seo-services-sec">
+   <div class="wrapv">
+      <div class="vertical tlt">
+         Design
+      </div>
+   </div>
+   <div class="wrapv-two">
+      <div class="vertical-two tlt-2">
+         Creative.
+      </div>
+   </div>
+   <div class="column_lines">
+      <div class="column"></div>
+      <div class="column"></div>
+      <div class="column"></div>
+      <div class="column"></div>
+      <div class="column"></div>
+   </div>
+   <div class="container">
+      <div class="row justify-content-center">
+         <div class="col-md-7">
+            <div class="services-head-box" data-aos="fade-down" data-aos-duration="2000">
+               <h2>Why a Mobile App Development Agency is Essential for Business Growth?
+
+               </h2>
+               <p> In today's mobile-first world, apps aren't just optional. They're essential. Studies show that 70% of customers prefer to engage with businesses via apps. A professionally developed app by our mobile app developers in the USA enhances your brand presence, delivers a superior user experience, and keeps your audience coming back for more.
+               </p>
+               <a href="javascript:void(0);" data-sku="lets get started" class="pkg_btn chatt btn btn-submit" data-toggle="modal"
+                  data-target="#req_qoute">lets get started</a>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="content-serv-sec seo-serv-sec">
+      <div class="container-fluid">
+         <div class="row content-serv-sec-responsive-slider">
+            <div class="col-lg-3 col-md-12">
+               <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
+                  <img src="public/assets/website/images/icons/Solutions.webp" alt="" class="icon-img img-fluid" />
+                  <h2>Custom Mobile App Development Solutions</h2>
+                  <p>Your business is unique, and your app should be too. From concept to launch, we build custom apps tailored to your specific needs and audience.</p>
+               </div>
+            </div>
+            <div class="col-lg-3 col-md-12">
+               <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
+                  <img src="public/assets/website/images/icons/Development.webp" alt="" class="icon-img img-fluid" />
+                  <h2> Cross-Platform Development Expertise</h2>
+                  <p>Maximize your reach with apps that work flawlessly across iOS and Android. Our mobile app development firm ensures consistent performance on every platform.</p>
+               </div>
+            </div>
+            <div class="col-lg-3 col-md-12">
+               <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
+                  <img src="public/assets/website/images/icons/UIUX.webp" alt="" class="icon-img img-fluid" />
+                  <h2>User-Centric UI/UX Design</h2>
+                  <p>First impressions matter. We design visually stunning and highly intuitive interfaces that keep users engaged and coming back.</p>
+               </div>
+            </div>
+            <div class="col-lg-3 col-md-12">
+               <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
+                  <img src="public/assets/website/images/icons/Tools.webp" alt="" class="icon-img img-fluid" />
+                  <h2>Seamless Integration with Your Business Tools</h2>
+                  <p> From CRM systems to payment gateways, we integrate your app with the tools your business relies on to enhance functionality and streamline operations.</p>
+               </div>
+            </div>
+
+       </div>
+      </div>
+   </div>
+</section>
+
+
+
+<!--Steps Section-->
+<section class="mt-5 mb-5 show-desktop">
+<div class="container">
+   
+      <div class="price-head-box aos-init aos-animate" data-aos="fade-down" data-aos-duration="3000">
+         <h2>4 Steps to Hassle-Free</br>Mobile App Development Success
+
+
+
+         </h2>
+      </div>
+      <div class="row">
+         <div class="col-lg-8 col-md-12">
+            <div class="how-we-img-box">
+               <img src="public/assets/website/images/how-we-img.webp" alt="" class="img-fluid" />
+            </div>
+         </div>
+         <div class="col-lg-4 col-md-12">
+            <div class="v-anim-process-box logo-process-box">
+               <h3>Let's Define Your Vision</h3>
+               <p>We'll dive deep into your goals and target audience to create a custom app strategy that aligns with your business objectives.</p>
+            </div>
+         </div>
+      </div>
+      <div class="row">
+         <div class="col-lg-4 col-md-12">
+            <div class="v-anim-process-box anim-2 logo-process-box">
+               <h3>Design & Prototype</h3>
+               <p>From wireframes to UI/UX design, we bring your vision to life with a layout that's as beautiful as it is functional.</p>
+            </div>
+         </div>
+         <div class="col-lg-4 col-md-12">
+            <div class="v-anim-process-box anim-3 logo-process-box">
+               <h3>Develop & Integrate</h3>
+               <p>Using the latest technology, our mobile app developers in the USA build your app with seamless integrations and top-notch coding.</p>
+            </div>
+         </div>
+         <div class="col-lg-4 col-md-12">
+            <div class="v-anim-process-box anim-4 logo-process-box">
+               <h3>Launch & Refine</h3>
+               <p>With rigorous testing, we ensure a flawless launch and continue optimizing your app based on user feedback and performance analytics.</p>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<!--Steps Section end-->
+
+
+
+
+
 <section class="pricing-main-sec">
     <div class="container">
         <div class="price-head-box" data-aos="fade-down" data-aos-duration="3000">
@@ -424,6 +524,6 @@
 <?php include 'assets/layout/process-sec.php' ?>
 
 <?php include 'assets/layout/creation-sec.php' ?>
+<?php include 'assets/layout/get-in-touch.php' ?>
 <?php include 'assets/layout/testimonial.php' ?>
-
 <?php include 'assets/layout/footer.php' ?>

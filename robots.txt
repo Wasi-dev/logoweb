@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+Disallow: /feed/
+
+User-agent: CCBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+Sitemap: https://logovisioneer.com/sitemap.xml
+Sitemap: https://logovisioneer.com/images_sitemap.xml

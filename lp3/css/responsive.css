@@ -1,0 +1,371 @@
+
+/* Mobile Devices (max-width: 767px) */
+@media only screen and (max-width: 767px) {
+    /* body {
+        background-color: lightblue;
+    } */
+    .girlimg {
+        display: none !important;
+    }
+    .col-form-div-m {
+        border-radius: 25px 25px 25px 25px !important;
+    }
+    ul.main-list li {
+        text-align: center;
+    }
+    .testimonials_sec h2 {
+        font-size: 33px;
+        width: 100%;
+    }
+    .testimonials_sec {
+        padding: 36px 0 64px;
+    }
+    .sec-gen-more-rev {
+         padding: 26px 0 26px 0;
+    }
+    section.bannerhomer {
+        height: auto;
+    }
+    .section-heading.text-center p {
+        font-size: 11px;
+        line-height: 19px;
+        width: 91%;
+    }
+    .sec-gen-more-rev .rvn-card {
+        height: 526px;
+        width: 100%;
+        background-size: auto;
+        /* background-size: cover; */
+        /* min-height: 463px; */
+        /* max-height: 800px; */
+        /* display: flex
+    ; */
+        /* align-items: center; */
+        /* justify-content: center; */
+        /* position: relative; */
+    }
+    .rvn-desc {
+        padding: 23px;
+    }
+    .testimonial_profile_img {
+        display: none;
+    }
+    .gettouchtext {
+        text-align: center;
+    }
+}
+
+/* Tablets (768px to 1024px) */
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+    .counter_logo span {
+        font-size: 7px;
+       font-weight: 900;
+    }
+    .bannertext h5 {
+         font-size: 14px;
+    }
+    .bannertext h1 {
+         font-size: 33px;
+        line-height: 36px;
+    }
+    .bannertext p {
+         font-size: 13px;
+        line-height: 18px;
+    }
+    ul.main-list li {
+         font-size: 13px;
+        line-height: 7px;
+         margin-bottom: 11px;
+    }
+    /*button css for tab */
+    .bannerbtnlist a {
+         font-size: 14px;
+        line-height: 15px;
+        padding: 16px 27px 16px 27px;
+    }
+    .chatlist ul li:nth-child(2) a span {
+        font-size: 10px;
+    }
+    span.icon {
+        width: 71px;
+        left: -41px;
+    }
+    .chatlist ul li:nth-child(2) a {
+        font-size: 11px;
+    }
+    .chatlist ul li:nth-child(1) a{
+        font-size: 11px;
+    }
+    .chatlist ul li:nth-child(1) a span {
+        font-size: 10px;
+    }
+    .chatlist ul li a{
+        padding: 8px 4px;
+    }
+    .getbtn {
+        font-size: 14px !important;
+        line-height: 15px !important;
+        padding: 16px 27px 16px 27px !important;
+    }
+    .chatlist ul {
+        display: -webkit-inline-box;
+        flex-direction: unset;
+        flex-wrap: unset;
+        justify-content: unset;
+    }
+    .chatlist {
+        text-align: end;
+    }
+    .girlimg {
+        width: 127%;
+        position: unset;
+
+    }
+    .girlimg img {
+        width: 133%;
+     }
+     section.bannerhomer {
+        height: unset;
+        overflow-x: hidden;
+     }
+     .reviewlist {
+        display: none;
+    }
+    .mainlogosbox {
+        top: -8px;
+    }
+    .prtflo {
+        padding: 26px 0 50px;
+    }
+    .prtflo h2 {
+        font-size: 29px;
+        line-height: 35px;
+    }
+    .tbsinner-sec p {
+         padding: 0px 0 0px 0;
+        font-size: 13px;
+    }
+    ul.dots-ul li {
+        font-size: 9px;
+    }
+    .section-heading h3{
+    font-size: 29px;
+    line-height: 35px;
+}
+.section-heading.text-center p {
+     font-size: 13px;
+    line-height: 21px;
+}
+.section-heading.text-center h5{
+    font-size: 13px;
+}
+ul.portfolio-box-wrapper {
+    justify-content: center;
+}
+
+.nav-tabs.portfolio-nav .nav-link {
+    font-size: 12px;
+}
+ul#myTab {
+    gap: 11px;
+}
+.price-plan .sec-title h2{
+    font-size: 29px;
+    line-height: 35px;
+}
+.price-plan .sec-title .para{
+font-size: 13px;
+}
+.price-plan .plan-listing .price-item .head h3 {
+    font-size: 19px;
+    line-height: 29px;
+    margin-bottom: 7px;
+}
+.price-plan .plan-listing .price-item .head h5 {
+    font-size: 17px;
+}
+
+.price-plan .plan-listing .price-item .body .price .old-price {
+    font-size: 15px;
+}
+.price-plan .plan-listing .price-item .body .price .new-price {
+    font-size: 35px;
+}
+.price-plan .plan-listing .price-item .body ul li {
+    font-size: 12px;
+}
+.price-plan .plan-listing .price-item {
+    min-height: auto;
+}
+.sec-gen-more-rev .rvn-card .rvn-desc .d-h {
+    line-height: 29px;
+    font-size: 18px;
+}
+.sec-gen-more-rev .rvn-card .rvn-desc .d-p {
+    font-size: 12px;
+    line-height: 20px;
+}
+.sec-gen-more-rev .rvn-card .rvn-img .rvn-thumb {
+    max-width: 559px;
+    min-width: 474px;
+    min-height: 448px;
+    max-height: 459px;
+}
+.sec-gen-more-rev .rvn-card .rvn-desc .btn-grp .number-btn {
+    height: 42px;
+    width: 139px;   
+    font-size: 12px;
+}
+.sec-gen-more-rev .rvn-card .rvn-desc .btn-grp .req-btn {
+    height: 42px;
+    width: 139px;
+    font-size: 12px;
+}
+.sec-gen-more-rev .rvn-card .rvn-desc .btn-grp {
+    width: 108%;
+}
+.sec-gen-more-rev .rvn-card {
+    height: 383px;
+    width: 100%;
+    background-size: unset;
+    min-height: unset;
+    max-height: unset;
+}
+.testimonials_sec h2 {
+    font-size: 31px;
+    width: 88%;
+}
+.testimonial_profile_img {
+    display: none;
+}
+.gettouchtext h3 {
+    text-align: center;
+}
+.gettouchtext p {
+    text-align: center;
+    width: 100%;
+}
+.gettouchtext a {
+    text-align: center;}
+.gettouchtext {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.footer_main .footer_start {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.footer_main .footer_start p {
+    text-align: center;
+}
+footer_main h4 {
+    text-align: center;
+}
+ul.url_link {
+    text-align: center;
+}
+.footerimg {
+    display: none;
+}
+.footer_main {
+    padding: 0px;
+}
+.footer_end {
+    padding-top: 26px;
+}
+}   
+/* Laptops (1025px to 1280px) */
+@media only screen and (min-width: 1280px){
+    .prtflo h2 {
+        font-size: 34px;
+        padding: 27px 0 19px;
+       }
+       .price-plan .plan-listing .price-item .head h3 {
+        font-size: 16px;
+        font-weight: 900;
+       }
+       .price-plan .plan-listing .price-item .head h5 {
+        font-size: 17px;
+       }
+       .price-plan .plan-listing .price-item .body .price .new-price {
+        font-size: 40px;
+       }
+       .price-plan .plan-listing .price-item .body .price .old-price {
+        font-size: 17px;
+       }
+       .price-plan .plan-listing .price-item .body .price {
+        justify-content: space-evenly;
+    }
+    .sec-gen-more-rev {
+         padding: 43px 0 62px 0;
+    }    
+    .price-plan .plan-listing .price-item {
+        min-height: auto;
+    }
+    .price-plan .plan-listing .price-item .body ul li {
+        font-size: 13px;
+        line-height: 24px;
+    }
+}
+/* Laptops (1025px to 1280px) */
+@media only screen and (min-width: 1025px) and (max-width: 1280px) {
+    .prtflo {
+        padding: 128px 0 50px;
+   }
+
+   .bannertext h1{
+    font-size: 23px;
+    line-height:31px ;
+    }
+    section.portfolio {
+        margin: 0px 0;}
+        .price-plan {
+            padding: 50px 0 31px;
+         }
+   .col-xl-6.col-xxl-6.col-md-12.col-lg-6.col-md-6.col-12.footer-clmn {
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+}
+.prtflo ul.tbing {
+    margin: 0px 0 25px;
+}
+ul.dots-ul li {
+ 
+    font-size: 15px;
+}
+.sec-gen-more-rev .rvn-card {
+    height: 473px;
+    width: 100%;
+}
+.sec-gen-more-rev .rvn-card .rvn-img .rvn-thumb {
+    max-width: 676px;
+    min-width: 587px;
+    min-height: 490px;
+    max-height: 465px;
+    position: absolute;
+    top: -45px;
+    left: -100px;
+}
+.sec-gen-more-rev .rvn-card .rvn-desc .d-h {
+    line-height: 30px;
+    font-size: 23px;
+}
+.sec-gen-more-rev .rvn-card .rvn-desc .btn-grp {
+    width: 100%;
+}
+section.bannerhomer {
+    height: 119vh;
+}
+.mainlogosbox {
+    top: 14px;
+}
+}
+
+
+
+

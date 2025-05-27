@@ -5,41 +5,16 @@
          <div class="row">
             <div class="col-lg-5 col-md-12">
                <div class="anim-banner-txt" data-aos="fade-right" data-aos-duration="2000">
-                  <h1>Offering Engaging</h1>
-                  <h2>Website Design & Development</h2>
-                  <p>Our skilled team, after going into each detail, provides a website design that helps brands and
-                     businesses to convert a website to sales, leads, and calls. Our web designing services are
-                     specifically designed to grow your business and leave an everlasting impression.</p>
-                  <div class="form-banner" data-form-type="signup_form">
-                     <form class="" method="POST" action="mail.php"
-                        novalidate="novalidate">
-                        <input type="hidden" class="pkg_nme" name="package">
-                        <input type="hidden" name="link" value="<?php echo $link ?>">
-                        <div class="row">
-                           <div class="col-md-12">
-                              <ul>
-                                 <li><input name="name" minlength="2" type="text" placeholder="Name" required /></li>
-                                 <li><input name="phone" id="phone-coun" required="" type="text" minlength="10"
-                                       maxlength="10" autocomplete="off"
-                                       onkeypress="return ((event.charCode >= 48 &amp;&amp; event.charCode <= 57) )"
-                                       placeholder="Phone Number"></li>
-                                 <li><input type="email" name="email" placeholder="Email Address" required></li>
-                              </ul>
-                           </div>
-                           <div class="col-md-12">
-                              <div id="formResult" class="slideformResult"></div>
-                              <input class="pkg_btn submit" data-sku="Offering Engaging Form " name="submit"
-                                 type="submit" value="Submit Now" required />
-                              <a href="javascript:toggleTawkChat();" class="btn btn-live chatt"><i
-                                    class='fas fa-comment'></i>Live Chat</a>
-                           </div>
-                        </div>
-                     </form>
-                  </div>
+                  <h1>Searching for a Web Development Company in USA That Transforms Ideas into Digital Masterpieces?
+                  </h1>
+
+                  <p>Need a web development company in the USA that brings your ideas to life? Logo Visioneer creates stunning, functional websites customized to your business needs no matter you have wholesale, e-commerce, or retail business. </p>
+
+                  <a href="javascript:void(0);" class="btn btn-request" data-toggle="modal" data-target="#req_qoute">Request a Quote</a>
                </div>
             </div>
             <div class="web-design-img-box">
-               <img src="public/assets/website/images/web-design-banner-img.png" alt="" class="img-fluid" />
+               <img src="public/assets/website/images/web-design-banner-img.webp" alt="" class="img-fluid" />
             </div>
          </div>
       </div>
@@ -67,14 +42,10 @@
       <div class="row justify-content-center">
          <div class="col-md-7">
             <div class="services-head-box" data-aos="fade-down" data-aos-duration="2000">
-               <h2>Setting The Standards for the web design industry</h2>
-               <p>With the experience of more than a decade, the skilled and proficient team of Logo Visioneer has always
-                  crafted remarkable web designs that are beyond the expectations of customers. With art technology and
-                  advanced business practices, we ensure maximum engagement on the customer sites. Our productive design
-                  team not only focuses on web efficiency but also makes it attractive and pleasing to the eye. Good
-                  research of market competition and survey time for each project allows us to come up with innovative
-                  ideas and also enables us to make a remarkable piece of art. </p>
-               <a href="javascript:void(0);" class="btn btn-submit"  data-sku="Let's Get Started" data-toggle="modal" data-target="#req_qoute">lets
+               <h2>Why Your Business Needs a Professional Web Development Company?</h2>
+               <p>A well-built website is your digital storefront. With 88% of consumers judging businesses by their online presence, investing in expert web development services that boosts credibility and drives conversions.
+               </p>
+               <a href="javascript:void(0);" class="btn btn-submit" data-sku="Let's Get Started" data-toggle="modal" data-target="#req_qoute">lets
                   get started</a>
             </div>
          </div>
@@ -85,42 +56,36 @@
          <div class="row content-serv-sec-responsive-slider">
             <div class="col-lg-3 col-md-12">
                <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
-                  <img src="public/assets/website/images/web-content-serv-img-1.png" alt="" class="img-fluid" />
-                  <h3>UI/UX Website</h3>
-                  <p>The website's target is to provide the visitor with relevant information, place an order, or offer
-                     whatever the website's purpose is. We take pride in the way we are creating easiness for our
-                     clients through incredible designs, having premium quality, aesthetic designs, efficient
-                     navigation, and user-centric approach.</p>
+                  <img src="public/assets/website/images/ui-ux.webp" alt="" class="icon-img img-fluid" />
+                  <h2>UI/UX Website</h2>
+                  <p>Craving a website that looks fantastic and feels intuitive? Logo Visioneer crafts immersive, user-friendly designs customized to your brand.
+                  </p>
                </div>
             </div>
             <div class="col-lg-3 col-md-12">
                <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
-                  <img src="public/assets/website/images/web-content-serv-img-2.png" alt="" class="img-fluid" />
-                  <h3>B2B And B2C Portals</h3>
-                  <p>One of the beloved services that we relish working on is digital/online portals that provide
-                     information and perform certain tasks that the user is specifically looking for. We help you
-                     amalgamate various business procedures at a point and connect them to handle complicated things
-                     effectively and efficiently.</p>
+                  <img src="public/assets/website/images/b2b.webp" alt="" class="icon-img img-fluid" />
+                  <h2>B2B and B2C Portals
+                  </h2>
+                  <p>Streamline operations with custom B2B/B2C portals designed to simplify interactions, increase efficiency, and scale your business seamlessly.
+                  </p>
                </div>
             </div>
             <div class="col-lg-3 col-md-12">
                <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
-                  <img src="public/assets/website/images/web-content-serv-img-3.png" alt="" class="img-fluid" />
-                  <h3>e-Commerce Website</h3>
-                  <p>One of the most popular websites in almost all businesses nowadays is those that help them perform
-                     sales and product displays. That's the reason why we recommend our customers to get an e-commerce
-                     site if they have products to sell. Logo Visioneer designed e-commerce site will help you improve your
-                     sales and leads and also enable you to achieve your sales target.</p>
+                  <img src="public/assets/website/images/e-commercce.webp" alt="" class="icon-img img-fluid" />
+                  <h2>E-Commerce Website
+                  </h2>
+                  <p>Elevate your online store with feature-rich, scalable e-commerce websites that maximize sales and enhance customer satisfaction.
+                  </p>
                </div>
             </div>
             <div class="col-lg-3 col-md-12">
                <div class="content-serv-box" data-aos="zoom-in" data-aos-duration="2000">
-                  <img src="public/assets/website/images/web-content-serv-img-4.png" alt="" class="img-fluid" />
-                  <h3>Blog Website</h3>
-                  <p>Are you one of those who want to share their ideas with the world and want to see those ideas cause
-                     a ripple in the ocean? Then a blog site is what you are looking for. Our efficient designers are
-                     skilled in crafting a perfect blog website that ensures your words are heard and appreciated
-                     worldwide.</p>
+                  <img src="public/assets/website/images/blog.webp" alt="" class="icon-img img-fluid" />
+                  <h2>Blog Website</h2>
+                  <p>Share your voice with a stunning, functional blog that blends aesthetics and performance to captivate your audience.
+                  </p>
                </div>
             </div>
          </div>
@@ -495,123 +460,155 @@
       <a href="pricing.php" class="btn btn-view-pack">view all packages</a>
    </div>
 </section>
-<section class="gallery-sec web-design-gallery-sec">
-   <div class="column_lines">
-      <div class="column"></div>
-      <div class="column"></div>
-      <div class="column"></div>
-      <div class="column"></div>
-      <div class="column"></div>
-   </div>
-   <div class="container-fluid">
-      <div class="process-head-box" data-aos="fade-down" data-aos-duration="2000">
-         <h2>A glimpse of our recent work</h2>
-         <p>With our skilled and experienced team, we have spent years in digital marketing <br />and designing with our
-            customers to deliver premium quality work. Take a glance at our recent work.</p>
-      </div>
+<section class="web-desing-portf">
+   <div class="tab-pane portfolio show active  fade" id="web-design">
       <div class="row">
          <div class="col-md-4 col-sm-6 p-0">
-            <div class="gallery-img-box">
-               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/webdesign/1.jpg">
-                  <img src="public/assets/website/images/portfolio/webdesign/1.jpg">
+            <div class="pr-div">
+               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/webdesign/1.webp">
+                  <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/webdesign/1.webp">
                </a>
             </div>
          </div>
          <div class="col-md-4 col-sm-6 p-0">
-            <div class="gallery-img-box">
-               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/webdesign/2.jpg">
-                  <img src="public/assets/website/images/portfolio/webdesign/2.jpg">
+            <div class="pr-div">
+               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/webdesign/2.webp">
+                  <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/webdesign/2.webp">
                </a>
             </div>
          </div>
          <div class="col-md-4 col-sm-6 p-0">
-            <div class="gallery-img-box">
-               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/webdesign/3.jpg">
-                  <img src="public/assets/website/images/portfolio/webdesign/3.jpg">
+            <div class="pr-div">
+               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/webdesign/3.webp">
+                  <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/webdesign/3.webp">
                </a>
             </div>
          </div>
          <div class="col-md-4 col-sm-6 p-0">
-            <div class="gallery-img-box">
-               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/webdesign/4.jpg">
-                  <img src="public/assets/website/images/portfolio/webdesign/4.jpg">
+            <div class="pr-div">
+               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/webdesign/4.webp">
+                  <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/webdesign/4.webp">
                </a>
             </div>
          </div>
          <div class="col-md-4 col-sm-6 p-0">
-            <div class="gallery-img-box">
-               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/webdesign/5.jpg">
-                  <img src="public/assets/website/images/portfolio/webdesign/5.jpg">
+            <div class="pr-div">
+               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/webdesign/5.webp">
+                  <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/webdesign/5.webp">
                </a>
             </div>
          </div>
          <div class="col-md-4 col-sm-6 p-0">
-            <div class="gallery-img-box">
-               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/webdesign/6.jpg">
-                  <img src="public/assets/website/images/portfolio/webdesign/6.jpg">
+            <div class="pr-div">
+               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/webdesign/6.webp">
+                  <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/webdesign/6.webp">
                </a>
             </div>
          </div>
          <div class="col-md-4 col-sm-6 p-0">
-            <div class="gallery-img-box">
-               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/webdesign/7.jpg">
-                  <img src="public/assets/website/images/portfolio/webdesign/7.jpg">
+            <div class="pr-div">
+               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/webdesign/7.webp">
+                  <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/webdesign/7.webp">
                </a>
             </div>
          </div>
          <div class="col-md-4 col-sm-6 p-0">
-            <div class="gallery-img-box">
-               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/webdesign/8.jpg">
-                  <img src="public/assets/website/images/portfolio/webdesign/8.jpg">
+            <div class="pr-div">
+               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/webdesign/8.webp">
+                  <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/webdesign/8.webp">
                </a>
             </div>
          </div>
          <div class="col-md-4 col-sm-6 p-0">
-            <div class="gallery-img-box">
-               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/webdesign/9.jpg">
-                  <img src="public/assets/website/images/portfolio/webdesign/9.jpg">
+            <div class="pr-div">
+               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/webdesign/9.webp">
+                  <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/webdesign/9.webp">
                </a>
             </div>
          </div>
          <div class="col-md-4 col-sm-6 p-0">
-            <div class="gallery-img-box">
-               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/webdesign/9.jpg">
-                  <img src="public/assets/website/images/portfolio/webdesign/9.jpg">
+            <div class="pr-div">
+               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/webdesign/10.webp">
+                  <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/webdesign/10.webp">
                </a>
             </div>
          </div>
          <div class="col-md-4 col-sm-6 p-0">
-            <div class="gallery-img-box">
-               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/webdesign/10.jpg">
-                  <img src="public/assets/website/images/portfolio/webdesign/10.jpg">
+            <div class="pr-div">
+               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/webdesign/11.webp">
+                  <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/webdesign/11.webp">
                </a>
             </div>
          </div>
          <div class="col-md-4 col-sm-6 p-0">
-            <div class="gallery-img-box">
-               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/webdesign/11.jpg">
-                  <img src="public/assets/website/images/portfolio/webdesign/11.jpg">
+            <div class="pr-div">
+               <a data-fancybox="gallery" href="public/assets/website/images/portfolio/webdesign/12.webp">
+                  <img class="lazy" src="assests/img/" data-src="public/assets/website/images/portfolio/webdesign/12.webp">
                </a>
             </div>
          </div>
       </div>
-      <a href="javascript:void(0);" class="pkg_btn btn btn-submit" data-sku="Let's Get Started" data-toggle="modal"
-         data-target="#req_qoute">lets get
-         started</a>
    </div>
 </section>
+<section>
+   <div class="container">
+
+      <div class="price-head-box aos-init aos-animate" data-aos="fade-down" data-aos-duration="3000">
+         <h2>4 Steps to Building</br> Digital Excellence
+         </h2>
+      </div>
+      <div class="row">
+         <div class="col-lg-8 col-md-12">
+            <div class="how-we-img-box">
+               <img src="public/assets/website/images/how-we-img.webp" alt="" class="img-fluid" />
+            </div>
+         </div>
+         <div class="col-lg-4 col-md-12">
+            <div class="v-anim-process-box logo-process-box">
+               <h3>Discover Your Vision</h3>
+               <p>We listen, analyze, and understand your needs to shape a development strategy aligned with your goals.</p>
+            </div>
+         </div>
+      </div>
+      <div class="row">
+         <div class="col-lg-4 col-md-12">
+            <div class="v-anim-process-box anim-2 logo-process-box">
+               <h3>Craft the Blueprint</h3>
+               <p>Design visually stunning, functional prototypes that align with your brand’s tone and deliver seamless user experiences.</p>
+            </div>
+         </div>
+         <div class="col-lg-4 col-md-12">
+            <div class="v-anim-process-box anim-3 logo-process-box">
+               <h3>Develop and Deploy</h3>
+               <p>Transform concepts into fully-functional, responsive websites and launch them with precision and perfection.</p>
+            </div>
+         </div>
+         <div class="col-lg-4 col-md-12">
+            <div class="v-anim-process-box anim-4 logo-process-box">
+               <h3>Refine for Growth
+               </h3>
+               <p>Optimize performance continuously to ensure your website evolves with your business and market trends.
+
+               </p>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+
 
 <section class="second-contact-sec">
    <div class="container">
       <div class="row align-items-center">
          <div class="col-lg-6 col-md-12">
             <div class="second-contact-head">
-               <h2>Are You Ready To <br />Place Your Order?</h2>
+               <h2>Let’s Create A Digital Masterpiece</br>
+                  With A Professional Web Development Agency</h2>
             </div>
          </div>
          <div class="col-lg-3 col-md-12">
             <a href="<?php echo $phone_link ?>" class="btn-tel">
-               <img src="public/assets/website/images/second-comtact-img-1.png" alt="" class="img-fluid" />
+               <img src="public/assets/website/images/second-comtact-img-1.webp" alt="" class="img-fluid" />
                <div class="second-con-box">
                   <h5>call us at</h5>
                   <p>
@@ -626,36 +623,8 @@
       </div>
    </div>
 </section>
-<?php include 'assets/layout/testimonial.php' ?>
 <?php include 'assets/layout/get-in-touch.php' ?>
-<section class="contact-us-sec">
-   <div class="container">
-      <div class="row">
-         <div class="col-lg-6 col-md-12">
-            <div class="contact-left-box" data-aos="fade-right" data-aos-duration="2000">
-               <h3>contact us</h3>
-               <h4>Let's write your <br /> story, together.</h4>
-            </div>
-         </div>
-         <div class="col-lg-6 col-md-12">
-            <div class="contact-right-box" data-aos="fade-left" data-aos-duration="2000">
-               <p>We do not tell you our story. We write it together. Partnering with us means a seat at the table where
-                  you will be heard.</p>
-               <div class="contact-bottom-info-box">
-                  <a href="contact-us.php" class="btn btn-ctn">contact us</a>
-                  <a href="<?php echo $phone_link ?>" class="btn-tel">
-                     <img class="lazy img-fluid" src="assets/img/second-comtact-img-1.png">
-                     <div class="second-con-box">
-                        <h5>call us at</h5>
-                        <p>
-                           <?php echo $phone ?>
-                        </p>
-                     </div>
-                  </a>
-               </div>
-            </div>
-         </div>
-      </div>
-   </div>
-</section>
+<?php include 'assets/layout/cta.php' ?>
+<?php include 'assets/layout/testimonial.php' ?>
+
 <?php include 'assets/layout/footer.php' ?>
